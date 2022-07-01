@@ -1,0 +1,13 @@
+{% block page_title %}Products page{% endblock %}
+
+{% block content %}
+    <h1>Available products</h1>
+    <ul style="list-style-type: none;">
+        {% for product in products %}
+            <li style="width: 50%;">
+                <img src="{{ product.image_url }}" width="100" />
+                {{ product.price  }}
+            </li>
+        {% endfor %}
+    </ul>
+{% endblock %}

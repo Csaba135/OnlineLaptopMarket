@@ -9,12 +9,20 @@ import time
 
 def PcGarage():
     driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
-    driver.get('https://www.pcgarage.ro/')
-    product_menu_pcgarage = driver.find_element(By.XPATH, '//a[@class="menu_accordion_title"]')
-    hover_action = ActionChains(driver).move_to_element(product_menu_pcgarage)
-    hover_action.perform()
-    laptop_menu_pcgarage = driver.find_element(By.XPATH, '//*[contains(@href, "https://www.pcgarage.ro/notebook-laptop")]')
-    ultrabook_menu_pcgarage = driver.find_element(By.XPATH, '//*[contains(@href, "https://www.pcgarage.ro/ultrabook")]')
-    laptop_menu_pcgarage.click()
-    time.sleep(10)
-PcGarage()
+    driver.get('https://www.pcgarage.ro/notebook-laptop/')
+    try:
+        cookie_button=driver.find_element(By.XPATH,'//a[contains(@id,"cookie_agree")]')
+    except:
+        pass
+    if cookie_button:
+        cookie_button.click()
+    time.sleep(2)
+    laptops = driver.find_elements(By.XPATH, '//div[contains(@class,"product_box_container")]')
+    print("Pc")
+    for index, laptop in enumerate(laptops):
+        link = laptop.find_element(By.TAG_NAME, 'a').get_attribute('href')
+        driver.execute_script(f"window.open(\"{link}\")")
+        driver.switch_to.window(driver.window_handles[-1])
+        time.sleep(30)
+        driver.close()
+        driver.switch_to.window(driver.window_handles[0])
