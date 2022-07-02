@@ -1,1 +1,13 @@
-<h1>Homepage</h1>
+<!DOCTYPE html>
+<html lang="eu-US">
+<head>
+<title>Az életem három része</title>
+<meta charset="utf-8">
+</head>
+<body bgcolor="#2F9CDC">
+<h1><a href="{% url 'products:all_products' %}">Products</a></h1>
+<h1><a href="{% url 'products:all_products' %}">Stores</a></h1>
+{% load static %}
+<img src="{% static 'static_laptop1.png' %}">
+<img src="{% static 'static_laptop2.png' %}">
+<img src="{% static 'static_laptop3.png' %}">

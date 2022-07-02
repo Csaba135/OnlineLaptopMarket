@@ -7,6 +7,7 @@
             <li style="width: 50%;">
                 <img src="{{ product.image_url }}" width="100" />
                 {{ product.price  }}
+                <a href="{% url 'products:product_details' product.id %}">View details</a>
             </li>
         {% endfor %}
     </ul>

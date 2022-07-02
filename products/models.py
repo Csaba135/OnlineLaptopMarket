@@ -14,6 +14,10 @@ class Store(models.Model):
     def store_id_s(self):
         return self.id
 
+    @property
+    def name_to_compare(self):
+        return self.name
+
 class Product(models.Model):
     store = models.ForeignKey(Store, on_delete=models.CASCADE)
     title = models.CharField(max_length=255,unique=False)
