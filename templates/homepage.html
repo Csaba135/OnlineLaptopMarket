@@ -1,13 +1,13 @@
-<!DOCTYPE html>
-<html lang="eu-US">
-<head>
-<title>Az életem három része</title>
-<meta charset="utf-8">
-</head>
-<body bgcolor="#2F9CDC">
-<h1><a href="{% url 'products:all_products' %}">Products</a></h1>
-<h1><a href="{% url 'products:all_products' %}">Stores</a></h1>
-{% load static %}
-<img src="{% static 'static_laptop1.png' %}">
-<img src="{% static 'static_laptop2.png' %}">
-<img src="{% static 'static_laptop3.png' %}">
+{% extends 'base.html' %}
+{% block page_title %}Homepage{% endblock %}
+{% block content %}
+<h1>This is the homepage content.</h1>
+<h4>Some of our products:</h4>
+        {% for product in products %}
+            <ul style="width: 50%;">
+                <a href="{% url 'products:product_details' product.id %}"><img src="{{ product.image_url }}" width="100" /></a>
+                <p>{{product.price}} Lei</p>
+                <p>{{product.title}}</p>
+            </ul>
+        {% endfor %}
+{% endblock %}

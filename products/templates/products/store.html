@@ -1,0 +1,16 @@
+<h1>Available products from {{store.name}}</h1>
+<h3><a href="{% url 'homepage' %}">Homepage</a></h3>
+    <ul style="list-style-type: none;">
+        {% for product in products %}
+            <ul style="width: 50%;">
+                <a href="{% url 'products:product_details' product.id %}"><img src="{{ product.image_url }}" width="100" /></a>
+                <p>
+                    <strong>Name:</strong> {{ product.title }}
+                </p>
+                <p>
+                    <strong>Price:</strong> {{ product.price }} Lei
+                </p>
+                <br><br><br>
+            </ul>
+        {% endfor %}
+    </ul>

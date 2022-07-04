@@ -1,0 +1,17 @@
+{% extends 'base.html' %}
+{% block page_title %}Stores page{% endblock %}
+{% block content %}
+<h1>Available stores</h1>
+<h3><a href="{% url 'homepage' %}">Homepage</a></h3>
+    <ul style="list-style-type: none;">
+        {% for store in stores %}
+            <ul style="width: 50%;">
+                <p>
+                    <strong>Name:</strong> {{ store.name }}
+                </p>
+                <h5><a href="{% url 'stores:all_products_from_store' store.id %}">View all products from this store</a></h5>
+                <br><br><br>
+            </ul>
+        {% endfor %}
+    </ul>
+{% endblock %}

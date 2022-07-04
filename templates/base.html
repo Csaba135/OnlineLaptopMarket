@@ -1,0 +1,45 @@
+<html>
+<head>
+    <title>{% block page_title %}{% endblock %}</title>
+    <style>
+        body {
+            margin: 0;
+        }
+
+        header {
+            background-color: #eee;
+            border-bottom: 1px solid #aaa;
+            padding: 20px 20px;
+        }
+
+        main {
+            padding: 20px 20px;
+        }
+
+        .actions-feedback .success {
+            color: green;
+        }
+
+        .actions-feedback .error {
+            color: red;
+        }
+
+        .actions-feedback .warning {
+            color: orange;
+        }
+    </style>
+</head>
+<body>
+<header>
+    <div>
+        {% include 'navigation.html' %}
+    </div>
+</header>
+<main>
+    {% include 'actions_feedback.html' %}
+    {% block content %}{% endblock %}
+</main>
+{% block bodyjavascript %}
+{% endblock %}
+</body>
+</html>

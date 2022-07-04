@@ -1,7 +1,27 @@
+<h1>Product Page</h1>
+<h3><a href="{% url 'homepage' %}">Homepage</a></h3>
+<img src="{{ product.image_url }}" width="200"/>
+<br>
+<strong>Name:</strong> {{ product.title }} <br>
+<strong>Price:  </strong>{{ product.price }} Lei<br>
+<a href="{{product.link}}">Buy it here</a>
+<p>All details:</p>
+{% if product.normal_price != 0.00%}
+    <p><strong>Normal price:</strong> {{product.normal_price}} Lei</p>
+{% endif%}
+{% if product.processor_type %}
+    <p><strong>Processor:</strong> {{product.processor_type}}</p>
+{% endif%}
+{% if product.memory_type %}
+    <p><strong>Memory:</strong> {{product.memory_type}}</p>
+{% endif%}
+{% if product.RAM %}
+    <p><strong>RAM:</strong> {{product.RAM}}</p>
+{% endif%}
+{% if product.GPU %}
+    <p><strong>GPU:</strong> {{product.GPU}}</p>
+{% endif%}
+{% if product.screen_resolution %}
+    <p><strong>Screen resolution:</strong> {{product.screen_resolution}}</p>
+{% endif%}
 
-{% block page_title %}Product page{% endblock %}
-
-{% block content %}
-    <img src="{{ product.image_url }}" width="200"/>
-    <strong>Name: {{ product.title }} </strong>
-{% endblock %}
