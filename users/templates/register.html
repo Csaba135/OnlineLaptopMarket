@@ -1,6 +1,8 @@
+{% load crispy_forms_tags %}
 <h1>Create new account</h1>
     <form method="post" action="{% url 'users:register' %}">
         {% csrf_token %}
-        {{ form.as_p }}
+        {{ form|crispy }}
         <input type="submit" value="Register" />
     </form>
+<h3>Already have an account?<a href="{% url 'users:login' %}">Click Here</a></h3>

@@ -1,0 +1,23 @@
+{% extends 'base.html' %}
+{% load crispy_forms_tags %}
+{% block page_title %}Product page{% endblock %}
+{% block content %}
+<h1>{{user.email}} Wishlist</h1>
+    <ul>
+        {% for product in wishlist %}
+            <ul style="width: 100%;">
+                <a href="{% url 'products:product_details' product.product.id %}"><img src="{{ product.product.image_url }}" width="100" /></a>
+                <p>
+                    <strong>Name:</strong> {{ product.product.title }}
+                </p>
+                <p>
+                    <strong>Price:</strong> {{ product.product.price }} Lei
+                </p>
+                <p>
+                    <strong>Magasine:</strong> {{ product.product.store.name }}
+                </p>
+                <br><br><br>
+            </ul>
+        {% endfor %}
+    </ul>
+{%endblock%}

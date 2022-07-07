@@ -74,11 +74,11 @@ TEMPLATES = [
                 'django.template.context_processors.request',
                 'django.contrib.auth.context_processors.auth',
                 'django.contrib.messages.context_processors.messages',
+                'django.template.context_processors.request',
             ],
         },
     },
 ]
-
 
 WSGI_APPLICATION = 'online_store.wsgi.application'
 
@@ -146,5 +146,7 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 LOGIN_REDIRECT_URL = '/'
 
-CRISPY_TEMPLATE_PACK='uni_form'
+CRISPY_TEMPLATE_PACK= 'bootstrap4'
+
+AUTH_USER_MODEL = 'users.AuthUser'
 

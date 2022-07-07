@@ -1,5 +1,7 @@
+{% extends 'base.html' %}
+{% block page_title %}{{store.name}} page{% endblock %}
+{% block content %}
 <h1>Available products from {{store.name}}</h1>
-<h3><a href="{% url 'homepage' %}">Homepage</a></h3>
     <ul style="list-style-type: none;">
         {% for product in products %}
             <ul style="width: 50%;">
@@ -14,3 +16,4 @@
             </ul>
         {% endfor %}
     </ul>
+{% endblock %}

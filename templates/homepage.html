@@ -1,6 +1,9 @@
 {% extends 'base.html' %}
 {% block page_title %}Homepage{% endblock %}
 {% block content %}
+{% if wishlist%}
+<h3><a href="{% url 'products:wishlist'%}">Wishlist ({{wishlist}})</a></h3>
+{%endif%}
 <h1>This is the homepage content.</h1>
 <h4>Some of our products:</h4>
         {% for product in products %}
@@ -8,6 +11,7 @@
                 <a href="{% url 'products:product_details' product.id %}"><img src="{{ product.image_url }}" width="100" /></a>
                 <p>{{product.price}} Lei</p>
                 <p>{{product.title}}</p>
+                <p>{{product.store.name}}</p>
             </ul>
         {% endfor %}
 {% endblock %}

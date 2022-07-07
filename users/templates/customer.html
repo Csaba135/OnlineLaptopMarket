@@ -1,1 +1,37 @@
-<h1>Hello Customer</h1>
+{% extends 'base.html' %}
+{% load crispy_forms_tags %}
+{% block title %}Customer{% endblock %}
+
+{% block content %}
+    <h1>Customer page</h1>
+    {% if user.first_name != "" %}
+    <h2><strong>{{user.first_name}} {{user.last_name}}</strong></h2>
+    {%else%}
+    <h2><strong>{{user.email}}</strong></h2>
+    {%endif%}
+    {% if user.customer.age != null %}
+        <p><strong>Age:</strong> {{user.customer.age}}</p>
+        <p><strong>Nationality:</strong> {{user.customer.nationality}}</p>
+        <p><strong>Date Of Birth:</strong> {{user.customer.date_of_birth}}</p>
+        <a href="{% url 'users:change_details' %}"><button>Change your details</button></a>
+    {%else%}
+    <hr />
+    <form method="post" action="{%url 'users:customer'%}">
+        {% csrf_token %}
+        {{ form1|crispy }}
+        <input type="submit" value="Change" />
+    </form>
+    {% endif%}
+    {% if user.first_name != "" %}
+<a href="{% url 'users:change_first_last_name' %}"><button>Change your name</button></a>
+    {%else%}
+    <hr />
+    <form method="post" action="{%url 'users:customer'%}">
+        {% csrf_token %}
+        {{ form2|crispy }}
+        <input type="submit" value="Change" />
+    </form>
+    {% endif%}
+<h3><a href="{% url 'users:change_password'%}"><button>Change Password</button></a></h3>
+<h3><a href="{% url 'users:delete_user' user.id %}"><button>Delete my account</button></a></h3>
+{% endblock %}

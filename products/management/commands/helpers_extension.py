@@ -31,3 +31,13 @@ def GetMagasineID(param1):
     for store in stores:
         if param1 == store.name_to_compare:
             return int(store.store_id_s)
+
+def GetEmailList(product_id):
+    wishlist=WishList.objects.filter(product=product_id)
+    notify=NotificationAboutProduct.objects.filter(product=product_id)
+    email_set=set()
+    for w in wishlist:
+        email_set.add(w.user.email)
+    for n in notify:
+        email_set.add(n.email)
+    return email_set

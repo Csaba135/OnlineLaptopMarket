@@ -8,7 +8,7 @@ from django.db import transaction, models
 from products.models import Product, Store, WishList, NotificationAboutProduct
 from django.contrib.auth.models import User
 from .send_mail_extension import SendMailCheaper, SendMailExpensive, SendMailSamePrice
-from .helpers_extension import CreateJsonList, CreateDBList, GetMagasineID
+from .helpers_extension import CreateJsonList, CreateDBList, GetMagasineID, GetEmailList
 
 class Command(BaseCommand):
     help = 'Import products from web scrapped application.'
@@ -39,18 +39,20 @@ class Command(BaseCommand):
                 if Product.objects.filter(title=specs['title']).filter(store_id=magasine_id).exists():
                     for product_title in products_in_db:
                         if specs['title'] == product_title:
-                            store=Store.objects.get(id=magasine_id)
                             product=Product.objects.filter(title=specs['title']).filter(store_id=magasine_id)
                             for p in product:
                                 if float(p.price_to_compare) > float(specs['price']):
-                                    # mai trebuie sa iau datele din wishlist
-                                   # SendMailCheaper(specs['price'], specs['title'])
+                                    email_list = list(GetEmailList(p.product_id))
+                                    if email_list:
+                                        SendMailCheaper(specs['price'], specs['title'],  email_list)
                                 elif float(p.price_to_compare) < float(specs['price']):
-                                    # mai trebuie sa iau datele din wishlist
-                                    #SendMailExpensive(specs['price'], specs['title'])
+                                    email_list = list(GetEmailList(p.product_id))
+                                    if email_list:
+                                        SendMailExpensive(specs['price'], specs['title'], email_list)
                                 else:
-                                    # mai trebuie sa iau datele din wishlist
-                                    #SendMailSamePrice(specs['price'], specs['title'])
+                                    email_list = list(GetEmailList(p.product_id))
+                                    if email_list:
+                                        SendMailSamePrice(specs['price'], specs['title'], email_list)
                             my_object = Product.objects.get(id=p.product_id)
                             my_object.price = specs['price']
                             my_object.normal_price = normal_price_if_exist
