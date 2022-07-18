@@ -1,6 +1,5 @@
 from products.models import Store, Product
-from django.shortcuts import render, Http404, get_object_or_404, redirect, reverse
-from django.core.paginator import Paginator
+from django.shortcuts import render, get_object_or_404
 
 def get_all_stores(request):
     stores = Store.objects.all()

@@ -1,6 +1,6 @@
 from django.contrib import admin
 from django.utils.html import format_html
-from products.models import Store, Product, WishList, NotificationAboutProduct
+from products.models import Store, Product
 
 @admin.register(Store)
 class StoreAdmin(admin.ModelAdmin):

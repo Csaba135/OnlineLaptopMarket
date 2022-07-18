@@ -2,7 +2,7 @@
   {
     "magasine": "Altex",
     "specs": {
-      "id": "f478e05f-a52b-4871-97db-e529ace96680",
+      "id": "3d9f30f7-8622-4539-906b-2bfd7fe9db3c",
       "title": "Laptop ALLVIEW AllBook H, Intel Celeron N4000 pana la 2.6GHz, 15.6\" Full HD, 4GB, SSD 256GB, Intel UHD Graphics 600, Free DOS, gri",
       "price": 1009.9,
       "processor_type": "Intel Celeron N4000",
@@ -16,9 +16,9 @@
   {
     "magasine": "Altex",
     "specs": {
-      "id": "05d605e9-9e7b-4b43-b28a-f4c34a9e9538",
+      "id": "cdb99651-1e9a-4579-913a-91a104a01b7c",
       "title": "Laptop HUAWEI MateBook D15, Intel Core i3-10110U pana la 4.1GHz, 15.6\" Full HD, 8GB, SSD 256GB, Intel UHD Graphics, Windows 10 Home, argintiu",
-      "price": 1799.9,
+      "price": 1999.9,
       "processor_type": "Intel Core i3 10110U",
       "memory_type": "SSD 256 GB",
       "RAM": "8 GB DDR4",
@@ -31,9 +31,9 @@
   {
     "magasine": "Altex",
     "specs": {
-      "id": "e1f04976-937f-49cc-b1aa-740980e18dd3",
+      "id": "2eeecf35-66f2-45fe-8478-5ded57d5f6f2",
       "title": "Laptop LENOVO IdeaPad 3 15IGL05, Intel Celeron N4020 pana la 2.8GHz, 15.6\" Full HD, 4GB, SSD 256GB, Intel UHD Graphics 600, Free Dos, Abyss Blue",
-      "price": 1009.9,
+      "price": 999.9,
       "processor_type": "Intel Celeron N4020",
       "memory_type": "SSD 256 GB",
       "RAM": "4 GB DDR4",
@@ -46,7 +46,7 @@
   {
     "magasine": "Altex",
     "specs": {
-      "id": "b58a7b21-b6fc-48f7-b39c-72e3defe06d1",
+      "id": "24304ee7-b417-4be5-b171-dc927b28912b",
       "title": "Laptop gaming LENOVO IdeaPad Gaming 3 15ACH6, AMD Ryzen 5 5600H pana la 4.2GHz, 15.6\" Full HD, 16GB, SSD 512GB, NVIDIA GeForce GTX 1650, Free DOS, negru",
       "price": 3249.9,
       "processor_type": "AMD Ryzen 5 5600H",
@@ -60,9 +60,9 @@
   {
     "magasine": "Altex",
     "specs": {
-      "id": "a62545f5-8a3d-454d-9617-c402366f22fa",
+      "id": "4f44f872-77a3-456f-9e93-edb4d5f38def",
       "title": "Laptop HUAWEI MateBook D15, Intel Core i5-1135G7 pana la 4.2GHz, 15.6\" Full HD, 8GB, SSD 512GB, Intel Iris Xe Graphics, Windows 11 Home, argintiu",
-      "price": 2448.9,
+      "price": 2699.9,
       "processor_type": "Intel Core i5 1135G7",
       "memory_type": "SSD 512 GB",
       "RAM": "8 GB DDR4",
@@ -75,9 +75,9 @@
   {
     "magasine": "Altex",
     "specs": {
-      "id": "fc05d5c5-ff51-4222-862d-a37392924078",
+      "id": "821542e7-3063-4535-b52e-7df6c8dcaf48",
       "title": "Laptop Gaming LENOVO Legion 5 15ACH6H, AMD Ryzen 5 5600H pana la 4.2GHz, 15.6\" Full HD, 16GB, SSD 512GB, NVIDIA GeForce RTX 3060 6GB, Free Dos, Phantom Blue",
-      "price": 4899.9,
+      "price": 4999.9,
       "processor_type": "AMD Ryzen 5 5600H",
       "memory_type": "SSD 512 GB",
       "RAM": "16 GB DDR4",
@@ -90,9 +90,9 @@
   {
     "magasine": "Altex",
     "specs": {
-      "id": "b9e98143-d61c-4aa0-9055-1ccf70423cdd",
+      "id": "956b1f80-384a-4874-b27b-e24a026ba53d",
       "title": "Laptop Gaming LENOVO Legion 5 15IMH6, Intel Core i5-10500H pana la 4.5GHz, 15.6\" Full HD, 16GB, SSD 512GB, NVIDIA GeForce RTX 3050 4GB, Free Dos, negru",
-      "price": 3399.9,
+      "price": 3899.9,
       "processor_type": "Intel Core i5 10500H",
       "memory_type": "SSD 512 GB",
       "RAM": "16 GB DDR4",
@@ -104,9 +104,9 @@
   {
     "magasine": "Altex",
     "specs": {
-      "id": "7dc40c7c-d22a-447f-97a0-0d64265f100d",
+      "id": "ddaa1973-ba82-4297-bcfe-e160ccd81cb4",
       "title": "Laptop HP 15s-fq4012nq, Intel Core i5-1155G7 pana la 4.5GHz, 15.6\" Full HD, 8GB, SSD 512GB, Intel Iris Xe Graphics, Windows 11 Home S, auriu pal",
-      "price": 2499.9,
+      "price": 3299.9,
       "processor_type": "Intel Core i5 1155G7",
       "memory_type": "SSD 512 GB",
       "RAM": "8 GB DDR4",
@@ -118,9 +118,9 @@
   {
     "magasine": "Altex",
     "specs": {
-      "id": "7602aa2d-cf7a-4df0-8614-7e1475ce862e",
+      "id": "5dab4841-11a7-4516-a2cd-7b4a30c33a4d",
       "title": "Laptop LENOVO IdeaPad 3 15ALC6, AMD Ryzen 5 5500U pana la 4GHz, 15.6\" Full HD, 16GB, SSD 512GB, AMD Radeon Graphics, Free Dos, Arctic Grey",
-      "price": 2289.9,
+      "price": 2399.9,
       "processor_type": "AMD Ryzen 5 5500U",
       "memory_type": "SSD 512 GB",
       "RAM": "16 GB DDR4",
@@ -133,9 +133,9 @@
   {
     "magasine": "Altex",
     "specs": {
-      "id": "9670a375-8650-4425-870b-30dc73e780e4",
+      "id": "e41c1517-ce51-4f5e-8431-51168702554c",
       "title": "Laptop gaming LENOVO IdeaPad Gaming 3 15ACH6, AMD Ryzen 7 5800H pana la 4.4GHz, 15.6\" Full HD, 16GB, SSD 512GB, NVIDIA GeForce RTX 3050 Ti 4GB, Free DOS, negru",
-      "price": 4349.9,
+      "price": 4249.9,
       "processor_type": "AMD Ryzen 7 5800H",
       "memory_type": "SSD 512 GB",
       "RAM": "16 GB DDR4",
@@ -148,9 +148,9 @@
   {
     "magasine": "Altex",
     "specs": {
-      "id": "3d853adf-2e6d-449f-a89f-d0dc18e227d8",
+      "id": "48709bfe-c454-456d-92af-f7f8691e5046",
       "title": "Laptop HP 15-dw3041nq, Intel Core i3-1115G4 pana la 4.1GHz, 15.6\" Full HD, 8GB, SSD 256GB, Intel UHD Graphics, Windows 10 S, argintiu",
-      "price": 1999.9,
+      "price": 2599.9,
       "processor_type": "Intel Core i3 1115G4",
       "memory_type": "SSD 256 GB",
       "RAM": "8 GB DDR4",
@@ -162,9 +162,9 @@
   {
     "magasine": "Altex",
     "specs": {
-      "id": "3ae531c9-50f0-4b80-ad7e-ba44ee8ce03b",
+      "id": "6d9e7041-8a81-48e5-bcdf-9a8a140e31e1",
       "title": "Laptop HP 15s-fq3007nq, Intel Celeron N4500 pana la 2.8GHz, 15.6\" HD, 4GB, SSD 256GB, Intel UHD Graphics, Windows 11 Home, Spruce Blue",
-      "price": 1599.9,
+      "price": 1999.9,
       "processor_type": "Intel Celeron N4500",
       "memory_type": "SSD 256 GB",
       "RAM": "4 GB DDR4",
@@ -176,9 +176,9 @@
   {
     "magasine": "Altex",
     "specs": {
-      "id": "e792927b-03b0-42e0-921b-3d551387102f",
+      "id": "83e7d5b6-7eac-4fd0-a937-5f8ec5361fc9",
       "title": "Laptop HUAWEI MateBook D14, Intel Core i5-1135G7 pana la 4.2GHz, 14\" Full HD, 8GB, SSD 512GB, Intel UHD Graphics, Windows 11 Home, argintiu",
-      "price": 2599.9,
+      "price": 2749.9,
       "processor_type": "Intel Core i5 1135G7",
       "memory_type": "SSD 512 GB",
       "RAM": "8 GB DDR4",
@@ -191,24 +191,9 @@
   {
     "magasine": "Altex",
     "specs": {
-      "id": "112c56c5-3fd5-406f-98a6-99219a10e73e",
-      "title": "Laptop ACER Aspire 5 A515-56-50QN, Intel Core i5-1135G7 pana la 4.2GHz, 15.6\" Full HD, 8GB, SSD 512GB, Intel Iris Xe Graphics, Free DOS, negru",
-      "price": 2099.9,
-      "processor_type": "Intel Core i5 1135G7",
-      "memory_type": "SSD 512 GB",
-      "RAM": "8 GB DDR4",
-      "GPU": "Intel Iris Xe Graphics",
-      "screen_resolution": "1920 x 1080",
-      "link": "https://altex.ro/laptop-acer-aspire-5-a515-56-50qn-intel-core-i5-1135g7-pana-la-4-2ghz-15-6-full-hd-8gb-ssd-512gb-intel-iris-xe-graphics-free-dos-negru/cpd/LAPNXA18EX006/",
-      "normal_price": 3399.9
-    }
-  },
-  {
-    "magasine": "Altex",
-    "specs": {
-      "id": "69fb3b6f-c401-4b3f-9d14-7e524fcbb6a0",
+      "id": "3aaa71ff-199b-4a85-b99d-0635e1c401e8",
       "title": "Laptop ACER Aspire 3 A315-35-C08K, Intel Celeron N4500 pana la 2.8GHz, 15.6\" HD, 4GB, SSD 256GB, Intel UHD Graphics, Free DOS, argintiu",
-      "price": 999.9,
+      "price": 1449.9,
       "processor_type": "Intel Celeron N4500",
       "memory_type": "SSD 256 GB",
       "RAM": "4 GB DDR4",
@@ -221,9 +206,9 @@
   {
     "magasine": "Altex",
     "specs": {
-      "id": "14492b40-be2b-4031-8a00-e83e50699f1a",
+      "id": "3c53a538-e351-47d6-ae60-38f8d285aa8c",
       "title": "Laptop Gaming ACER Nitro 5 AN515-45-R3HB, AMD Ryzen 5 5600H pana la 4.2GHz, 15.6\" Full HD, 8GB, SSD 256GB, NVIDIA GeForce RTX 3060 6GB, Free DOS, negru",
-      "price": 4499.9,
+      "price": 5099.9,
       "processor_type": "AMD Ryzen 5 5600H",
       "memory_type": "SSD 256 GB",
       "RAM": "8 GB LPDDR4",
@@ -236,9 +221,9 @@
   {
     "magasine": "Altex",
     "specs": {
-      "id": "4801012d-0b15-474f-88f3-1fe6ddee1ad9",
+      "id": "19e1b4bb-88af-4749-85aa-f5b68fbe5659",
       "title": "Laptop HP 15-dw3043nq, Intel Core i3-1115G4 pana la 4.1GHz, 15.6\" Full HD, 8GB, SSD 256GB, Intel UHD Graphics, Windows 10 Home, gri inchis",
-      "price": 1699.9,
+      "price": 2299.9,
       "processor_type": "Intel Core i3 1115G4",
       "memory_type": "SSD 256 GB",
       "RAM": "8 GB DDR4",
@@ -250,9 +235,9 @@
   {
     "magasine": "Altex",
     "specs": {
-      "id": "19457894-4557-432b-a718-69ebb40d259d",
+      "id": "319ba685-81d8-428e-8d65-507696c819dc",
       "title": "Laptop ASUS X415MA-EB548, Intel Celeron N4020 pana la 2.8GHz, 14\" Full HD, 4GB, SSD 256GB, Intel UHD Graphics 600, Free Dos, gri",
-      "price": 799.9,
+      "price": 1399.9,
       "processor_type": "Intel Celeron N4020",
       "memory_type": "SSD 256 GB",
       "RAM": "4 GB DDR4",
@@ -264,7 +249,7 @@
   {
     "magasine": "Altex",
     "specs": {
-      "id": "762f35b0-9690-4746-96a5-41d1bf87d412",
+      "id": "e25fa64d-4c55-48a3-9e17-d3fe8e22f32b",
       "title": "Laptop ASUS Zenbook 13 OLED UX325EA-KG257W, Intel Core i7-1165G7 pana la 4.7GHz, 13.3\" Full HD, 8GB, SSD 512GB, Intel Iris Xe Graphics, Windows 11 Home, gri",
       "price": 3999.33,
       "processor_type": "Intel Core i7 1165G7",
@@ -278,9 +263,9 @@
   {
     "magasine": "Altex",
     "specs": {
-      "id": "62299e2c-dba3-492f-b068-0baeaa36c450",
+      "id": "cd39e75f-c273-4742-b01a-af94e2bd7901",
       "title": "Laptop ASUS X515EA-BQ1114, Intel Core i5-1135G7 pana la 4.2GHz, 15.6\" Full HD, 8GB, SSD 512GB, Intel Iris Xe, Free DOS, gri",
-      "price": 2098.31,
+      "price": 2799.9,
       "processor_type": "Intel Core i5 1135G7",
       "memory_type": "SSD 512 GB",
       "RAM": "8 GB DDR4",
@@ -292,9 +277,9 @@
   {
     "magasine": "Altex",
     "specs": {
-      "id": "aaa03483-b603-4cb1-b8b5-16510aa15e45",
+      "id": "8aab3e36-88b3-4672-a3d2-0b95be43daee",
       "title": "Laptop ASUS X415EA-EB577, Intel Core i3-1115G4 pana la 4.1GHz, 14\" Full HD, 8GB, SSD 256GB, Intel UHD Graphics, Free Dos, argintiu",
-      "price": 1599.9,
+      "price": 2099.9,
       "processor_type": "Intel Core i3 1115G4",
       "memory_type": "SSD 256 GB",
       "RAM": "8 GB DDR4",
@@ -306,9 +291,9 @@
   {
     "magasine": "Altex",
     "specs": {
-      "id": "02607463-9f34-4a74-9e7d-925b815640a8",
+      "id": "0b6716b5-d9aa-432f-8905-22aebc400bf3",
       "title": "Laptop Gaming DELL G15 5511, Intel Core i7-11800H pana la 4.6GHz, 15.6\" Full HD, 16GB, SSD 512GB, NVIDIA GeForce RTX 3050 4GB, Ubuntu, gri inchis",
-      "price": 4299.9,
+      "price": 4699.9,
       "processor_type": "Intel Core i7 11800H",
       "memory_type": "SSD 512 GB",
       "RAM": "16 GB DDR4",
@@ -320,7 +305,7 @@
   {
     "magasine": "Altex",
     "specs": {
-      "id": "373c0e2a-e128-428b-a7c7-6acd66da8f0e",
+      "id": "bae0ab84-8301-4a49-a7b1-4f6d2f5dabdb",
       "title": "Laptop HP 14s-fq1006nq, AMD Ryzen 7 5700U pana la 4.3GHz, 14\" Full HD, 8GB, SSD 256GB, AMD Radeon Graphics, Windows 10 Home, argintiu",
       "price": 2999.9,
       "processor_type": "AMD Ryzen 7 5700U",
@@ -334,9 +319,9 @@
   {
     "magasine": "Altex",
     "specs": {
-      "id": "8397c811-fbc2-4109-b4c9-0ab9a8c277b1",
+      "id": "850d21a9-9676-4e1e-a8a2-32b073e4a871",
       "title": "Laptop HP 15s-eq2052nq, AMD Ryzen 5 5500U pana la 4.0GHz, 15.6\" Full HD, 16GB, SSD 512GB, AMD Radeon Graphics, Windows 11 Home S, argintiu",
-      "price": 2599.9,
+      "price": 2999.9,
       "processor_type": "AMD Ryzen 5 5500U",
       "memory_type": "SSD 512 GB",
       "RAM": "16 GB DDR4",
@@ -348,7 +333,7 @@
   {
     "magasine": "Altex",
     "specs": {
-      "id": "c2e2d83e-f45e-4783-b15e-1193493d2aaa",
+      "id": "d28cd286-296b-4262-9cf7-3f47fa6e2ea7",
       "title": "Laptop LENOVO IdeaPad 3 17ALC6, AMD Ryzen 5 5500U pana la 4.0GHz, 17.3\" Full HD, 8GB, SSD 512GB, AMD Radeon Graphics, Free DOS, albastru",
       "price": 2399.9,
       "processor_type": "AMD Ryzen 5 5500U",
@@ -362,7 +347,7 @@
   {
     "magasine": "Altex",
     "specs": {
-      "id": "c103fccf-cb2c-4dad-9121-9b17772f7b9e",
+      "id": "f2dfbb3a-a853-44b5-970f-9dd09a077a83",
       "title": "Laptop HP 255 G8, AMD Ryzen 5 3500U pana la 3.7GHz, 15.6\" Full HD, 8GB, SSD 256GB, AMD Radeon Graphics, Windows 10 pro, negru",
       "price": 2249.11,
       "processor_type": "AMD Ryzen 5 3500U",
@@ -376,9 +361,9 @@
   {
     "magasine": "Altex",
     "specs": {
-      "id": "42e335c3-da8d-45f7-af6b-b90ed9c691c9",
+      "id": "226457fc-d203-418e-b5d5-461d2e1f538e",
       "title": "Laptop ASUS X415EA-EB522, Intel Core i3-1115G4 pana la 4.1GHz, 14\" Full HD, 8GB, SSD 256GB, Intel UHD Graphics, Free Dos, gri",
-      "price": 1599.9,
+      "price": 1999.9,
       "processor_type": "Intel Core i3 1115G4",
       "memory_type": "SSD 256 GB",
       "RAM": "8 GB DDR4",
@@ -390,7 +375,21 @@
   {
     "magasine": "Altex",
     "specs": {
-      "id": "6e3e3203-0494-4ab8-8f67-3b32cf6fc133",
+      "id": "ca9aecf9-febd-4997-adab-b57d0832435c",
+      "title": "Laptop ASUS E210MA-GJ338WS, Intel Celeron N4020 pana la 2.8GHz, 11.6\" HD, 4GB, eMMC 128GB, Intel UHD Graphics 600, Windows 11 Home S, negru",
+      "price": 1299.9,
+      "processor_type": "Intel Celeron N4020",
+      "memory_type": "eMMC 128 GB",
+      "RAM": "4 GB DDR4",
+      "GPU": "Intel UHD Graphics 600",
+      "screen_resolution": "1366 x 768",
+      "link": "https://altex.ro/laptop-asus-e210ma-gj338ws-intel-celeron-n4020-pana-la-2-8ghz-11-6-hd-4gb-emmc-128gb-intel-uhd-graphics-600-windows-11-home-s-negru/cpd/LAPE210MGJ338WS/"
+    }
+  },
+  {
+    "magasine": "Altex",
+    "specs": {
+      "id": "2168ccb4-656a-404a-b429-958abf6a618a",
       "title": "Laptop HP 15s-eq1005nq, AMD Athlon Silver 3050U pana la 3.2GHz, 15.6\" Full HD, 4GB, SSD 256GB, AMD Radeon Graphics, Windows 10 Home S, gri",
       "price": 1099.9,
       "processor_type": "AMD Athlon Silver 3050U",
@@ -404,21 +403,7 @@
   {
     "magasine": "Altex",
     "specs": {
-      "id": "70de35e3-c052-4b34-afc5-ebb20ef514c4",
-      "title": "Laptop ASUS E210MA-GJ338WS, Intel Celeron N4020 pana la 2.8GHz, 11.6\" HD, 4GB, eMMC 128GB, Intel UHD Graphics 600, Windows 11 Home S, negru",
-      "price": 949.9,
-      "processor_type": "Intel Celeron N4020",
-      "memory_type": "eMMC 128 GB",
-      "RAM": "4 GB DDR4",
-      "GPU": "Intel UHD Graphics 600",
-      "screen_resolution": "1366 x 768",
-      "link": "https://altex.ro/laptop-asus-e210ma-gj338ws-intel-celeron-n4020-pana-la-2-8ghz-11-6-hd-4gb-emmc-128gb-intel-uhd-graphics-600-windows-11-home-s-negru/cpd/LAPE210MGJ338WS/"
-    }
-  },
-  {
-    "magasine": "Altex",
-    "specs": {
-      "id": "a14f337f-b2d8-4856-9174-7a2160794881",
+      "id": "0f7d9adf-6804-4847-a5c8-c243f0d3a71f",
       "title": "Laptop APPLE MacBook Air 13 mgnd3ze/a, Apple M1, 13.3\" Retina Display, 8GB, SSD 256GB, Grafica integrata, macOS Big Sur, Gold - Tastatura layout INT",
       "price": 4999.9,
       "processor_type": "Apple M1 M1",
@@ -433,9 +418,9 @@
   {
     "magasine": "Altex",
     "specs": {
-      "id": "617f8b89-8232-4a1b-91b6-d8f0aa791d5e",
+      "id": "99a61afa-e36f-4fed-b7ef-57dbd9e0a91d",
       "title": "Laptop Gaming ASUS TUF A15 FA506IC-HN042, AMD Ryzen 5 4600H pana la 4.0GHz, 15.6\" Full HD, 8GB, SSD 512GB, NVIDIA GeForce RTX 3050 4GB, Free DOS, negru",
-      "price": 3499.9,
+      "price": 3999.9,
       "processor_type": "AMD Ryzen 5 4600H",
       "memory_type": "SSD 512 GB",
       "RAM": "8 GB DDR4",
@@ -448,7 +433,21 @@
   {
     "magasine": "Altex",
     "specs": {
-      "id": "215c4914-df15-4a0a-9780-3a0d3e0476f7",
+      "id": "2fbdeae2-3eb8-4372-b0d5-a1ea178ea22c",
+      "title": "Laptop ASUS X515JA-BQ2540, Intel Core i7-1065G7 pana la 3.9GHz, 15.6\" Full HD, 16GB, SSD 512GB, Intel Iris Plus Graphics, Free DOS, gri",
+      "price": 3499.9,
+      "processor_type": "Intel Core i7 1065G7",
+      "memory_type": "SSD 512 GB",
+      "RAM": "16 GB DDR4",
+      "GPU": "Intel Iris Plus Graphics",
+      "screen_resolution": "1920 x 1080",
+      "link": "https://altex.ro/laptop-asus-x515ja-bq2540-intel-core-i7-1065g7-pana-la-3-9ghz-15-6-full-hd-16gb-ssd-512gb-intel-iris-plus-graphics-free-dos-gri/cpd/LAPX515JABQ2540/"
+    }
+  },
+  {
+    "magasine": "Altex",
+    "specs": {
+      "id": "025a92c6-9f91-45f3-889b-63cd9793893c",
       "title": "Laptop DELL Inspiron 15 5510, Intel Core i5-11300H pana la 4.4GHz, 15.6\" Full HD, 8GB, SSD 256GB, Intel Iris Xe Graphics, Ubuntu, argintiu",
       "price": 2889.9,
       "processor_type": "Intel Core i5 11300H",
@@ -462,23 +461,9 @@
   {
     "magasine": "Altex",
     "specs": {
-      "id": "12d28cc9-a2ae-4134-a3eb-a305b9c7ea31",
-      "title": "Laptop ASUS X515JA-BQ2540, Intel Core i7-1065G7 pana la 3.9GHz, 15.6\" Full HD, 16GB, SSD 512GB, Intel Iris Plus Graphics, Free DOS, gri",
-      "price": 2599.9,
-      "processor_type": "Intel Core i7 1065G7",
-      "memory_type": "SSD 512 GB",
-      "RAM": "16 GB DDR4",
-      "GPU": "Intel Iris Plus Graphics",
-      "screen_resolution": "1920 x 1080",
-      "link": "https://altex.ro/laptop-asus-x515ja-bq2540-intel-core-i7-1065g7-pana-la-3-9ghz-15-6-full-hd-16gb-ssd-512gb-intel-iris-plus-graphics-free-dos-gri/cpd/LAPX515JABQ2540/"
-    }
-  },
-  {
-    "magasine": "Altex",
-    "specs": {
-      "id": "486e3daa-5159-413b-89f3-b1efb73ab4b2",
+      "id": "ea0cb693-01c9-4ca9-b145-26bf194e5a2f",
       "title": "Laptop HUAWEI MateBook D14, Intel Core i5-10210U pana la 4.2GHz, 14\" Full HD, 8GB, SSD 512GB, Intel UHD Graphics, Windows 10 Home, argintiu",
-      "price": 2199.9,
+      "price": 2399.9,
       "processor_type": "Intel Core i5 10210U",
       "memory_type": "SSD 512 GB",
       "RAM": "8 GB DDR4",
@@ -491,52 +476,7 @@
   {
     "magasine": "Altex",
     "specs": {
-      "id": "063370db-7557-4e27-a31b-eecceca91597",
-      "title": "Laptop APPLE MacBook Pro 16 mk1f3ze/a, Apple M1 Pro, 16.2\" Liquid Retina XDR, 16GB, SSD 1TB, Grafica integrata, macOS Monterey, Silver - Tastatura layout INT",
-      "price": 12999.85,
-      "processor_type": "Apple M1 Pro M1 Pro",
-      "memory_type": "SSD 1000 GB",
-      "RAM": "16 GB  ",
-      "GPU": "16-core GPU",
-      "screen_resolution": "3456 x 2234",
-      "link": "https://altex.ro/laptop-apple-macbook-pro-16-mk1f3ze-a-apple-m1-pro-16-2-liquid-retina-xdr-16gb-ssd-1tb-grafica-integrata-macos-monterey-silver-tastatura-layout-int/cpd/LAPMK1F3ZEA/",
-      "normal_price": 14338.31
-    }
-  },
-  {
-    "magasine": "Altex",
-    "specs": {
-      "id": "385379e2-5aa5-480b-b6a8-e4ab6558ca6b",
-      "title": "Laptop Gaming ACER Predator Helios 300 PH317-55-7295, Intel Core i7-11800H pana la 4.6GHz, 17.3\" Full HD, 32GB, SSD 2TB, NVIDIA GeForce RTX 3070 8GB, Windows 11 Home, negru",
-      "price": 10899.9,
-      "processor_type": "Intel Core i7 11800H",
-      "memory_type": "SSD 2x1000 GB",
-      "RAM": "32 GB DDR4",
-      "GPU": "NVIDIA GeForce RTX 3070",
-      "screen_resolution": "1920 x 1080",
-      "link": "https://altex.ro/laptop-gaming-acer-predator-helios-300-ph317-55-7295-intel-core-i7-11800h-pana-la-4-6ghz-17-3-full-hd-32gb-ssd-2tb-nvidia-geforce-rtx-3070-8gb-windows-11-home-negru/cpd/LAPNHQB7EX00W/",
-      "normal_price": 12899.9
-    }
-  },
-  {
-    "magasine": "Altex",
-    "specs": {
-      "id": "73289407-8cc7-4038-bc9f-fa4a6fb0df23",
-      "title": "Laptop LENOVO Yoga Slim 7 13ACN5, AMD Ryzen 7 5800U pana 4.4GHz, 13.3\" QHD, 16GB, SSD 1TB, AMD Radeon Graphics, Windows 11 Home, Iron Grey",
-      "price": 3599.9,
-      "processor_type": "AMD Ryzen 7 5800U",
-      "memory_type": "SSD 1000 GB",
-      "RAM": "16 GB LPDDR4X",
-      "GPU": "AMD Radeon Graphics",
-      "screen_resolution": "2560 x 1600",
-      "link": "https://altex.ro/laptop-lenovo-yoga-slim-7-13acn5-amd-ryzen-7-5800u-pana-4-4ghz-13-3-qhd-16gb-ssd-1tb-amd-radeon-graphics-windows-11-home-iron-grey/cpd/LAP82CY001NRM/",
-      "normal_price": 5699.9
-    }
-  },
-  {
-    "magasine": "Altex",
-    "specs": {
-      "id": "8797dbdb-ac58-436c-a2f0-70251af57c83",
+      "id": "ed0b92a5-512e-4a76-b096-faea1fcd4eec",
       "title": "Laptop HP 14s-dq2039nq, Intel Core i5-1135G7 pana la 4.2GHz, 14\" Full HD, 16GB, SSD 512GB, Intel Iris Xe, Windows 11 Home S, argintiu",
       "price": 3499.9,
       "processor_type": "Intel Core i5 1135G7",
@@ -550,7 +490,22 @@
   {
     "magasine": "Altex",
     "specs": {
-      "id": "bd6b27fb-62ec-44f5-9ea0-49c993e57743",
+      "id": "34327fee-7af6-4c26-9003-e42235073c8d",
+      "title": "Laptop LENOVO Yoga Slim 7 13ACN5, AMD Ryzen 7 5800U pana 4.4GHz, 13.3\" QHD, 16GB, SSD 1TB, AMD Radeon Graphics, Windows 11 Home, Iron Grey",
+      "price": 3399.9,
+      "processor_type": "AMD Ryzen 7 5800U",
+      "memory_type": "SSD 1000 GB",
+      "RAM": "16 GB LPDDR4X",
+      "GPU": "AMD Radeon Graphics",
+      "screen_resolution": "2560 x 1600",
+      "link": "https://altex.ro/laptop-lenovo-yoga-slim-7-13acn5-amd-ryzen-7-5800u-pana-4-4ghz-13-3-qhd-16gb-ssd-1tb-amd-radeon-graphics-windows-11-home-iron-grey/cpd/LAP82CY001NRM/",
+      "normal_price": 5699.9
+    }
+  },
+  {
+    "magasine": "Altex",
+    "specs": {
+      "id": "3771ceb7-1ed5-4725-9931-b7bce15f37b3",
       "title": "Laptop HP 15s-eq2000nq, AMD Ryzen 7 5700U pana la 4.3GHz, 15.6\" Full HD, 16GB, SSD 512GB, AMD Radeon Graphics, Windows 11 Home, argintiu",
       "price": 3099.9,
       "processor_type": "AMD Ryzen 7 5700U",
@@ -564,22 +519,7 @@
   {
     "magasine": "Altex",
     "specs": {
-      "id": "9db35852-b95d-4adb-8986-0b0f1c37350c",
-      "title": "Laptop ACER Aspire 5 A515-56-778Z , Intel Core i7-1165G7 pana la 4.7GHz, 15.6\" Full HD, 8GB, SSD 512GB, Intel Iris Xe Graphics, Free DOS, negru",
-      "price": 2799.9,
-      "processor_type": "Intel Core i7 1165G7",
-      "memory_type": "SSD 512 GB",
-      "RAM": "8 GB DDR4",
-      "GPU": "Intel Iris Xe Graphics",
-      "screen_resolution": "1920 x 1080",
-      "link": "https://altex.ro/laptop-acer-aspire-5-a515-56-778z-intel-core-i7-1165g7-pana-la-4-7ghz-15-6-full-hd-8gb-ssd-512gb-intel-iris-xe-graphics-free-dos-negru/cpd/LAPNXA18EX00A/",
-      "normal_price": 3849.9
-    }
-  },
-  {
-    "magasine": "Altex",
-    "specs": {
-      "id": "6dee1a55-ae76-4083-ac44-0bd928c99b57",
+      "id": "2802f223-2b9b-4431-8dd9-09c7d8a0b650",
       "title": "Laptop ASUS X515EA-BQ878, Intel Core i5-1135G7 pana la 4.2GHz, 15.6\" Full HD, 16GB, SSD 512GB, Intel Iris Xe Graphics, Free DOS, gri",
       "price": 2768.9,
       "processor_type": "Intel Core i5 1135G7",
@@ -593,9 +533,9 @@
   {
     "magasine": "Altex",
     "specs": {
-      "id": "2958be6f-a7f0-4170-854c-bba58645898c",
+      "id": "8c9ac113-c625-4e9b-a0ba-6be01d18838b",
       "title": "Laptop LENOVO IdeaPad 5 14ITL05, Intel Core i5-1135G7 pana la 4.2GHz, 14\" Full HD, 16GB, SSD 512GB, Intel Iris Xe Graphics, Free DOS, gri",
-      "price": 2349.9,
+      "price": 2699.9,
       "processor_type": "Intel Core i5 1135G7",
       "memory_type": "SSD 512 GB",
       "RAM": "16 GB DDR4",
@@ -608,7 +548,36 @@
   {
     "magasine": "Altex",
     "specs": {
-      "id": "2b84d656-490f-49d8-9490-86bc8cb9ad71",
+      "id": "037e0b0d-9e17-4d49-9746-b9b07708a74c",
+      "title": "Laptop HUAWEI MateBook D15, Intel Core i5-10210U pana la 4.2GHz, 15.6\" Full HD, 8GB, SSD 512GB, Intel UHD Graphics, Windows 10 Home, argintiu",
+      "price": 2499.9,
+      "processor_type": "Intel Core i5 10210U",
+      "memory_type": "SSD 512 GB",
+      "RAM": "8 GB DDR4",
+      "GPU": "Intel UHD Graphics",
+      "screen_resolution": "1920 x 1080",
+      "link": "https://altex.ro/laptop-huawei-matebook-d15-intel-core-i5-10210u-pana-la-4-2ghz-15-6-full-hd-8gb-ssd-512gb-intel-uhd-graphics-windows-10-home-argintiu/cpd/LAP53011TTQ/",
+      "normal_price": 3499.0
+    }
+  },
+  {
+    "magasine": "Altex",
+    "specs": {
+      "id": "d62fee78-efd7-46b1-a348-1153480fc92c",
+      "title": "Laptop ASUS X515FA-BQ139W, Intel Core i3-10110U pana la 4.1GHz, 15.6\" Full HD, 8GB, SSD 256GB, Intel UHD Graphics, Windows 11 Home S, argintiu",
+      "price": 2399.9,
+      "processor_type": "Intel Core i3 10110U",
+      "memory_type": "SSD 256 GB",
+      "RAM": "8 GB DDR4",
+      "GPU": "Intel UHD Graphics",
+      "screen_resolution": "1920 x 1080",
+      "link": "https://altex.ro/laptop-asus-x515fa-bq139w-intel-core-i3-10110u-pana-la-4-1ghz-15-6-full-hd-8gb-ssd-256gb-intel-uhd-graphics-windows-11-home-s-argintiu/cpd/LAPX515FABQ139W/"
+    }
+  },
+  {
+    "magasine": "Altex",
+    "specs": {
+      "id": "83f8f580-3c44-4529-8050-623951cffcb4",
       "title": "Laptop ACER Aspire 3 A315-56, Intel Core i3-1005G1 pana la 3.4GHz, 15.6\" Full HD, 8GB, SSD 256GB, Intel UHD Graphics, Windows 10 S, negru",
       "price": 2299.9,
       "processor_type": "Intel Core i3 1005G1",
@@ -623,51 +592,7 @@
   {
     "magasine": "Altex",
     "specs": {
-      "id": "3352758f-81ef-41c5-83c3-7f11ff546f80",
-      "title": "Laptop HUAWEI MateBook D15, Intel Core i5-10210U pana la 4.2GHz, 15.6\" Full HD, 8GB, SSD 512GB, Intel UHD Graphics, Windows 10 Home, argintiu",
-      "price": 2198.9,
-      "processor_type": "Intel Core i5 10210U",
-      "memory_type": "SSD 512 GB",
-      "RAM": "8 GB DDR4",
-      "GPU": "Intel UHD Graphics",
-      "screen_resolution": "1920 x 1080",
-      "link": "https://altex.ro/laptop-huawei-matebook-d15-intel-core-i5-10210u-pana-la-4-2ghz-15-6-full-hd-8gb-ssd-512gb-intel-uhd-graphics-windows-10-home-argintiu/cpd/LAP53011TTQ/",
-      "normal_price": 3499.0
-    }
-  },
-  {
-    "magasine": "Altex",
-    "specs": {
-      "id": "8ce044c4-3c52-4352-9a3b-5d2dd46ccaad",
-      "title": "Laptop ACER Aspire 5 A515-45-R603, AMD Ryzen 3 5300U pana la 3.8Hz, 15.6\" Full, 8GB, 1TB + SSD 256GB, AMD Radeon Graphics, Windows 10 Home, negru",
-      "price": 1899.9,
-      "processor_type": "AMD Ryzen 3 5300U",
-      "memory_type": "HDD + SSD 1000 GB, 256 GB",
-      "RAM": "8 GB DDR4",
-      "GPU": "AMD Radeon Graphics",
-      "screen_resolution": "1920 x 1080",
-      "link": "https://altex.ro/laptop-acer-aspire-5-a515-45-r603-amd-ryzen-3-5300u-pana-la-3-8hz-15-6-full-8gb-1tb-ssd-256gb-amd-radeon-graphics-windows-10-home-negru/cpd/LAPNXA83EX007/",
-      "normal_price": 3199.9
-    }
-  },
-  {
-    "magasine": "Altex",
-    "specs": {
-      "id": "9831cd0c-3a1d-45c5-84d7-4b9008634610",
-      "title": "Laptop ASUS X515FA-BQ139W, Intel Core i3-10110U pana la 4.1GHz, 15.6\" Full HD, 8GB, SSD 256GB, Intel UHD Graphics, Windows 11 Home S, argintiu",
-      "price": 1799.9,
-      "processor_type": "Intel Core i3 10110U",
-      "memory_type": "SSD 256 GB",
-      "RAM": "8 GB DDR4",
-      "GPU": "Intel UHD Graphics",
-      "screen_resolution": "1920 x 1080",
-      "link": "https://altex.ro/laptop-asus-x515fa-bq139w-intel-core-i3-10110u-pana-la-4-1ghz-15-6-full-hd-8gb-ssd-256gb-intel-uhd-graphics-windows-11-home-s-argintiu/cpd/LAPX515FABQ139W/"
-    }
-  },
-  {
-    "magasine": "Altex",
-    "specs": {
-      "id": "2a38023a-64c8-42fa-bc82-5796a1e36ca0",
+      "id": "e5936bda-e90b-4a0a-a08a-30a61196568b",
       "title": "Laptop Gaming HP Omen 15-dh1036nq, Intel Core i9-10885H pana la 5.3GHz, 15.6\" Full HD, 32GB, SSD 1TB, NVIDIA GeForce RTX 2080 Super Max-Q 8GB, Free DOS, negru",
       "price": 10999.9,
       "processor_type": "Intel Core i9 10885H",
@@ -681,21 +606,7 @@
   {
     "magasine": "Altex",
     "specs": {
-      "id": "11281fd8-7a00-4b70-badb-c888d4fa191b",
-      "title": "Laptop Gaming ASUS ROG Strix G17 G713RS-KH015, AMD Ryzen 9 6900HX pana la 4.9GHz, 17.3\" Full HD, 32GB, SSD 1TB, NVIDIA GeForce RTX 3080 8GB, Free Dos, Eclipse Gray",
-      "price": 9345.52,
-      "processor_type": "AMD Ryzen 9 6900HX",
-      "memory_type": "SSD 1000 GB",
-      "RAM": "32 GB DDR5",
-      "GPU": "NVIDIA GeForce RTX 3080",
-      "screen_resolution": "1920 x 1080",
-      "link": "https://altex.ro/laptop-gaming-asus-rog-strix-g17-g713rs-kh015-amd-ryzen-9-6900hx-pana-la-4-9ghz-17-3-full-hd-32gb-ssd-1tb-nvidia-geforce-rtx-3080-8gb-free-dos-eclipse-gray/cpd/LAPG713RSKH015/"
-    }
-  },
-  {
-    "magasine": "Altex",
-    "specs": {
-      "id": "cc2c45e3-80c2-4712-a548-17b5a72a38bf",
+      "id": "e017212e-eda5-4ed6-b057-dfda9e86146b",
       "title": "Laptop Gaming HP Omen 15-ek1000nq, Intel Core i7-10870H pana la 5.0GHz, 15.6\" Full HD, 32GB, SSD 1TB, NVIDIA GeForce RTX 3070 8GB, Free DOS, negru",
       "price": 9299.9,
       "processor_type": "Intel Core i7 10870H",
@@ -709,7 +620,7 @@
   {
     "magasine": "Altex",
     "specs": {
-      "id": "e839dd39-0a00-4fcd-b908-cb212be340aa",
+      "id": "65749b77-a073-4541-be55-2d3b8195482f",
       "title": "Laptop Gaming HP Omen 15-en1000nq, AMD Ryzen 9 5900HX pana la 4.6GHz, 15.6\" Full HD, 16GB, SSD 1TB, NVIDIA GeForce RTX 3070 8GB, Free DOS, argintiu",
       "price": 8799.9,
       "processor_type": "AMD Ryzen 9 5900HX",
@@ -723,7 +634,7 @@
   {
     "magasine": "Altex",
     "specs": {
-      "id": "c92221f5-5831-41dd-99f7-67827a56cb0a",
+      "id": "d6880872-96d5-4b01-9337-4337ae4fb1b2",
       "title": "Laptop Gaming ASUS TUF F15 FX507ZM-HF049, Intel Core i7-12700H pana la 4.7GHz, 15.6\" Full HD, 16GB, SSD 1TB, NVIDIA GeForce RTX 3060 6GB, Free Dos, Mecha Gray",
       "price": 7399.9,
       "processor_type": "Intel Core i7 12700H",
@@ -738,7 +649,7 @@
   {
     "magasine": "Altex",
     "specs": {
-      "id": "8e3827da-d67c-4382-a835-292dc9224f55",
+      "id": "ddc85b7d-30d6-4d78-adab-86822828e7ea",
       "title": "Laptop Gaming ASUS TUF Dash FX517ZM-HN003, Intel Core i7-12650H pana la 4.7Ghz, 15.6\" Full HD, 16GB, SSD 1TB, NVIDIA GeForce RTX 3060 6GB, Free Dos, negru",
       "price": 6999.9,
       "processor_type": "Intel Core i7 12650H",
@@ -752,7 +663,7 @@
   {
     "magasine": "Altex",
     "specs": {
-      "id": "ca89ead3-2e68-48f6-bb09-6546a8f8251c",
+      "id": "f261d28f-c2df-4b23-be6f-db399e3f54d5",
       "title": "Laptop 2 in 1 ASUS ZenBook Flip 13 OLED UX363EA-HP521X, Intel Core i7-1165G7 pana la 4.7Ghz, 13.3\" Full HD Touch, 16GB, SSD 1TB, Intel Iris Xe, Windows 10 Pro, gri",
       "price": 6999.9,
       "processor_type": "Intel Core i7 1165G7",
@@ -766,7 +677,7 @@
   {
     "magasine": "Altex",
     "specs": {
-      "id": "971806f8-f460-4067-8636-5cf11e10e362",
+      "id": "42799b89-4b84-4888-8852-2376116aff06",
       "title": "Laptop ASUS ZenBook Duo 14 UX482EA-HY222R, Intel Core i7-1165G7 pana la 4.7GHz, 14\" Full HD Touch, 16GB, SSD 1TB, Intel Iris Xe Graphics, Windows 10 Pro, Celestial Blue",
       "price": 6322.78,
       "processor_type": "Intel Core i7 1165G7",
@@ -780,7 +691,7 @@
   {
     "magasine": "Altex",
     "specs": {
-      "id": "aeece43f-40ad-4edb-b75f-c8977f742bde",
+      "id": "cecf1a16-6af4-46b3-aa12-2e3c1ec6b8e0",
       "title": "Laptop Gaming MSI Katana GF76 12UD-056XRO, Intel Core i7-12700H pana la 4.7GHz, 17.3\" Full HD, 16GB, SSD 512GB, NVIDIA GeForce RTX 3050 Ti 4GB, Free Dos, negru",
       "price": 5899.99,
       "processor_type": "Intel Core i7 12700H",
@@ -794,7 +705,7 @@
   {
     "magasine": "Altex",
     "specs": {
-      "id": "59360ce8-e797-47eb-8ccb-b4a9ec55d8e0",
+      "id": "e449c423-e844-4ae3-a50b-dc1a4d970cad",
       "title": "Laptop 2 in 1 ASUS ROG Flow X13 GV301QC-K6003, AMD Ryzen 7 5800HS pana la 4.4GHz, 13.4\" WUXGA Touch, 16GB, SSD 512GB, NVIDIA GeForce RTX 3050 4GB, Free Dos, negru",
       "price": 5799.9,
       "processor_type": "AMD Ryzen 7 5800HS",
@@ -809,7 +720,7 @@
   {
     "magasine": "Altex",
     "specs": {
-      "id": "7df2767a-c200-4429-b2cd-e0c60a57da22",
+      "id": "71e2085b-7f89-4051-a9ec-0d585cbe2439",
       "title": "Laptop ASUS Vivobook Pro OLED 15 K3500PC-L1348, Intel Core i7-11370H pana la 4.8GHz, 15.6\" Full HD, 16GB, SSD 512GB, NVIDIA GeForce RTX 3050 4GB, Free Dos, Quiet Blue",
       "price": 5399.9,
       "processor_type": "Intel Core i7 11370H",
@@ -823,7 +734,22 @@
   {
     "magasine": "Altex",
     "specs": {
-      "id": "7c509539-1801-4d43-bd7f-1b50860b1ca0",
+      "id": "a0b48b16-617b-4ed8-8613-c15362818c16",
+      "title": "Laptop Gaming ACER Nitro 5 AN515-57, Intel Core i7-11800H pana la 4.6GHz, 15.6\" Full HD, 16GB, SSD 1TB, NVIDIA GeForce RTX 3050 Ti 4GB, Free DOS, negru",
+      "price": 5299.9,
+      "processor_type": "Intel Core i7 11800H",
+      "memory_type": "SSD 1000 GB",
+      "RAM": "16 GB DDR4",
+      "GPU": "NVIDIA GeForce RTX 3050 Ti",
+      "screen_resolution": "1920 x 1080",
+      "link": "https://altex.ro/laptop-gaming-acer-nitro-5-an515-57-intel-core-i7-11800h-pana-la-4-6ghz-15-6-full-hd-16gb-ssd-1tb-nvidia-geforce-rtx-3050-ti-4gb-free-dos-negru/cpd/LAPNHQESEX002/",
+      "normal_price": 6299.9
+    }
+  },
+  {
+    "magasine": "Altex",
+    "specs": {
+      "id": "167980c6-6570-400d-ae56-2a2149ad8732",
       "title": "Laptop Gaming ASUS TUF A15 FA507RE-HN036, AMD Ryzen 7 6800H pana la 4.7GHz, 15.6\" Full HD, 16GB, SSD 1TB, NVIDIA GeForce RTX 3050 Ti 4GB, Free DOS, Jaeger Gray",
       "price": 4799.9,
       "processor_type": "AMD Ryzen 7 6800H",
@@ -837,7 +763,7 @@
   {
     "magasine": "Altex",
     "specs": {
-      "id": "96718387-3dcb-4458-9ae2-571c515e80ab",
+      "id": "06d38a8e-a2c7-4e25-8456-a26911aacde8",
       "title": "Laptop MICROSOFT Surface 4, AMD Ryzen 5 4680U pana la 4.0GHz, 13.5\u201d Touch, 8GB, SSD 256GB, AMD Radeon, Windows 10 Home, platinum",
       "price": 4499.9,
       "processor_type": "AMD Ryzen 5 4680U",
@@ -851,22 +777,7 @@
   {
     "magasine": "Altex",
     "specs": {
-      "id": "838d7a5f-d4ee-428b-bfbd-ab135bb81538",
-      "title": "Laptop Gaming ACER Nitro 5 AN515-57, Intel Core i7-11800H pana la 4.6GHz, 15.6\" Full HD, 16GB, SSD 1TB, NVIDIA GeForce RTX 3050 Ti 4GB, Free DOS, negru",
-      "price": 4499.9,
-      "processor_type": "Intel Core i7 11800H",
-      "memory_type": "SSD 1000 GB",
-      "RAM": "16 GB DDR4",
-      "GPU": "NVIDIA GeForce RTX 3050 Ti",
-      "screen_resolution": "1920 x 1080",
-      "link": "https://altex.ro/laptop-gaming-acer-nitro-5-an515-57-intel-core-i7-11800h-pana-la-4-6ghz-15-6-full-hd-16gb-ssd-1tb-nvidia-geforce-rtx-3050-ti-4gb-free-dos-negru/cpd/LAPNHQESEX002/",
-      "normal_price": 6299.9
-    }
-  },
-  {
-    "magasine": "Altex",
-    "specs": {
-      "id": "b3b6726e-0b46-4793-bd89-dfcbb80fa232",
+      "id": "d037878f-4507-493d-ad40-e4e61897fb49",
       "title": "Laptop Gaming ASUS TUF F17 FX706HCB-HX148, Intel Core i5-11400H pana la 4.5GHz, 17.3\" Full HD, 8GB, SSD 1TB, NVIDIA GeForce RTX 3050 4GB, Free DOS, negru",
       "price": 4399.9,
       "processor_type": "Intel Core i5 11400H",
@@ -880,7 +791,7 @@
   {
     "magasine": "Altex",
     "specs": {
-      "id": "a8488b40-ff4a-466d-bfd1-02b046a79fda",
+      "id": "3e8ff185-d7ff-4068-883d-7204e0025e53",
       "title": "Laptop DELL Inspiron 15 3511, Intel Core i7-1165G7 pana la 4.7GHz, 15.6\" Full HD, 16GB, SSD 256GB + 1TB, NVIDIA GeForce MX350 2GB, Ubuntu, negru",
       "price": 4299.9,
       "processor_type": "Intel Core i7 1165G7",
@@ -894,7 +805,7 @@
   {
     "magasine": "Altex",
     "specs": {
-      "id": "5aa71cee-f56d-4a00-9dc9-e33cdbecaed2",
+      "id": "95d20b2f-3fda-4f22-8139-a50e3c889075",
       "title": "Laptop HP ProBook 440 G8, Intel Core i5-1135G7 pana la 4.2Ghz, 14\" Full HD, 8GB, SSD 512GB, Intel Iris Xe Graphics, Windows 10 Pro, argintiu",
       "price": 3699.9,
       "processor_type": "Intel Core i5 1135G7",
@@ -908,23 +819,9 @@
   {
     "magasine": "Altex",
     "specs": {
-      "id": "a624cecf-6d1c-4a74-9346-476f6e8ec910",
-      "title": "Laptop Gaming ASUS X571LI-BQ336, Intel Core i7-10870H pana la 5GHz, 15.6\" Full HD, 16GB, SSD 512GB + 1TB, NVIDIA GeForce GTX 1650 Ti 4GB, Free DOS, negru",
-      "price": 3569.92,
-      "processor_type": "Intel Core i7 10870H",
-      "memory_type": "HDD + SSD 1000 GB, 512 GB",
-      "RAM": "16 GB DDR4",
-      "GPU": "NVIDIA GeForce GTX 1650 Ti",
-      "screen_resolution": "1920 x 1080",
-      "link": "https://altex.ro/laptop-gaming-asus-x571li-bq336-intel-core-i7-10870h-pana-la-5ghz-15-6-full-hd-16gb-ssd-512gb-1tb-nvidia-geforce-gtx-1650-ti-4gb-free-dos-negru/cpd/LAPX571LIBQ336/"
-    }
-  },
-  {
-    "magasine": "Altex",
-    "specs": {
-      "id": "9e9c7197-22f7-4379-8561-6da0750a43bf",
+      "id": "fde8b9bb-13c1-45ce-a811-1af187209711",
       "title": "Laptop HUAWEI MateBook 14, Intel Core i5-1135G7 pana la 4.8GHz, 14\" 2K, 8GB, SSD 512GB, Intel Iris Xe, Windows 10 Home, gri",
-      "price": 3499.9,
+      "price": 3599.9,
       "processor_type": "Intel Core i5 1135G7",
       "memory_type": "SSD 512 GB",
       "RAM": "8 GB DDR4",
@@ -937,7 +834,7 @@
   {
     "magasine": "Altex",
     "specs": {
-      "id": "f9e082ff-463b-44e6-83e4-d2e646f3b982",
+      "id": "a7400ca8-5ba1-49cd-b240-4da3d7b8bd15",
       "title": "Laptop ASUS Vivobook Pro 14 OLED K3400PA-KM040W, Intel Core i5-11300H pana la 4.4GHz, 14\" WQXGA+, 8GB, SSD 512GB, Intel Iris Xe, Windows 11 Home, Cool Silver",
       "price": 3099.9,
       "processor_type": "Intel Core i5 11300H",
@@ -951,7 +848,7 @@
   {
     "magasine": "Altex",
     "specs": {
-      "id": "7662bcf0-a08e-4175-8f64-fae184a5e2a1",
+      "id": "370d027b-a416-465d-9611-9efbf96e023e",
       "title": "Laptop HP 250 G8, Intel Core i5-1135G7 pana la 4.2GHz, 15.6\" Full HD, 8GB, SSD 256GB, Intel Iris Xe, Windows 10 Pro, argintiu",
       "price": 3018.9,
       "processor_type": "Intel Core i5 1135G7",
@@ -965,7 +862,7 @@
   {
     "magasine": "Altex",
     "specs": {
-      "id": "71985d01-1e7b-4c88-a48a-ea8dd6352cd9",
+      "id": "94877a7f-ffbb-4755-89b4-f2ab457e4090",
       "title": "Laptop 2 in 1 LENOVO Flex 5 14ALC05, AMD Ryzen 5 5500U pana la 4.0GHz, 14\" Full HD Touch, 8GB, SSD 256GB, AMD Radeon Graphics, Windows 10 Home, Abyss Blue",
       "price": 2999.9,
       "processor_type": "AMD Ryzen 5 5500U",
@@ -980,7 +877,7 @@
   {
     "magasine": "Altex",
     "specs": {
-      "id": "427e9b9e-8d22-48f7-8457-02b342199884",
+      "id": "117561f2-d306-4c43-af19-11544a707c26",
       "title": "Laptop DELL Vostro 5415, AMD Ryzen 5 5500U pana la 4.0GHz, 14\" Full HD, 8GB, SSD 512GB, AMD Radeon, Windows 10 Pro, gri",
       "price": 2999.9,
       "processor_type": "AMD Ryzen 5 5500U",
@@ -994,7 +891,7 @@
   {
     "magasine": "Altex",
     "specs": {
-      "id": "1a828c96-0eea-4095-942e-caa45632f671",
+      "id": "5fcb88d6-7b16-4376-9076-a0e1f111ceee",
       "title": "Laptop ASUS VivoBook 15 OLED K513EA-L12253, Intel Core i7-1165G7 pana la 4.7GHz, 15.6\" Full HD, 8GB, SSD 512GB, Intel Iris Xe, Free DOS, negru",
       "price": 2998.9,
       "processor_type": "Intel Core i7 1165G7",
@@ -1008,7 +905,7 @@
   {
     "magasine": "Altex",
     "specs": {
-      "id": "d6e594ee-5930-4195-b62f-c399fe9ccf45",
+      "id": "1ff7df9d-3bf4-4484-8f7f-3dce6b5470f8",
       "title": "Laptop ASUS VivoBook 15 K513EA-BN2230, Intel Core i7-1165G7 pana la 4.7GHz, 15.6\" Full HD, 8GB, SSD 512GB, Intel Iris Xe, Free DOS, negru",
       "price": 2998.31,
       "processor_type": "Intel Core i7 1165G7",
@@ -1022,7 +919,7 @@
   {
     "magasine": "Altex",
     "specs": {
-      "id": "62b9f70f-d3e1-4ddd-a2b4-78466cab5076",
+      "id": "b9ad7867-de02-4d13-8c49-08ff29711307",
       "title": "Laptop ASUS X515EA-BQ955, Intel Core i7-1165G7 pana la 4.7GHz, 15.6\" Full HD, 8GB, SSD 512GB, Intel Iris Xe Graphics, Free Dos, argintiu",
       "price": 2898.9,
       "processor_type": "Intel Core i7 1165G7",
@@ -1034,1187 +931,591 @@
     }
   },
   {
-    "magasine": "Cel.ro",
-    "specs": {
-      "id": "1a81e793-31c9-4084-8d75-3ff1b543afe5",
-      "title": "Laptop ASUS VivoBook 15 OLED M513UA AMD Ryzen 5 5500U 512GB SSD 8GB AMD Radeon FullHD Tastatura iluminata FPR Hearty Gold",
-      "price": 2499.0,
-      "processor_type": "AMD Ryzen 5 AMD Ryzen 5 5500U",
-      "memory_type": "SSD 512GB",
-      "RAM": "8GB DDR4",
-      "GPU": " ",
-      "screen_resolution": "1920 x 1080",
-      "link": "https://www.cel.ro/laptop-laptopuri/laptop-asus-vivobook-15-oled-m513ua-amd-ryzen-5-5500u-512gb-ssd-8gb-amd-radeon-fullhd-tastatura-iluminata-fpr-hearty-gold-pNCIwNDwnMg-l/"
-    }
-  },
-  {
-    "magasine": "Cel.ro",
-    "specs": {
-      "id": "6d17a44d-c261-4e3d-859c-90420bfaa332",
-      "title": "Laptop Gaming Asus ROG Strix G15 G513IE AMD Ryzen 7 4800H SSD 512GB 8GB GeForce RTX 3050 Ti 4GB FullHD 144Hz Gri",
-      "price": 3699.0,
-      "processor_type": "AMD Ryzen 7 4800H",
-      "memory_type": "SSD 512 GB",
-      "RAM": "8GB DDR4",
-      "GPU": "nVidia GeForce RTX 3050 Ti",
-      "screen_resolution": "1920 x 1080",
-      "link": "https://www.cel.ro/laptop-laptopuri/laptop-gaming-asus-rog-strix-g15-g513ie-amd-ryzen-7-4800h-ssd-512gb-8gb-geforce-rtx-3050-ti-4gb-fullhd-144hz-gri-pNCY2MjIoNg-l/"
-    }
-  },
-  {
-    "magasine": "Cel.ro",
-    "specs": {
-      "id": "05f914a5-1462-4e1c-bf6d-cffd455980e1",
-      "title": "Laptop ASUS K413EA Intel Core (11th Gen) i5-1135G7 SSD 512GB 16GB Intel Iris Xe Graphics FullHD FPR Negru",
-      "price": 2499.0,
-      "processor_type": "Intel Core i5 1135G7",
-      "memory_type": "SSD 512 GB",
-      "RAM": "16GB DDR4",
-      "GPU": "Intel Iris Xe Graphics",
-      "screen_resolution": "1920 x 1080",
-      "link": "https://www.cel.ro/laptop-laptopuri/laptop-asus-k413ea-intel-core-11th-gen-i5-1135g7-ssd-512gb-16gb-intel-iris-xe-graphics-fullhd-fpr-negru-pNCY6ND0pMg-l/"
-    }
-  },
-  {
-    "magasine": "Cel.ro",
-    "specs": {
-      "id": "da79dec7-a888-4e00-afd7-6787103c3a42",
-      "title": "Laptop ASUS X515MA Intel Celeron N4020 256GB SSD 4GB FullHD Transparent Silver",
-      "price": 1099.0,
-      "processor_type": "Intel Celeron Dual Core Intel Celeron N4020",
-      "memory_type": "SSD 256GB",
-      "RAM": "4GB DDR4",
-      "GPU": "Intel UHD Graphics",
-      "screen_resolution": "1920 x 1080",
-      "link": "https://www.cel.ro/laptop-laptopuri/laptop-asus-x515ma-intel-celeron-n4020-256gb-ssd-4gb-fullhd-transparent-silver-pNSQwPTwuPw-l/"
-    }
-  },
-  {
-    "magasine": "Cel.ro",
-    "specs": {
-      "id": "5014a64f-dc2e-45fe-a208-18abd1665b63",
-      "title": "Laptop Asus ZenBook 14 UX425EA Intel Core (11th Gen) i7-1165G7 SSD 512GB 16GB Iris Xe Graphics FullHD Win11 Home Lilac Mist",
-      "price": 4449.0,
-      "processor_type": "Intel Core i7 1165G7",
-      "memory_type": "SSD 512 GB",
-      "RAM": "16GB LPDDR4X",
-      "GPU": "Intel Iris Xe Graphics",
-      "screen_resolution": "1920 x 1080",
-      "link": "https://www.cel.ro/laptop-laptopuri/laptop-asus-zenbook-14-ux425ea-intel-core-11th-gen-i7-1165g7-ssd-512gb-16gb-iris-xe-graphics-fullhd-win11-home-lilac-mist-pNCY6NTQpMA-l/"
-    }
-  },
-  {
-    "magasine": "Cel.ro",
-    "specs": {
-      "id": "d748f3c7-39bd-49be-9d53-9709e9171c4e",
-      "title": "Laptop ASUS VivoBook 15 OLED M513UA AMD Ryzen 5 5500U 512GB SSD 8GB AMD Radeon FullHD Tastatura iluminata FPR Transparent Silver",
-      "price": 2399.0,
-      "processor_type": "AMD Ryzen 5 AMD Ryzen 5 5500U",
-      "memory_type": "SSD 512GB",
-      "RAM": "8GB DDR4",
-      "GPU": " ",
-      "screen_resolution": "1920 x 1080",
-      "link": "https://www.cel.ro/laptop-laptopuri/laptop-asus-vivobook-15-oled-m513ua-amd-ryzen-5-5500u-512gb-ssd-8gb-amd-radeon-fullhd-tastatura-iluminata-fpr-transparent-silver-pNCIwNDwsNA-l/"
-    }
-  },
-  {
-    "magasine": "Cel.ro",
-    "specs": {
-      "id": "14f0c0a7-834c-4276-859e-7c7a4a3c0fee",
-      "title": "Laptop ASUS X515FA Intel Core (10th Gen) i3-10110U SSD 256GB 8GB Intel UHD Graphics FullHD Slate Grey",
-      "price": 1499.0,
-      "processor_type": "Intel Core i3 10110U",
-      "memory_type": "SSD 256GB",
-      "RAM": "8GB DDR4",
-      "GPU": "Intel UHD Graphics",
-      "screen_resolution": "1920 x 1080",
-      "link": "https://www.cel.ro/laptop-laptopuri/laptop-asus-x515fa-intel-core-10th-gen-i3-10110u-ssd-256gb-8gb-intel-uhd-graphics-fullhd-slate-grey-pNCY7MzwrMA-l/"
-    }
-  },
-  {
-    "magasine": "Cel.ro",
-    "specs": {
-      "id": "ead0a0a9-9c1c-40e6-93c1-56646721eb4a",
-      "title": "Laptop ASUS VivoBook M515DA AMD Ryzen 3 3250U 512GB SSD 8GB AMD Radeon FullHD Tastatura iluminata Slate Grey",
-      "price": 1699.0,
-      "processor_type": "AMD Ryzen 3 AMD Ryzen 3 3250U",
-      "memory_type": "SSD 512GB",
-      "RAM": "8GB DDR4",
-      "GPU": " ",
-      "screen_resolution": "1920 x 1080",
-      "link": "https://www.cel.ro/laptop-laptopuri/laptop-asus-vivobook-m515da-amd-ryzen-3-3250u-512gb-ssd-8gb-amd-radeon-fullhd-tastatura-iluminata-slate-grey-pNCM7NDUvNQ-l/"
-    }
-  },
-  {
-    "magasine": "Cel.ro",
-    "specs": {
-      "id": "b6a53bf6-01c3-4dcd-9e77-44501cc6e74d",
-      "title": "Laptop Asus VivoBook K413EA Intel Core (11th Gen) i5-1135G7 512GB SSD 8GB Iris Xe FullHD Transparent Silver",
-      "price": 2199.0,
-      "processor_type": "Intel Core i5 i5-1135G7",
-      "memory_type": "SSD 512 GB",
-      "RAM": "8GB DDR4",
-      "GPU": "Intel Iris Xe Graphics",
-      "screen_resolution": "1920 x 1080",
-      "link": "https://www.cel.ro/laptop-laptopuri/laptop-asus-vivobook-k413ea-intel-core-11th-gen-i5-1135g7-512gb-ssd-8gb-iris-xe-fullhd-transparent-silver-pNCQ2NzcqNQ-l/"
-    }
-  },
-  {
-    "magasine": "Cel.ro",
-    "specs": {
-      "id": "e89eb2ac-edc3-4597-b2d2-fc44301c57c7",
-      "title": "Laptop ASUS VivoBook 15 X513EA Intel Core (11th Gen) i5-1135G7 512GB SSD 8GB Intel Iris Xe FullHD FPR Bespoke Black",
-      "price": 2399.0,
-      "processor_type": "Intel Core i5 1135G7",
-      "memory_type": "SSD 512 GB",
-      "RAM": "8GB DDR4",
-      "GPU": "Intel Iris Xe Graphics",
-      "screen_resolution": "1920 x 1080",
-      "link": "https://www.cel.ro/laptop-laptopuri/laptop-asus-vivobook-15-x513ea-intel-core-11th-gen-i5-1135g7-512gb-ssd-8gb-intel-iris-xe-fullhd-fpr-bespoke-black-pNCczMTUsPg-l/"
-    }
-  },
-  {
-    "magasine": "Cel.ro",
-    "specs": {
-      "id": "aa8b7bba-aeca-491c-9cd3-17a3d689d102",
-      "title": "Laptop Gaming Asus TUF A15 FA507RE AMD Ryzen 7 6800H 1TB SSD 16GB GeForce RTX 3050 Ti 4GB FullHD 144Hz Mecha Gray",
-      "price": 5299.0,
-      "processor_type": "AMD Ryzen 7 Ryzen 7 6800H",
-      "memory_type": "SSD 1TB",
-      "RAM": "16GB DDR5",
-      "GPU": "nVidia GeForce RTX 3050 Ti",
-      "screen_resolution": "1920 x 1080",
-      "link": "https://www.cel.ro/laptop-laptopuri/laptop-gaming-asus-tuf-a15-fa507re-amd-ryzen-7-6800h-1tb-ssd-16gb-geforce-rtx-3050-ti-4gb-fullhd-144hz-mecha-gray-pNCQ1NDMsNQ-l/"
-    }
-  },
-  {
-    "magasine": "Cel.ro",
-    "specs": {
-      "id": "15c92fd7-f610-48d9-93c5-544455639f9f",
-      "title": "Laptop ASUS E510MA Intel Celeron N4020 SSD 256GB 4GB Intel UHD Graphics 600 FullHD Negru",
-      "price": 899.0,
-      "processor_type": "Intel Celeron Dual Core N4020",
-      "memory_type": "SSD 256GB",
-      "RAM": "4GB DDR4",
-      "GPU": "Intel\u00ae UHD Graphics 600",
-      "screen_resolution": "1920 x 1080",
-      "link": "https://www.cel.ro/laptop-laptopuri/laptop-asus-e510ma-intel-celeron-n4020-ssd-256gb-4gb-intel-uhd-graphics-600-fullhd-negru-pNCYwNDImMQ-l/"
-    }
-  },
-  {
-    "magasine": "Cel.ro",
-    "specs": {
-      "id": "7eaee017-d85d-46e6-a42c-d03c3b6a6820",
-      "title": "Laptop ASUS X515EA Intel Core (11th Gen) i7-1165G7 SSD 512GB 8GB Intel Iris Xe Graphics FullHD Slate Grey",
-      "price": 2599.0,
-      "processor_type": "Intel Core i7 1165G7",
-      "memory_type": "SSD 512GB",
-      "RAM": "8GB DDR4",
-      "GPU": "Intel Iris Xe Graphics",
-      "screen_resolution": "1920 x 1080",
-      "link": "https://www.cel.ro/laptop-laptopuri/laptop-asus-x515ea-intel-core-11th-gen-i7-1165g7-ssd-512gb-8gb-intel-iris-xe-graphics-fullhd-slate-grey-pNCY7MzwpNw-l/"
-    }
-  },
-  {
-    "magasine": "Cel.ro",
-    "specs": {
-      "id": "1d0799dd-dbc5-4632-84b3-b264ab556a9d",
-      "title": "Laptop ASUS X515EA Intel Core (11th Gen) i7-1165G7 SSD 512GB 8GB Intel Iris Xe Graphics FullHD Transparent Silver",
-      "price": 2899.0,
-      "processor_type": "Intel Core i7 1165G7",
-      "memory_type": "SSD 512 GB",
-      "RAM": "8GB DDR4",
-      "GPU": "Intel Iris Xe Graphics",
-      "screen_resolution": "1920 x 1080",
-      "link": "https://www.cel.ro/laptop-laptopuri/laptop-asus-x515ea-intel-core-11th-gen-i7-1165g7-ssd-512gb-8gb-intel-iris-xe-graphics-fullhd-transparent-silver-pNCY7MzwpNg-l/"
-    }
-  },
-  {
-    "magasine": "Cel.ro",
-    "specs": {
-      "id": "565d90cd-8a50-43e3-9d24-ee8b5918f07f",
-      "title": "Laptop ASUS VivoBook 15 OLED M513UA AMD Ryzen 7 5700U 512GB SSD 8GB AMD Radeon Graphics FullHD T. ilum. FPR Indie Black",
-      "price": 2939.0,
-      "processor_type": "  5700U",
-      "memory_type": "  512 GB",
-      "RAM": "8 GB DDR4",
-      "GPU": "AMD Radeon",
-      "screen_resolution": "1920 x 1080",
-      "link": "https://www.cel.ro/laptop-laptopuri/laptop-asus-vivobook-15-oled-m513ua-amd-ryzen-7-5700u-512gb-ssd-8gb-amd-radeon-graphics-fullhd-t-ilum-fpr-indie-black-pNCIyMz0qMg-l/"
-    }
-  },
-  {
-    "magasine": "Cel.ro",
-    "specs": {
-      "id": "8e2befa4-b6b1-4b5f-88b0-706a6bc817c9",
-      "title": "Laptop Asus VivoBook OLED M513UA AMD Ryzen 7 5700U SSD 512GB 16GB AMD Radeon Graphics FullHD FPR Win11 Home Indie Black",
-      "price": 3299.0,
-      "processor_type": "AMD Ryzen 7 5700U",
-      "memory_type": "SSD 512GB",
-      "RAM": "16GB DDR4",
-      "GPU": "AMD Radeon Graphics",
-      "screen_resolution": "1920 x 1080",
-      "link": "https://www.cel.ro/laptop-laptopuri/laptop-asus-vivobook-oled-m513ua-amd-ryzen-7-5700u-ssd-512gb-16gb-amd-radeon-graphics-fullhd-fpr-win11-home-indie-black-pNCc3PDYuMQ-l/"
-    }
-  },
-  {
-    "magasine": "Cel.ro",
-    "specs": {
-      "id": "c3fd6c75-d25f-46ea-9260-fa136d4a1594",
-      "title": "Ultrabook 2in1 Asus Vivobook Flip 14 TP470EA Intel Core (11th Gen) i7-1165G7 SSD 512GB 16GB Intel Iris Xe Graphics FullHD Touch Win11",
-      "price": 3999.0,
-      "processor_type": "Intel Core i7 1165G7",
-      "memory_type": "SSD 512 GB",
-      "RAM": "16GB DDR4",
-      "GPU": "Intel Iris Xe Graphics",
-      "screen_resolution": "1920 x 1080",
-      "link": "https://www.cel.ro/laptop-laptopuri/ultrabook-2in1-asus-vivobook-flip-14-tp470ea-intel-core-11th-gen-i7-1165g7-ssd-512gb-16gb-intel-iris-xe-graphics-fullhd-touch-win11-pNCc3PDcmPw-l/"
-    }
-  },
-  {
-    "magasine": "Cel.ro",
-    "specs": {
-      "id": "356abe79-9baf-4eef-a1fa-1773a8e2009e",
-      "title": "Laptop ASUS VivoBook 15 K513EA Intel Core (11th Gen) i7-1165G7 SSD 512GB 8GB Intel UHD Graphics FullHD FPR Negru",
-      "price": 2699.0,
-      "processor_type": "Intel Core i7 1165G7",
-      "memory_type": "SSD 512 GB",
-      "RAM": "8GB DDR4",
-      "GPU": "Intel UHD Graphics",
-      "screen_resolution": "1920 x 1080",
-      "link": "https://www.cel.ro/laptop-laptopuri/laptop-asus-vivobook-15-k513ea-intel-core-11th-gen-i7-1165g7-ssd-512gb-8gb-intel-uhd-graphics-fullhd-fpr-negru-pNCA2MDEoMw-l/"
-    }
-  },
-  {
-    "magasine": "Cel.ro",
-    "specs": {
-      "id": "096b9468-7aca-48f3-8fa8-2a524eb06fe0",
-      "title": "Laptop Lenovo ThinkBook 15 G2 ITL Intel Core (11th Gen) i7-1165G7 512GB SSD 16GB Iris Xe FullHD FPR Tast. ilum. Mineral Grey",
-      "price": 4629.0,
-      "processor_type": "Intel Core i7 i7-1165G7",
-      "memory_type": "SSD 512GB",
-      "RAM": "16GB DDR4",
-      "GPU": " ",
-      "screen_resolution": "1920 x 1080",
-      "link": "https://www.cel.ro/laptop-laptopuri/laptop-lenovo-thinkbook-15-g2-itl-intel-core-11th-gen-i7-1165g7-512gb-ssd-16gb-iris-xe-fullhd-fpr-tast-ilum-mineral-grey-pMiExPTUuPg-l/"
-    }
-  },
-  {
-    "magasine": "Cel.ro",
-    "specs": {
-      "id": "10b333c6-3dc4-48be-bfee-ff71c304c60d",
-      "title": "Laptop ASUS 15 X515EA Intel Core (11th Gen) i3-1115G4 256GB SSD 8GB FullHD FPR Slate Grey",
-      "price": 1799.0,
-      "processor_type": "Intel Core i3 i3-1115G4",
-      "memory_type": "SSD 256GB",
-      "RAM": "8GB DDR4",
-      "GPU": "Intel UHD Graphics",
-      "screen_resolution": "1920 x 1080",
-      "link": "https://www.cel.ro/laptop-laptopuri/laptop-asus-15-x515ea-intel-core-11th-gen-i3-1115g4-256gb-ssd-8gb-fullhd-fpr-slate-grey-pNSQ6MTQsNA-l/"
-    }
-  },
-  {
-    "magasine": "Cel.ro",
-    "specs": {
-      "id": "9e038842-e898-4080-8022-a354f742d49d",
-      "title": "Laptop ASUS Vivobook 15 K513EA Intel Core (11th Gen) i7-1165G7 512GB SSD 8GB FullHD Endless Tast. ilum. FPR Hearty Gold",
-      "price": 2999.0,
-      "processor_type": "Intel Core i7 1165G7",
-      "memory_type": "SSD 512GB",
-      "RAM": "8GB DDR4",
-      "GPU": " ",
-      "screen_resolution": "1920 x 1080",
-      "link": "https://www.cel.ro/laptop-laptopuri/laptop-asus-vivobook-15-k513ea-intel-core-11th-gen-i7-1165g7-512gb-ssd-8gb-fullhd-endless-tast-ilum-fpr-hearty-gold-pNSo6PTApNA-l/"
-    }
-  },
-  {
-    "magasine": "Cel.ro",
-    "specs": {
-      "id": "6b5a00d9-ed39-4d97-b5e7-9e446248e0c5",
-      "title": "Laptop Gaming Asus ROG Zephyrus G15 AMD Ryzen 9 6900HS 1TB SSD 32GB GeForce RTX 3080 16GB QHD 240Hz Win11 Eclipse Gray",
-      "price": 12904.0,
-      "processor_type": "AMD Ryzen 9 AMD Ryzen 9 6900HS",
-      "memory_type": "SSD 1TB",
-      "RAM": "32GB DDR5",
-      "GPU": "nVidia GeForce RTX 3080",
-      "screen_resolution": "2560 x 1440",
-      "link": "https://www.cel.ro/laptop-laptopuri/laptop-gaming-asus-rog-zephyrus-g15-amd-ryzen-9-6900hs-1tb-ssd-32gb-geforce-rtx-3080-16gb-qhd-240hz-win11-eclipse-gray-pNCsyNT0pPw-l/"
-    }
-  },
-  {
-    "magasine": "Cel.ro",
-    "specs": {
-      "id": "ea22c6da-8e78-488b-b165-d4caf2517a20",
-      "title": "Laptop Lenovo IdeaPad 3 15ITL6 Intel Celeron 6305 256GB SSD 4GB Intel UHD FullHD Auriu",
-      "price": 1154.0,
-      "processor_type": "Intel Celeron Dual Core Intel Celeron 6305",
-      "memory_type": "SSD 256GB",
-      "RAM": "4GB DDR4",
-      "GPU": "Intel UHD Graphics",
-      "screen_resolution": "1920 x 1080",
-      "link": "https://www.cel.ro/laptop-laptopuri/laptop-lenovo-ideapad-3-15itl6-intel-celeron-6305-256gb-ssd-4gb-intel-uhd-fullhd-auriu-pNCowMjUtMg-l/"
-    }
-  },
-  {
-    "magasine": "Cel.ro",
-    "specs": {
-      "id": "03d04156-5ca4-41df-9136-0fceb8b4a8c6",
-      "title": "Ultrabook ASUS ExpertBook 14 B9400CEA Intel Core (11th Gen) i7-1165G7 1TB SSD 16GB Iris Xe FullHD Win10 Pro Tast. ilum. FPR Black",
-      "price": 6764.0,
-      "processor_type": "Intel Core i7 i7- 1165G7",
-      "memory_type": "SSD 1TB",
-      "RAM": "16GB LPDDR4X",
-      "GPU": " ",
-      "screen_resolution": "1920 x 1080",
-      "link": "https://www.cel.ro/laptop-laptopuri/ultrabook-asus-expertbook-14-b9400cea-intel-core-11th-gen-i7-1165g7-1tb-ssd-16gb-iris-xe-fullhd-win10-pro-tast-ilum-fpr-black-pMic6NTEqMQ-l/"
-    }
-  },
-  {
-    "magasine": "Cel.ro",
-    "specs": {
-      "id": "94ed5c28-cae0-4901-aad2-7181dda384d3",
-      "title": "Laptop Lenovo Yoga Slim 7 14ITL05 Intel Core (11th Gen) i5-1135G7 512GB SSD 8GB Intel Iris Xe FullHD Win10 T.Ilum. Orchid",
-      "price": 3799.0,
-      "processor_type": "Intel Core i5 i5-1135G7",
-      "memory_type": "SSD 512GB",
-      "RAM": "8GB DDR4",
-      "GPU": "Intel Iris XE Graphics",
-      "screen_resolution": "1920 x 1080",
-      "link": "https://www.cel.ro/laptop-laptopuri/laptop-lenovo-yoga-slim-7-14itl05-intel-core-11th-gen-i5-1135g7-512gb-ssd-8gb-intel-iris-xe-fullhd-win10-t-ilum-orchid-pNSUwNzMnMw-l/"
-    }
-  },
-  {
-    "magasine": "Cel.ro",
-    "specs": {
-      "id": "2ef0efe3-1d5e-488f-9202-e3f6569753f1",
-      "title": "Laptop Lenovo V15-IML Intel Core (10th Gen) i3-10110U 256GB SSD 8GB FullHD Iron Grey",
-      "price": 1649.0,
-      "processor_type": "Intel Core i3 Intel Core (10th Gen) i3-10110U",
-      "memory_type": "SSD 256GB",
-      "RAM": "8GB DDR4",
-      "GPU": " ",
-      "screen_resolution": "1920 x 1080",
-      "link": "https://www.cel.ro/laptop-laptopuri/laptop-lenovo-v15-iml-intel-core-10th-gen-i3-10110u-256gb-ssd-8gb-fullhd-iron-grey-pMio6MDUnNw-l/"
-    }
-  },
-  {
-    "magasine": "Cel.ro",
-    "specs": {
-      "id": "bc334399-6bc4-4d5e-953d-25ed35b6b3d6",
-      "title": "Laptop Dell Latitude 5521 Intel Core (11th Gen) i7-11850H SSD 512GB 16GB Intel UHD FullHD Ubuntu Gray Resigilat",
-      "price": 4999.0,
-      "processor_type": "Intel Core i7 11850H",
-      "memory_type": "SSD 512 GB",
-      "RAM": "16GB DDR4",
-      "GPU": "Intel UHD Graphics",
-      "screen_resolution": "1920 x 1080",
-      "link": "https://www.cel.ro/laptop-laptopuri/laptop-dell-latitude-5521-intel-core-11th-gen-i7-11850h-ssd-512gb-16gb-intel-uhd-fullhd-ubuntu-gray-resigilat-pNCo3Nj0nNg-l/"
-    }
-  },
-  {
-    "magasine": "Cel.ro",
-    "specs": {
-      "id": "a62d6815-ce94-47c1-b54b-083872274f27",
-      "title": "Laptop HP 255 G8 AMD Ryzen 5 3500U 256GB SSD 8GB Radeon Vega 8 FullHD Win10 Pro Dark Ash Silver",
-      "price": 2299.0,
-      "processor_type": "AMD Ryzen 5 AMD Ryzen 3500U",
-      "memory_type": "SSD 256GB",
-      "RAM": "8GB DDR4",
-      "GPU": "AMD Radeon Vega 8",
-      "screen_resolution": "1920 x 1080",
-      "link": "https://www.cel.ro/laptop-laptopuri/laptop-hp-255-g8-amd-ryzen-5-3500u-256gb-ssd-8gb-radeon-vega-8-fullhd-win10-pro-dark-ash-silver-pNSY2MTMoPw-l/"
-    }
-  },
-  {
-    "magasine": "Cel.ro",
-    "specs": {
-      "id": "cc8b7333-f8e7-49bf-8d45-67faae1cba5c",
-      "title": "Laptop Asus Vivobook Pro OLED M3500QC AMD Ryzen 9 5900HX 1TB SSD 16GB nVidia Geforce RTX 3050 4GB FullHD FPR",
-      "price": 5054.0,
-      "processor_type": "AMD Ryzen 9 Ryzen 9 5900HX",
-      "memory_type": "SSD 1TB",
-      "RAM": "16GB DDR4",
-      "GPU": "nVidia GeForce RTX 3050",
-      "screen_resolution": "1920 x 1080",
-      "link": "https://www.cel.ro/laptop-laptopuri/laptop-asus-vivobook-pro-oled-m3500qc-amd-ryzen-9-5900hx-1tb-ssd-16gb-nvidia-geforce-rtx-3050-4gb-fullhd-fpr-pNCQwNzUpNw-l/"
-    }
-  },
-  {
-    "magasine": "Cel.ro",
-    "specs": {
-      "id": "703e8d1a-477b-41e9-9349-4c61049ee6e7",
-      "title": "Ultrabook 2in1 Asus Zenbook 14 Flip OLED UP5401EA Intel Core (11th Gen) i5-1135G7 SSD 512GB 8GB Iris Xe 2.8K Touch 90Hz FPR Win11 Pro",
-      "price": 4799.0,
-      "processor_type": "Intel Core i5 i5-1135G7",
-      "memory_type": "SSD 512 GB",
-      "RAM": "8GB LPDDR4X",
-      "GPU": "Intel Iris Xe Graphics",
-      "screen_resolution": "2880 x 1800",
-      "link": "https://www.cel.ro/laptop-laptopuri/ultrabook-2in1-asus-zenbook-14-flip-oled-up5401ea-intel-core-11th-gen-i5-1135g7-ssd-512gb-8gb-iris-xe-2-8k-touch-90hz-fpr-win11-pro-pNCQ2NTEoNw-l/"
-    }
-  },
-  {
-    "magasine": "Cel.ro",
-    "specs": {
-      "id": "8edf906a-e8fc-4196-96c1-e3aab58514f2",
-      "title": "Laptop HP Pavilion 15-eh1005nq AMD Ryzen 7 5700U 512GB SSD 8GB AMD Radeon Graphics FullHD Win11 Fog Blue",
-      "price": 3714.0,
-      "processor_type": "AMD Ryzen 7 Ryzen 7 5700U",
-      "memory_type": "SSD 512 GB",
-      "RAM": "8GB DDR4",
-      "GPU": "AMD Radeon Graphics",
-      "screen_resolution": "1920 x 1080",
-      "link": "https://www.cel.ro/laptop-laptopuri/laptop-hp-pavilion-15-eh1005nq-amd-ryzen-7-5700u-512gb-ssd-8gb-amd-radeon-graphics-fullhd-win11-fog-blue-pNCowMT0qNA-l/"
-    }
-  },
-  {
-    "magasine": "Cel.ro",
-    "specs": {
-      "id": "c7fbc0e7-6f53-4ff0-be5b-1fb940a3e749",
-      "title": "Laptop Asus X515FA Intel Core (10th Gen) i3-10110U 512GB SSD 8GB Intel UHD FullHD Transparent Silver",
-      "price": 1799.0,
-      "processor_type": "Intel Core i3 i3-10110U",
-      "memory_type": "SSD 512 GB",
-      "RAM": "8GB DDR4",
-      "GPU": "Intel UHD Graphics",
-      "screen_resolution": "1920 x 1080",
-      "link": "https://www.cel.ro/laptop-laptopuri/laptop-asus-x515fa-intel-core-10th-gen-i3-10110u-512gb-ssd-8gb-intel-uhd-fullhd-transparent-silver-pNCUwMTQoMA-l/"
-    }
-  },
-  {
-    "magasine": "Cel.ro",
-    "specs": {
-      "id": "8029f68a-e779-4134-98eb-5e8a4f927e6c",
-      "title": "Laptop Asus X515EA Intel Core (11th Gen) i5-1135G7 1TB HDD+512GB SSD 16GB Intel Iris Xe FullHD Slate Grey",
-      "price": 2499.0,
-      "processor_type": "Intel Core i5 1135G7",
-      "memory_type": "HDD 1TB",
-      "RAM": "16GB DDR4",
-      "GPU": "Intel Iris XE Graphics",
-      "screen_resolution": "1920 x 1080",
-      "link": "https://www.cel.ro/laptop-laptopuri/laptop-asus-x515ea-intel-core-11th-gen-i5-1135g7-1tb-hddplus-512gb-ssd-16gb-intel-iris-xe-fullhd-slate-grey-pNCY7MzwmPg-l/"
-    }
-  },
-  {
-    "magasine": "Cel.ro",
-    "specs": {
-      "id": "d2993b5a-742a-4b87-b4c5-2fb2bbad9df6",
-      "title": "Laptop HP 17-cn0012nq Intel Core (11th Gen) i7-1165G7 512GB SSD 8GB Intel Iris Xe FullHD Jet Black",
-      "price": 3544.0,
-      "processor_type": "Intel Core i7 i7-1165G7",
-      "memory_type": "SSD 512GB",
-      "RAM": "8GB DDR4",
-      "GPU": "Intel Iris XE Graphics",
-      "screen_resolution": "1920 x 1080",
-      "link": "https://www.cel.ro/laptop-laptopuri/laptop-hp-17-cn0012nq-intel-core-11th-gen-i7-1165g7-512gb-ssd-8gb-intel-iris-xe-fullhd-jet-black-pNSc3NzErPw-l/"
-    }
-  },
-  {
-    "magasine": "Cel.ro",
-    "specs": {
-      "id": "49b0ea1d-b487-4ee4-a8c7-aebea5859f16",
-      "title": "Laptop Dell XPS 13 9305 Intel Core (11th Gen) i7-1165G7 512GB SSD 16GB Iris Xe UHD Touch FPR Win11 Pro Silver",
-      "price": 9274.0,
-      "processor_type": "Intel Core i7 i7-1165G7",
-      "memory_type": "SSD 512 GB",
-      "RAM": "16GB DDR4X",
-      "GPU": "Intel Iris Xe Graphics",
-      "screen_resolution": "3840 x 2160",
-      "link": "https://www.cel.ro/laptop-laptopuri/laptop-dell-xps-13-9305-intel-core-11th-gen-i7-1165g7-512gb-ssd-16gb-iris-xe-uhd-touch-fpr-win11-pro-silver-pNCsxMT0rPw-l/"
-    }
-  },
-  {
-    "magasine": "Cel.ro",
-    "specs": {
-      "id": "a9dfd911-359e-4b84-bea5-8b913b00cf0f",
-      "title": "Laptop HP ProBook 470 G8 Intel Core (11th Gen) i7-1165G7 512GB SSD 16GB GeForce MX450 2GB FullHD Win11 Pike Silver",
-      "price": 5569.0,
-      "processor_type": "Intel Core i7 i7-1165G7",
-      "memory_type": "SSD 512 GB",
-      "RAM": "16GB DDR4",
-      "GPU": "nVidia GeForce MX450",
-      "screen_resolution": "1920 x 1080",
-      "link": "https://www.cel.ro/laptop-laptopuri/laptop-hp-probook-470-g8-intel-core-11th-gen-i7-1165g7-512gb-ssd-16gb-geforce-mx450-2gb-fullhd-win11-pike-silver-pNCo2MjQsNg-l/"
-    }
-  },
-  {
-    "magasine": "Cel.ro",
-    "specs": {
-      "id": "58b4efe8-f60e-4055-b15d-d93d226c054e",
-      "title": "Laptop Lenovo ThinkBook 15 G2 ITL Intel Core (11th Gen) i5-1135G7 512GB SSD 8GB FullHD FPR Tast. ilum. Mineral Grey",
-      "price": 3544.0,
-      "processor_type": "Intel Core i5 i5-1135G7",
-      "memory_type": "SSD 512GB",
-      "RAM": "8GB DDR4",
-      "GPU": " ",
-      "screen_resolution": "1920 x 1080",
-      "link": "https://www.cel.ro/laptop-laptopuri/laptop-lenovo-thinkbook-15-g2-itl-intel-core-11th-gen-i5-1135g7-512gb-ssd-8gb-fullhd-fpr-tast-ilum-mineral-grey-pMiExMDEuPw-l/"
-    }
-  },
-  {
-    "magasine": "Cel.ro",
-    "specs": {
-      "id": "6ccd72b0-30cf-48ce-9a42-d66ebab25376",
-      "title": "Laptop ASUS BR1100CKA Intel Pentium Silver N6000 128GB eMMC 8GB HD Dark Grey",
-      "price": 1799.0,
-      "processor_type": "Intel Pentium Quad Core Intel Pentium Silver N6000",
-      "memory_type": "eMMC 128GB",
-      "RAM": "8GB DDR4",
-      "GPU": " ",
-      "screen_resolution": "1366 x 768",
-      "link": "https://www.cel.ro/laptop-laptopuri/laptop-asus-br1100cka-intel-pentium-silver-n6000-128gb-emmc-8gb-hd-dark-grey-pNCI0PTwqPw-l/"
-    }
-  },
-  {
-    "magasine": "Cel.ro",
-    "specs": {
-      "id": "c2a621ad-1e3b-450c-beb9-9365a230088e",
-      "title": "Laptop Lenovo ThinkPad E15 Gen 3 AMD Ryzen 7 5700U 1TB SSD 16GB AMD Radeon Graphics FullHD FPR Black",
-      "price": 5474.0,
-      "processor_type": "AMD Ryzen 7 Ryzen 7 5700U",
-      "memory_type": "SSD 1TB",
-      "RAM": "16GB DDR4",
-      "GPU": "AMD Radeon Graphics",
-      "screen_resolution": "1920 x 1080",
-      "link": "https://www.cel.ro/laptop-laptopuri/laptop-lenovo-thinkpad-e15-gen-3-amd-ryzen-7-5700u-1tb-ssd-16gb-amd-radeon-graphics-fullhd-fpr-black-pNCQ3MjIuNg-l/"
-    }
-  },
-  {
-    "magasine": "Cel.ro",
-    "specs": {
-      "id": "07e1dfd9-c9ba-421a-ba1a-1414cd6491ed",
-      "title": "Laptop Gaming Asus TUF A17 FA706IE AMD Ryzen 7 4800H 512GB SSD 8GB nVidia GeForce RTX 3050 Ti 4GB FullHD Graphite Black",
-      "price": 3799.0,
-      "processor_type": "AMD Ryzen 7 Ryzen 7 4800H",
-      "memory_type": "SSD 512 GB",
-      "RAM": "8GB DDR4",
-      "GPU": "nVidia GeForce RTX 3050 Ti",
-      "screen_resolution": "1920 x 1080",
-      "link": "https://www.cel.ro/laptop-laptopuri/laptop-gaming-asus-tuf-a17-fa706ie-amd-ryzen-7-4800h-512gb-ssd-8gb-nvidia-geforce-rtx-3050-ti-4gb-fullhd-graphite-black-pNCQwNzctPg-l/"
-    }
-  },
-  {
-    "magasine": "Cel.ro",
-    "specs": {
-      "id": "3def98b3-6f34-4c62-8779-9b45d0d6f69e",
-      "title": "Laptop Gaming Asus ROG Strix G15 G513RC AMD Ryzen 7 6800H 1TB SSD 8GB GeForce RTX 3050 4GB FullHD 144Hz Eclipse Gray",
-      "price": 4799.0,
-      "processor_type": "AMD Ryzen 7 Ryzen 7 6800H",
-      "memory_type": "SSD 1TB",
-      "RAM": "8GB DDR5",
-      "GPU": "nVidia GeForce RTX 3050",
-      "screen_resolution": "1920 x 1080",
-      "link": "https://www.cel.ro/laptop-laptopuri/laptop-gaming-asus-rog-strix-g15-g513rc-amd-ryzen-7-6800h-1tb-ssd-8gb-geforce-rtx-3050-4gb-fullhd-144hz-eclipse-gray-pNCQ1NDMsMQ-l/"
-    }
-  },
-  {
-    "magasine": "Cel.ro",
-    "specs": {
-      "id": "d83a7124-1e29-4a70-bf9a-3750201067be",
-      "title": "Laptop Asus ExpertBook B1500CEAE Intel Core\u2122 (11 th Gen) i7- 1165G7 SSD 256GB 8GB FingerPrint Intel Iris X\u1d49 Graphics Win 10Pro Star Black",
-      "price": 3944.0,
-      "processor_type": "Intel Core i7 1165G7",
-      "memory_type": "SSD 256GB",
-      "RAM": "8GB DDR4",
-      "GPU": "Intel\u00ae Iris\u2122 Xe Graphics",
-      "screen_resolution": "1920 x 1080",
-      "link": "https://www.cel.ro/laptop-laptopuri/laptop-asus-expertbook-b1500ceae-intel-core--11-th-gen-i7-1165g7-ssd-256gb-8gb-fingerprint-intel-iris-x-graphics-win-10pro-star-black-pNCEwNTUnMg-l/"
-    }
-  },
-  {
-    "magasine": "Cel.ro",
-    "specs": {
-      "id": "cc6f20ea-d6e0-4179-b7ed-b8e5f5bb84b8",
-      "title": "Laptop Dell Vostro 3500 Intel Core (11th Gen) i5-1135G7 256GB SSD 8GB nVIDIA GeForce MX330 2GB FullHD Win10 Pro Black",
-      "price": 3494.0,
-      "processor_type": "Intel Core i5 i5-1135G7",
-      "memory_type": "SSD 256GB",
-      "RAM": "8GB DDR4",
-      "GPU": "MX330",
-      "screen_resolution": "1920 x 1080",
-      "link": "https://www.cel.ro/laptop-laptopuri/laptop-dell-vostro-3500-intel-core-11th-gen-i5-1135g7-256gb-ssd-8gb-nvidia-geforce-mx330-2gb-fullhd-win10-pro-black-pMicyNjUqNA-l/"
-    }
-  },
-  {
-    "magasine": "Cel.ro",
-    "specs": {
-      "id": "2da99d08-7907-4bf6-9e7a-1c90cdafc6de",
-      "title": "Laptop Gaming Asus ROG Strix G713RS AMD Ryzen 9 6900HX 1TB SSD 32GB GeForce RTX 3080 16GB QHD 240Hz Eclipse Gray",
-      "price": 11824.0,
-      "processor_type": "AMD Ryzen 9 AMD Ryzen 9 6900HX",
-      "memory_type": "SSD 1TB",
-      "RAM": "32GB DDR5",
-      "GPU": "nVidia GeForce RTX 3080",
-      "screen_resolution": "2560 x 1440",
-      "link": "https://www.cel.ro/laptop-laptopuri/laptop-gaming-asus-rog-strix-g713rs-amd-ryzen-9-6900hx-1tb-ssd-32gb-geforce-rtx-3080-16gb-qhd-240hz-eclipse-gray-pNCsyNjcqMg-l/"
-    }
-  },
-  {
-    "magasine": "Cel.ro",
-    "specs": {
-      "id": "c83f323f-e9c7-48ff-b461-2bdbc42feda1",
-      "title": "Laptop HP ProBook 445 G8 AMD Ryzen 3 5400U 256GB SSD 8GB AMD Radeon Graphics FullHD Win10 Pro Silver",
-      "price": 3274.0,
-      "processor_type": "AMD Ryzen 3 AMD Ryzen 3 5400U",
-      "memory_type": "SSD 256GB",
-      "RAM": "8GB DDR4",
-      "GPU": "AMD Radeon Graphics",
-      "screen_resolution": "1920 x 1080",
-      "link": "https://www.cel.ro/laptop-laptopuri/laptop-hp-probook-445-g8-amd-ryzen-3-5400u-256gb-ssd-8gb-amd-radeon-graphics-fullhd-win10-pro-silver-pNCo3MTYmPg-l/"
-    }
-  },
-  {
-    "magasine": "Cel.ro",
-    "specs": {
-      "id": "b0f0fccc-c15b-4c4e-b24d-ec8580d4bbba",
-      "title": "Laptop Dell Latitude 5520 Intel Core (11th Gen) i7-1165G7 512GB SSD 16GB Iris Xe FullHD Ubuntu Silver",
-      "price": 5099.0,
-      "processor_type": "Intel Core i7 1165G7",
-      "memory_type": "SSD 512 GB",
-      "RAM": "16GB DDR4",
-      "GPU": "Intel\u00ae Iris\u2122 Xe Graphics",
-      "screen_resolution": "1920 x 1080",
-      "link": "https://www.cel.ro/laptop-laptopuri/laptop-dell-latitude-5520-intel-core-11th-gen-i7-1165g7-512gb-ssd-16gb-iris-xe-fullhd-ubuntu-silver-pNCEyNzcmPw-l/"
-    }
-  },
-  {
-    "magasine": "Cel.ro",
-    "specs": {
-      "id": "c2134bbc-6707-475e-ba0a-3e717a4f0cfd",
-      "title": "Laptop Gaming Lenovo Legion 5 17ITH6 Intel Core (11th Gen) i5-11400H SSD 256 GB 1TB HDD 8GB NVIDIA GeForce RTX 3050 4GB 144Hz Phantom Blue",
-      "price": 5429.0,
-      "processor_type": "Intel Core i5 11400H",
-      "memory_type": "HDD 1TB",
-      "RAM": "8GB DDR4",
-      "GPU": "nVidia GeForce RTX 3050",
-      "screen_resolution": "1920 x 1080",
-      "link": "https://www.cel.ro/laptop-laptopuri/laptop-gaming-lenovo-legion-5-17ith6-intel-core-11th-gen-i5-11400h-ssd-256-gb-1tb-hdd-8gb-nvidia-geforce-rtx-3050-4gb-144hz-phantom-blue-pNCYyPTQsNA-l/"
-    }
-  },
-  {
-    "magasine": "Cel.ro",
-    "specs": {
-      "id": "e386e43e-f773-44b0-819c-de86083ec7eb",
-      "title": "Laptop 2in1 Asus Rog Flow Z13 Intel Core (12th Gen) i5-12500H 512GB SSD 16GB Iris Xe WUXGA Touch FPR 120Hz Win11 Black",
-      "price": 5599.0,
-      "processor_type": "Intel Core i5 i5-12500H",
-      "memory_type": "SSD 512 GB",
-      "RAM": "16GB DDR5",
-      "GPU": "Intel Iris Xe Graphics",
-      "screen_resolution": "1920 x 1080",
-      "link": "https://www.cel.ro/laptop-laptopuri/laptop-2in1-asus-rog-flow-z13-intel-core-12th-gen-i5-12500h-512gb-ssd-16gb-iris-xe-wuxga-touch-fpr-120hz-win11-black-pNCQ1NjEtPg-l/"
-    }
-  },
-  {
-    "magasine": "Cel.ro",
-    "specs": {
-      "id": "2ad22edc-c8be-4583-85a0-37a71b172011",
-      "title": "Ultrabook 2in1 ASUS ChromeBook C434TA Intel Core m3- 8100Y 64GB eMMC 4GB FullHD Touch Spangle Silver",
-      "price": 2399.0,
-      "processor_type": "  8100Y",
-      "memory_type": "   ",
-      "RAM": "  LPDDR3",
-      "GPU": "Integrata",
-      "screen_resolution": "1920 x 1080",
-      "link": "https://www.cel.ro/laptop-laptopuri/ultrabook-2in1-asus-chromebook-c434ta-intel-core-m3-8100y-64gb-emmc-4gb-fullhd-touch-spangle-silver-pNCI7NzYnNA-l/"
-    }
-  },
-  {
-    "magasine": "Cel.ro",
-    "specs": {
-      "id": "f4b3650f-7dbb-401a-9a7c-45a043338492",
-      "title": "Laptop ASUS VivoBook 15 OLED K513EA Intel Core (11th Gen) i7-1165G7 SSD 512GB 8GB Intel Iris Xe Full HD FPR Negru",
-      "price": 2999.0,
-      "processor_type": "Intel Core i7 1165G7",
-      "memory_type": "SSD 512 GB",
-      "RAM": "8GB DDR4",
-      "GPU": "Intel\u00ae Iris\u2122 Xe Graphics",
-      "screen_resolution": "1920 x 1080",
-      "link": "https://www.cel.ro/laptop-laptopuri/laptop-asus-vivobook-15-oled-k513ea-intel-core-11th-gen-i7-1165g7-ssd-512gb-8gb-intel-iris-xe-full-hd-fpr-negru-pNCYxMjItPw-l/"
-    }
-  },
-  {
-    "magasine": "Cel.ro",
-    "specs": {
-      "id": "705f648b-9693-43ba-b0df-363c5f4eadc7",
-      "title": "Laptop ASUS 15 X515EA Intel Core (11th Gen) i3-1115G4 SSD 256GB 8GB Intel UHD Transparent Silver",
-      "price": 1599.0,
-      "processor_type": "  1115G4",
-      "memory_type": "SSD 256GB",
-      "RAM": "8GB DDR4",
-      "GPU": "Intel UHD Graphics",
-      "screen_resolution": " ",
-      "link": "https://www.cel.ro/laptop-laptopuri/laptop-asus-15-x515ea-intel-core-11th-gen-i3-1115g4-ssd-256gb-8gb-intel-uhd-transparent-silver-pNCY7MzwnNA-l/"
-    }
-  },
-  {
-    "magasine": "Cel.ro",
-    "specs": {
-      "id": "8ed77dd2-6373-4a9f-856e-b1db23ac7faf",
-      "title": "Ultrabook 2in1 Asus ROG Flow X13 AMD Ryzen 7 6800HS 512GB SSD 16GB Radeon 680M WUXGA 120Hz Touch FPR Win11 Off Black",
-      "price": 4799.0,
-      "processor_type": "AMD Ryzen 7 AMD Ryzen 7 6800HS",
-      "memory_type": "SSD 512 GB",
-      "RAM": "16GB DDR5",
-      "GPU": "AMD 680M",
-      "screen_resolution": "1920x1200",
-      "link": "https://www.cel.ro/laptop-laptopuri/ultrabook-2in1-asus-rog-flow-x13-amd-ryzen-7-6800hs-512gb-ssd-16gb-radeon-680m-wuxga-120hz-touch-fpr-win11-off-black-pNCU6MT0uNA-l/"
-    }
-  },
-  {
-    "magasine": "Cel.ro",
-    "specs": {
-      "id": "71625c69-7d01-4e65-ba6f-a0777d008a3f",
-      "title": "Laptop Gaming Lenovo Legion 5 Pro 16ACH6H AMD Ryzen 5 5600H 512GB SSD 16GB RTX 3060 6GB WQXGA 165Hz RGB Storm Grey",
-      "price": 6134.0,
-      "processor_type": "AMD Ryzen 5 AMD Ryzen 5 5600H",
-      "memory_type": "SSD 512GB",
-      "RAM": "16GB DDR4",
-      "GPU": "RTX 3060",
-      "screen_resolution": "2560 x 1600",
-      "link": "https://www.cel.ro/laptop-laptopuri/laptop-gaming-lenovo-legion-5-pro-16ach6h-amd-ryzen-5-5600h-512gb-ssd-16gb-rtx-3060-6gb-wqxga-165hz-rgb-storm-grey-pNCIwPD0uPw-l/"
-    }
-  },
-  {
-    "magasine": "Cel.ro",
-    "specs": {
-      "id": "c3062eb2-c980-4ee5-ad02-8317bb909c1b",
-      "title": "Laptop Gaming Asus ROG Zephyrus Duo 16 AMD Ryzen 9 6900HX 2x2TB SSD 64GB GeForce RTX 3080 8GB WQUXGA 120Hz Win11 Black",
-      "price": 20144.0,
-      "processor_type": "AMD Ryzen 9 AMD Ryzen 9 6900HX",
-      "memory_type": "SSD 4TB",
-      "RAM": "64GB DDR5",
-      "GPU": "nVidia GeForce RTX 3080",
-      "screen_resolution": "3840 x 2400",
-      "link": "https://www.cel.ro/laptop-laptopuri/laptop-gaming-asus-rog-zephyrus-duo-16-amd-ryzen-9-6900hx-2x2tb-ssd-64gb-geforce-rtx-3080-8gb-wquxga-120hz-win11-black-pNCsyNjUmMA-l/"
-    }
-  },
-  {
-    "magasine": "Cel.ro",
-    "specs": {
-      "id": "e1c30e36-8a68-40c2-8443-4b9c1f940cea",
-      "title": "Laptop ASUS E410MA Intel Core Celeron N4020 SSD 256GB 4GB Intel UHD Graphics 600 FullHD Negru",
-      "price": 899.0,
-      "processor_type": "Intel Celeron Dual Core N4020",
-      "memory_type": "SSD 256GB",
-      "RAM": "4GB DDR4",
-      "GPU": "Intel\u00ae UHD Graphics 600",
-      "screen_resolution": "1920 x 1080",
-      "link": "https://www.cel.ro/laptop-laptopuri/laptop-asus-e410ma-intel-core-celeron-n4020-ssd-256gb-4gb-intel-uhd-graphics-600-fullhd-negru-pNCYwNDIsNA-l/"
-    }
-  },
-  {
-    "magasine": "Cel.ro",
-    "specs": {
-      "id": "c1b5b7fd-126f-4532-ae1c-ff17fa2cd091",
-      "title": "Laptop HP 250 G8 Intel Celeron N4020 256GB SSD 8GB FullHD Asteroid Silver",
-      "price": 1499.0,
-      "processor_type": "Intel Celeron Intel Celeron N4020",
-      "memory_type": "SSD 256GB",
-      "RAM": "8GB DDR4",
-      "GPU": " ",
-      "screen_resolution": "1920 x 1080",
-      "link": "https://www.cel.ro/laptop-laptopuri/laptop-hp-250-g8-intel-celeron-n4020-256gb-ssd-8gb-fullhd-asteroid-silver-pNSc3NTUrMQ-l/"
-    }
-  },
-  {
-    "magasine": "Cel.ro",
-    "specs": {
-      "id": "b671ed08-2e93-4db5-a23b-31cf5ffe8be4",
-      "title": "Laptop Gaming Lenovo IdeaPad Gaming 3 AMD Ryzen 5 5600H 512GB SSD 8GB GeForce RTX 3050 Ti 4GB FullHD 165Hz Shadow Black",
-      "price": 3954.0,
-      "processor_type": "  5600H",
-      "memory_type": "  512 GB",
-      "RAM": "8 GB DDR4",
-      "GPU": "Dedicata",
-      "screen_resolution": "1920 x 1080",
-      "link": "https://www.cel.ro/laptop-laptopuri/laptop-gaming-lenovo-ideapad-gaming-3-amd-ryzen-5-5600h-512gb-ssd-8gb-geforce-rtx-3050-ti-4gb-fullhd-165hz-shadow-black-pNCI6MzUsMQ-l/"
-    }
-  },
-  {
-    "magasine": "Cel.ro",
-    "specs": {
-      "id": "e67286e7-9489-45ba-8826-7ace18002ff4",
-      "title": "Laptop Gaming Lenovo IdeaPad 3 AMD Ryzen 5 5600H 512GB SSD 8GB GeForce RTX 3050 4GB FullHD 120Hz Shadow Black",
-      "price": 3644.0,
-      "processor_type": "  5600H",
-      "memory_type": "  512 GB",
-      "RAM": "8 GB DDR4",
-      "GPU": "Dedicata",
-      "screen_resolution": "1920 x 1080",
-      "link": "https://www.cel.ro/laptop-laptopuri/laptop-gaming-lenovo-ideapad-3-amd-ryzen-5-5600h-512gb-ssd-8gb-geforce-rtx-3050-4gb-fullhd-120hz-shadow-black-pNCI6MzUtNw-l/"
-    }
-  },
-  {
-    "magasine": "Cel.ro",
-    "specs": {
-      "id": "6cf05522-b6d1-4ef7-909f-f036d89b68c1",
-      "title": "Laptop HP ProBook 450 G8 Intel Core (11th Gen) i7-1165G7 512GB SSD 16GB Intel Iris XE FullHD Win10 Pro T.Ilum. FPR Silver",
-      "price": 5299.0,
-      "processor_type": "Intel Core i7 i7-1165G7",
-      "memory_type": "SSD 512GB",
-      "RAM": "16GB DDR4",
-      "GPU": "Intel Iris XE Graphics",
-      "screen_resolution": "1920 x 1080",
-      "link": "https://www.cel.ro/laptop-laptopuri/laptop-hp-probook-450-g8-intel-core-11th-gen-i7-1165g7-512gb-ssd-16gb-intel-iris-xe-fullhd-win10-pro-t-ilum-fpr-silver-pNSM0Mj0uNA-l/"
-    }
-  },
-  {
-    "magasine": "Cel.ro",
-    "specs": {
-      "id": "f6386272-9629-413f-97c9-1f7e5eed447c",
-      "title": "Laptop Gaming HP Pavilion 15-ec2088nq AMD Ryzen 7 5800H 1TB HDD 256GB SSD 8GB GeForce RTX 3050 4GB FullHD 144Hz Shadow Black",
-      "price": 4854.0,
-      "processor_type": "AMD Ryzen 7 AMD Ryzen 7 5800H",
-      "memory_type": "HDD 1TB",
-      "RAM": "8GB DDR4",
-      "GPU": "nVidia GeForce RTX 3050",
-      "screen_resolution": "1920 x 1080",
-      "link": "https://www.cel.ro/laptop-laptopuri/laptop-gaming-hp-pavilion-15-ec2088nq-amd-ryzen-7-5800h-1tb-hdd-256gb-ssd-8gb-geforce-rtx-3050-4gb-fullhd-144hz-shadow-black-pNCsyMDQtMw-l/"
-    }
-  },
-  {
-    "magasine": "Emag",
-    "specs": {
-      "id": "af334873-1a94-4dcd-81ed-b6a8d1ad7923",
-      "title": "Laptop HP 250 G8 cu procesor Intel Celeron N4020, 15.6\", Full HD, 8GB, 256Gb SSD, Intel UHD Graphics, Free DOS, Silver",
-      "price": 1622.12,
-      "processor_type": "Intel\u00ae Celeron 4020",
-      "memory_type": "SSD 256 GB",
-      "RAM": "8 GBDDR4",
-      "GPU": "Intel UHD",
-      "screen_resolution": "1920 x 1080",
-      "link": "https://www.emag.ro/laptop-hp-250-g8-cu-procesor-intel-celeron-n4020-15-6-full-hd-8gb-256gb-ssd-intel-uhd-graphics-free-dos-silver-2x7w8ea/pd/D49VQXMBM/"
-    }
-  },
-  {
-    "magasine": "Emag",
-    "specs": {
-      "id": "d6fdd25e-a848-4062-9ad2-d2d3f89cbb9b",
-      "title": "Pachet promo: Laptop HUAWEI MateBook D16, Intel Core i7-12700H pana la 4.7GHz, 16\" Full HD 16:10, 16GB, SSD 512GB, Intel Iris\u00ae Xe, NFC,Windows 11 Home, Space Gray + Monitor LED IPS Huawei MateView 23.8\", Full HD, DisplayPort, Vesa, Negru",
-      "price": 5999.99,
-      "processor_type": "Intel\u00ae i7 12700H",
-      "memory_type": "SSD 512 GB",
-      "RAM": "16 GBLPDDR4X",
-      "GPU": "Intel Iris Xe",
-      "screen_resolution": "1920 x 1200",
-      "link": "https://www.emag.ro/laptop-huawei-matebook-d16-intel-core-i7-12700h-pana-la-4-7ghz-16-full-hd-16-10-16gb-ssd-512gb-intel-irisr-xe-nfc-windows-11-home-space-gray-53013daw/pd/D2LBZ4MBM/?ref=sponsored_products_listing_alpha_1_1&recid=rec_64_7a9cafafd13416efe6a68d4a38cc3fbadeddd323943f77559af0226125bf084d_1657191886&aid=251c61b4-fb8a-11ec-a0f0-0288f0dfa18e&oid=96840781&aidr=251c5d65-fb8a-11ec-a0f0-0288f0dfa18e&scenario_ID=64"
-    }
-  },
-  {
-    "magasine": "Emag",
-    "specs": {
-      "id": "df17a287-3ec1-4f6d-b3f2-d7b900dd41cd",
-      "title": "Laptop ultraportabil Huawei MateBook D14 cu procesor Intel Core i5-10210U, 14\", Full HD, 8GB, 512GB SSD, Intel UHD Graphics, Windows 10 Home, Mystic Silver",
-      "price": 2199.99,
-      "processor_type": "Intel\u00ae i5 10210U",
-      "memory_type": "SSD 512 GB",
-      "RAM": "8 GBDDR4",
-      "GPU": "Intel UHD",
-      "screen_resolution": "1920 x 1080",
-      "link": "https://www.emag.ro/laptop-ultraportabil-huawei-matebook-d14-cu-procesor-intel-core-i5-10210u-14-full-hd-8gb-512gb-ssd-intel-uhd-graphics-windows-10-home-mystic-silver-53012hwr/pd/D1RJKXMBM/"
-    }
-  },
-  {
-    "magasine": "Emag",
-    "specs": {
-      "id": "34d740df-4003-45e8-9502-e710491fcf6c",
-      "title": "Laptop Lenovo V15 IML cu procesor Intel Core i5-10210U, 15.6\", Full HD, 12GB, 512GB SSD, Intel UHD Graphics, No OS, Iron Grey",
-      "price": 2299.99,
-      "processor_type": "Intel\u00ae i5 10210U",
-      "memory_type": "SSD 512 GB",
-      "RAM": "12 GBDDR4",
-      "GPU": "Intel UHD",
-      "screen_resolution": "1920 x 1080",
-      "link": "https://www.emag.ro/laptop-lenovo-v15-iml-cu-procesor-intel-core-i5-10210u-15-6-full-hd-12gb-512gb-ssd-intel-uhd-graphics-no-os-iron-grey-82nb004brm/pd/DB4VJJMBM/"
-    }
-  },
-  {
-    "magasine": "Emag",
-    "specs": {
-      "id": "3b7c190b-7b5d-4d40-a5dc-13fc2bd6468f",
-      "title": "Laptop ultraportabil Huawei MateBook 14 cu procesor AMD Ryzen 5 5500U, 14\", 2K, 16GB, 512GB SSD, Windows 11 Home, Gray",
-      "price": 3899.99,
+    "magasine": "Altex",
+    "specs": {
+      "id": "db3c19ce-b50c-49bd-a637-ea89d31367b8",
+      "title": "Laptop DELL Inspiron 15 5515, AMD Ryzen 5 5500U pana la 4.0GHz, 15.6\" Full HD, 8GB, SSD 512GB, AMD Radeon Graphics, Windows 10 Home, argintiu",
+      "price": 2799.9,
       "processor_type": "AMD Ryzen 5 5500U",
       "memory_type": "SSD 512 GB",
-      "RAM": "16 GBDDR4",
-      "GPU": "AMD Radeon",
-      "screen_resolution": "2160 x 1440",
-      "link": "https://www.emag.ro/laptop-ultraportabil-huawei-matebook-14-cu-procesor-amd-ryzen-5-5500u-14-2k-16gb-512gb-ssd-windows-11-home-gray-53012xgg/pd/DXFH7VMBM/?ref=sponsored_products_listing_alpha_1_2&recid=rec_64_7a9cafafd13416efe6a68d4a38cc3fbadeddd323943f77559af0226125bf084d_1657191886&aid=251c5d65-fb8a-11ec-a0f0-0288f0dfa18e&oid=9592399&aidr=251c5c01-fb8a-11ec-a0f0-0288f0dfa18e&scenario_ID=64"
-    }
-  },
-  {
-    "magasine": "Emag",
-    "specs": {
-      "id": "8fb20b02-a91e-4eb7-9367-5b6ec0f5cc07",
-      "title": "Laptop Apple MacBook Air 13-inch, True Tone, procesor Apple M1 , 8 nuclee CPU si 8 nuclee GPU, 8GB, 512GB, Silver, INT KB",
-      "price": 5949.99,
-      "processor_type": "Apple M1 Apple M1",
-      "memory_type": "SSD 512 GB",
-      "RAM": "8 GBLPDDR4X",
-      "GPU": " ",
-      "screen_resolution": "2560 x 1600",
-      "link": "https://www.emag.ro/laptop-apple-macbook-air-13-inch-true-tone-procesor-apple-m1-8-nuclee-cpu-si-8-nuclee-gpu-8gb-512gb-silver-int-kb-mgna3ze-a/pd/DW5BL7MBM/"
-    }
-  },
-  {
-    "magasine": "Emag",
-    "specs": {
-      "id": "7fdda4e2-d1ea-457e-a7e9-49f4b80689aa",
-      "title": "Laptop Acer Aspire 3 A315-23 cu procesor AMD 3020e, 15.6\", Full HD, 8GB, 256GB SSD, AMD Radeon\u2122 Graphics, No OS, Silver",
-      "price": 1069.99,
-      "processor_type": "AMD   3020e",
-      "memory_type": "SSD 256 GB",
-      "RAM": "8 GBDDR4",
-      "GPU": "AMD Radeon",
+      "RAM": "8 GB DDR4",
+      "GPU": "AMD Radeon Graphics",
       "screen_resolution": "1920 x 1080",
-      "link": "https://www.emag.ro/laptop-acer-aspire-3-a315-23-cu-procesor-amd-3020e-15-6-full-hd-8gb-256gb-ssd-amd-radeontm-graphics-no-os-silver-nx-hvuex-011/pd/DWHTVVMBM/"
+      "link": "https://altex.ro/laptop-dell-inspiron-15-5515-amd-ryzen-5-5500u-pana-la-4-0ghz-15-6-full-hd-8gb-ssd-512gb-amd-radeon-graphics-windows-10-home-argintiu/cpd/LAP55153593/"
     }
   },
   {
-    "magasine": "Emag",
+    "magasine": "Altex",
     "specs": {
-      "id": "10184587-ce73-4824-aa13-b5f91a2a6afc",
-      "title": "Laptop Huawei MateBook 14, Intel Core i5-1135G7 pana la 4.8GHz, 14\" 2K, 16GB, SSD 512GB, Intel Iris Xe, Windows 11 Home, Gray",
-      "price": 3499.0,
-      "processor_type": "Intel\u00ae i5 1135G7",
-      "memory_type": "SSD 512 GB",
-      "RAM": "16 GBDDR4",
-      "GPU": "Intel Iris Xe",
-      "screen_resolution": "2160 x 1440",
-      "link": "https://www.emag.ro/laptop-huawei-matebook-14-intel-core-i5-1135g7-pana-la-4-8ghz-14-2k-16gb-ssd-512gb-intel-iris-xe-windows-11-home-gray-53012phj/pd/DT2FSFMBM/?ref=sponsored_products_listing_alpha_1_3&recid=rec_64_7a9cafafd13416efe6a68d4a38cc3fbadeddd323943f77559af0226125bf084d_1657191886&aid=251c5c01-fb8a-11ec-a0f0-0288f0dfa18e&oid=9225384&aidr=251c57b2-fb8a-11ec-a0f0-0288f0dfa18e&scenario_ID=64"
-    }
-  },
-  {
-    "magasine": "Emag",
-    "specs": {
-      "id": "cb9313b5-fb51-4aab-b8d6-9307f92cdcf7",
-      "title": "Laptop ultraportabil Lenovo IdeaPad 5 14ITL05 cu procesor Intel Core i7-1165G7, 14\", Full HD, 16GB, 512GB SSD, Intel Iris Xe Graphics, No OS, Platinum Grey",
-      "price": 2699.99,
-      "processor_type": "Intel\u00ae i7 1165G7",
-      "memory_type": "SSD 512 GB",
-      "RAM": "16 GBDDR4",
-      "GPU": "Intel Iris Xe",
-      "screen_resolution": "1920 x 1080",
-      "link": "https://www.emag.ro/laptop-ultraportabil-lenovo-ideapad-5-14itl05-cu-procesor-intel-core-i7-1165g7-14-full-hd-16gb-512gb-ssd-intel-iris-xe-graphics-no-os-platinum-grey-82fe00r5rm/pd/DKDH0XMBM/"
-    }
-  },
-  {
-    "magasine": "Emag",
-    "specs": {
-      "id": "a0957346-2fc5-4030-9aa3-28f199f81048",
-      "title": "Laptop ultraportabil ASUS VivoBook K413EA cu procesor Intel\u00ae Core\u2122 i5-1135G7, 14\" Full HD, 8GB, SSD 512GB, Intel Iris X\u1d49 Graphics, No OS, Indie Black",
-      "price": 2199.99,
-      "processor_type": "Intel\u00ae i5 1135G7",
-      "memory_type": "SSD 512 GB",
-      "RAM": "8 GBDDR4",
-      "GPU": "Intel Iris Xe",
-      "screen_resolution": "1920 x 1080",
-      "link": "https://www.emag.ro/laptop-ultraportabil-asus-vivobook-k413ea-cu-procesor-intelr-coretm-i5-1135g7-14-full-hd-8gb-ssd-512gb-intel-iris-x-graphics-no-os-indie-black-k413ea-ek1730/pd/D8BXYSMBM/"
-    }
-  },
-  {
-    "magasine": "Emag",
-    "specs": {
-      "id": "0bb0ca96-f93f-4f58-afad-9069f69bec46",
-      "title": "Laptop Huawei MateBook D15, Ryzen 5 5500U pana la 4.0GHz, 15.6\" Full HD, 8GB, SSD 512GB, AMD Radeon\u2122 Graphics, Windows 11 Home, Silver",
-      "price": 2399.99,
-      "processor_type": "AMD Ryzen 5 5500U",
-      "memory_type": "SSD 512 GB",
-      "RAM": "8 GBDDR4",
-      "GPU": "AMD Radeon",
-      "screen_resolution": "1920 x 1080",
-      "link": "https://www.emag.ro/laptop-huawei-matebook-d15-ryzen-5-5500u-pana-la-4-0ghz-15-6-full-hd-8gb-ssd-512gb-amd-radeontm-graphics-windows-11-home-silver-53012rvr/pd/D72FSFMBM/?ref=sponsored_products_listing_alpha_1_4&recid=rec_64_7a9cafafd13416efe6a68d4a38cc3fbadeddd323943f77559af0226125bf084d_1657191886&aid=251c57b2-fb8a-11ec-a0f0-0288f0dfa18e&oid=9225382&aidr=251c6300-fb8a-11ec-a0f0-0288f0dfa18e&scenario_ID=64"
-    }
-  },
-  {
-    "magasine": "Emag",
-    "specs": {
-      "id": "2ecfa920-24f2-4521-bf15-2e6fb113d873",
-      "title": "Laptop ultraportabil Lenovo IdeaPad 5 Pro 14ACN6 cu procesor AMD Ryzen\u2122 5 5600U, 14\", 2.8K, 90Hz, 16GB, 1TB SSD, AMD Radeon Graphics, No OS, Cloud Grey",
-      "price": 2999.99,
-      "processor_type": "AMD Ryzen 5 5600U",
-      "memory_type": "SSD 1 TB",
-      "RAM": "16 GBDDR4",
-      "GPU": "AMD Radeon",
-      "screen_resolution": "2880 x 1800",
-      "link": "https://www.emag.ro/laptop-ultraportabil-lenovo-ideapad-5-pro-14acn6-cu-procesor-amd-ryzentm-5-5600u-14-2-8k-90hz-16gb-1tb-ssd-amd-radeon-graphics-no-os-cloud-grey-82l70036rm/pd/D2DH0XMBM/"
-    }
-  },
-  {
-    "magasine": "Emag",
-    "specs": {
-      "id": "159c4d94-f341-4723-be51-e3b90de586c3",
-      "title": "Laptop Lenovo IdeaPad 3 15ITL6 cu procesor Intel Core i5-1135G7, 15.6\", Full HD, 8GB, 512GB SSD,Intel Iris Xe Graphics, No OS, Arctic Grey",
-      "price": 2199.99,
-      "processor_type": "Intel\u00ae i5 1135G7",
-      "memory_type": "SSD 512 GB",
-      "RAM": "8 GBDDR4",
-      "GPU": "Intel Iris Xe",
-      "screen_resolution": "1920 x 1080",
-      "link": "https://www.emag.ro/laptop-lenovo-ideapad-3-15itl6-cu-procesor-intel-core-i5-1135g7-15-6-full-hd-8gb-512gb-ssd-intel-iris-xe-graphics-no-os-arctic-grey-82h801f6rm/pd/DY788FMBM/"
-    }
-  },
-  {
-    "magasine": "Emag",
-    "specs": {
-      "id": "da18e3c9-16ec-44d4-a9df-1698a2490450",
-      "title": "Pachet promo: Laptop Huawei MateBook D16, Intel Core i5-12450H pana la 4.4GHz, 16\" Full HD 16:10, 8GB, SSD 512GB, Intel\u00ae UHD Graphics, Windows 11 Home, Space Gray + Monitor LED IPS Huawei MateView 23.8\", Full HD, DisplayPort, Vesa, Negru",
-      "price": 4199.99,
-      "processor_type": "Intel\u00ae i5 12450H",
-      "memory_type": "SSD 512 GB",
-      "RAM": "8 GBLPDDR4X",
-      "GPU": "Intel UHD",
-      "screen_resolution": "1920 x 1200",
-      "link": "https://www.emag.ro/laptop-huawei-matebook-d16-intel-core-i5-12450h-pana-la-4-4ghz-16-full-hd-16-10-8gb-ssd-512gb-intelr-uhd-graphics-windows-11-home-space-gray-53013dlc/pd/DYLBZ4MBM/?ref=sponsored_products_listing_alpha_1_5&recid=rec_64_7a9cafafd13416efe6a68d4a38cc3fbadeddd323943f77559af0226125bf084d_1657191886&aid=251c6300-fb8a-11ec-a0f0-0288f0dfa18e&oid=96840779&aidr=251c5a97-fb8a-11ec-a0f0-0288f0dfa18e&scenario_ID=64"
-    }
-  },
-  {
-    "magasine": "Emag",
-    "specs": {
-      "id": "aa7d3c80-82ff-4aa5-8dea-e2ec1d5b1a07",
-      "title": "Laptop Lenovo V15 IML cu procesor Intel Core i3-10110U, 15.6\", Full HD, 8GB, 256GB SSD, Intel UHD Graphics, No OS, Iron Grey",
-      "price": 1799.98,
-      "processor_type": "Intel\u00ae i3 10110U",
-      "memory_type": "SSD 256 GB",
-      "RAM": "8 GBDDR4",
-      "GPU": "Intel UHD",
-      "screen_resolution": "1920 x 1080",
-      "link": "https://www.emag.ro/laptop-lenovo-v15-iml-cu-procesor-intel-core-i3-10110u-15-6-full-hd-8gb-256gb-ssd-intel-uhd-graphics-no-os-iron-grey-82nb001brm/pd/DWXVQXMBM/"
-    }
-  },
-  {
-    "magasine": "Emag",
-    "specs": {
-      "id": "663cd91d-12c3-4190-ab6f-ad3c9cd852f6",
-      "title": "Laptop HP 15-dw1009nq cu procesor Intel\u00ae Celeron\u00ae N4020, 15.6\", Full HD, 8GB, 1TB HDD, Intel UHD Graphics, Free DOS, Natural Silver",
-      "price": 1299.99,
-      "processor_type": "Intel\u00ae Celeron N4020",
-      "memory_type": "HDD  ",
-      "RAM": "8 GBDDR4",
-      "GPU": "Intel UHD",
-      "screen_resolution": "1920 x 1080",
-      "link": "https://www.emag.ro/laptop-hp-15-dw1009nq-cu-procesor-intelr-celeronr-n4020-15-6-full-hd-8gb-1tb-hdd-intel-uhd-graphics-free-dos-natural-silver-322h7ea/pd/D5341HMBM/"
-    }
-  },
-  {
-    "magasine": "Emag",
-    "specs": {
-      "id": "941f1a77-83dc-44c2-84bb-f3717a078608",
-      "title": "Laptop Huawei MateBook D14, Intel Core i5-1135G7 pana la 4.2GHz, 14\" Full HD, 8GB, SSD 512GB, Intel UHD Graphics, Windows 11 Home, Silver",
+      "id": "e751eeca-ab0d-4ccf-83b6-8db67badf735",
+      "title": "Laptop MSI Modern 14 B11MOU-649XRO, Intel Core i5-1155G7 pana la 4.5GHz, 14\" Full HD, 16GB, SSD 512GB, Intel Iris Xe, Free Dos, Carbon Gray",
       "price": 2599.99,
-      "processor_type": "Intel\u00ae i5 1135G7",
+      "processor_type": "Intel Core i5 1155G7",
       "memory_type": "SSD 512 GB",
-      "RAM": "8 GBDDR4",
-      "GPU": "Intel UHD",
+      "RAM": "16 GB DDR4",
+      "GPU": "Intel\u00ae Iris\u00ae Xe Graphics",
       "screen_resolution": "1920 x 1080",
-      "link": "https://www.emag.ro/laptop-huawei-matebook-d14-intel-core-i5-1135g7-pana-la-4-2ghz-14-full-hd-8gb-ssd-512gb-intel-uhd-graphics-windows-11-home-silver-53012tpn/pd/DD2FSFMBM/?ref=sponsored_products_listing_alpha_1_6&recid=rec_64_7a9cafafd13416efe6a68d4a38cc3fbadeddd323943f77559af0226125bf084d_1657191886&aid=251c5a97-fb8a-11ec-a0f0-0288f0dfa18e&oid=9225383&aidr=251c52ed-fb8a-11ec-a0f0-0288f0dfa18e&scenario_ID=64"
+      "link": "https://altex.ro/laptop-msi-modern-14-b11mou-649xro-intel-core-i5-1155g7-pana-la-4-5ghz-14-full-hd-16gb-ssd-512gb-intel-iris-xe-free-dos-carbon-gray/cpd/LAP14B11MOU/"
     }
   },
   {
-    "magasine": "Emag",
+    "magasine": "Altex",
     "specs": {
-      "id": "6b0ca9f5-1b50-4b7d-adf1-fd2c5b37c885",
-      "title": "Laptop Apple MacBook Pro 14 (2021) cu procesor Apple M1 Pro, 8 nuclee CPU and 14 nuclee GPU, 16GB, 512GB SSD, Silver, Int KB",
-      "price": 9999.99,
-      "processor_type": "Apple M1 Pro Apple M1 Pro",
-      "memory_type": "SSD 512 GB",
-      "RAM": "16 GB ",
+      "id": "6cbef429-e4ed-4737-a9b8-6d2a7f038453",
+      "title": "Laptop HP 250 G8, Intel Core i3-1115G4 pana la 4.1GHz, 15.6\" Full HD, 8GB, SSD 256GB, Intel UHD Graphics, Windows 10 Pro, negru",
+      "price": 2550.96,
+      "processor_type": "Intel Core i3 1115G4",
+      "memory_type": "SSD 256 GB",
+      "RAM": "8 GB DDR4",
+      "GPU": "Intel UHD Graphics",
+      "screen_resolution": "1920 x 1080",
+      "link": "https://altex.ro/laptop-hp-250-g8-intel-core-i3-1115g4-pana-la-4-1ghz-15-6-full-hd-8gb-ssd-256gb-intel-uhd-graphics-windows-10-pro-negru/cpd/LAP2W9A5EA/"
+    }
+  },
+  {
+    "magasine": "Altex",
+    "specs": {
+      "id": "05994362-f27a-40f6-8569-11017408da57",
+      "title": "Laptop ASUS X515EA-BQ1104W, Intel Core i3-1115G4 pana la 4.1GHz, 15.6\" Full HD, 8GB, SSD 256GB, Intel UHD Graphics, Windows 11 Home S, gri",
+      "price": 2299.9,
+      "processor_type": "Intel Core i3 1115G4",
+      "memory_type": "SSD 256 GB",
+      "RAM": "8 GB DDR4",
+      "GPU": "Intel UHD Graphics",
+      "screen_resolution": "1920 x 1080",
+      "link": "https://altex.ro/laptop-asus-x515ea-bq1104w-intel-core-i3-1115g4-pana-la-4-1ghz-15-6-full-hd-8gb-ssd-256gb-intel-uhd-graphics-windows-11-home-s-gri/cpd/LAPX515EBQ1104W/"
+    }
+  },
+  {
+    "magasine": "Altex",
+    "specs": {
+      "id": "f24f35bb-45e1-4eb1-8647-c5b403bc6189",
+      "title": "Laptop LENOVO IdeaPad 3 15ALC6, AMD Ryzen 5 5500U pana la 4GHz, 15.6\" Full HD, 8GB, SSD 256GB, AMD Radeon Graphics, Free Dos, Abyss Blue",
+      "price": 2099.9,
+      "processor_type": "AMD Ryzen 5 5500U",
+      "memory_type": "SSD 256 GB",
+      "RAM": "8 GB DDR4",
+      "GPU": "AMD Radeon Graphics",
+      "screen_resolution": "1920 x 1080",
+      "link": "https://altex.ro/laptop-lenovo-ideapad-3-15alc6-amd-ryzen-5-5500u-pana-la-4ghz-15-6-full-hd-8gb-ssd-256gb-amd-radeon-graphics-free-dos-abyss-blue/cpd/LAP82KU00VDRM/",
+      "normal_price": 2699.9
+    }
+  },
+  {
+    "magasine": "Altex",
+    "specs": {
+      "id": "43c3f6db-f25b-438e-b1b1-0b40120bb530",
+      "title": "Laptop HP 15s-fq2039nq, Intel Pentium Gold 7505 pana la 3.5GHz, 15.6\" Full HD, 8GB, SSD 256GB, Intel UHD Graphics, Windows 10 Home, gri inchis",
+      "price": 1799.9,
+      "processor_type": "Intel Pentium 7505",
+      "memory_type": "SSD 256 GB",
+      "RAM": "8 GB DDR4",
+      "GPU": "Intel UHD Graphics",
+      "screen_resolution": "1920 x 1080",
+      "link": "https://altex.ro/laptop-hp-15s-fq2039nq-intel-pentium-gold-7505-pana-la-3-5ghz-15-6-full-hd-8gb-ssd-256gb-intel-uhd-graphics-windows-10-home-gri-inchis/cpd/LAP3A8Z8EA/"
+    }
+  },
+  {
+    "magasine": "Altex",
+    "specs": {
+      "id": "6c545b51-dd1a-41f7-87b9-b25e0735a71d",
+      "title": "Laptop LENOVO IdeaPad 5 15ITL05, Intel Core i3-1115G4 pana la 4.1GHz, 15.6\" Full HD, 4GB, SSD 128GB, Intel UHD Graphics, Windows 11 Home S, albastru inchis",
+      "price": 1699.9,
+      "processor_type": "Intel Core i3 1115G4",
+      "memory_type": "SSD 128 GB",
+      "RAM": "4 GB DDR4",
+      "GPU": "Intel UHD Graphics",
+      "screen_resolution": "1920 x 1080",
+      "link": "https://altex.ro/laptop-lenovo-ideapad-5-15itl05-intel-core-i3-1115g4-pana-la-4-1ghz-15-6-full-hd-4gb-ssd-128gb-intel-uhd-graphics-windows-11-home-s-albastru-inchis/cpd/LAP82FG01PURM/",
+      "normal_price": 2699.9
+    }
+  },
+  {
+    "magasine": "Evomag",
+    "specs": {
+      "id": "a0aa7961-54a4-48c6-b216-a61fbf4bc1df",
+      "title": "Laptop HP 250 G8 (Procesor Intel\u00ae Core\u2122 i7-1165G7 (12M Cache, up to 4.70 GHz, with IPU) 15.6\" FHD, 16GB, 512GB SSD, Intel\u00ae Iris Xe Graphics, Win 10 Pro, Argintiu)",
+      "price": 3799.0,
+      "processor_type": "Procesor Intel\u00ae Core\u2122 i7 1165G7",
+      "memory_type": "M.2 PCIe 512GB",
+      "RAM": "16384 MB DDR4",
+      "GPU": "Intel Iris Xe Graphics",
+      "screen_resolution": "1920x1080",
+      "link": "https://www.evomag.ro/portabile-laptopuri-notebook/hp-laptop-hp-250-g8-procesor-intel-core-i7-1165g7-12m-cache-up-to-4.70-ghz-with-ipu-15.6-fhd-16gb-512gb-ssd-intel-iris-xe-graphics-win-10-pro-argintiu-3822394.html",
+      "normal_price": 3799.0
+    }
+  },
+  {
+    "magasine": "Evomag",
+    "specs": {
+      "id": "48fbc4bc-6172-4f14-8a88-18f3f511194b",
+      "title": "Laptop Asus X515FA-EJ016 (Procesor Intel\u00ae Core i3-10110U (4M Cache, up to 4.10 GHz) 15.6\" FHD, 8GB, 256GB SSD, Intel\u00ae UHD Graphics, Gri)",
+      "price": 1489.0,
+      "processor_type": "Procesor Intel\u00ae Core\u2122 i3 i3-10110U",
+      "memory_type": "M.2 SSD 256GB",
+      "RAM": "8192 MB DDR4",
+      "GPU": "Intel\u00ae UHD Graphics",
+      "screen_resolution": "1920x1080",
+      "link": "https://www.evomag.ro/portabile-laptopuri-notebook/asus-laptop-asus-x515fa-ej016-procesor-intel-core-i3-10110u-4m-cache-up-to-4.10-ghz-15.6-fhd-8gb-256gb-ssd-intel-uhd-graphics-gri-3837643.html",
+      "normal_price": 1489.0
+    }
+  },
+  {
+    "magasine": "Evomag",
+    "specs": {
+      "id": "93cc1bd8-4703-4ac6-b4e8-3ff59d69d182",
+      "title": "Laptop Asus E410KA-EK246 (Procesor Intel\u00ae Celeron\u00ae N4500 (4M Cache, up to 2.80 GHz) 14\" FHD, 4GB, 256GB, Intel\u00ae UHD Graphics, No OS, Albastru)",
+      "price": 1442.99,
+      "processor_type": "Intel\u00ae Celeron\u00ae N4500",
+      "memory_type": "M.2 PCIe 256GB",
+      "RAM": "4096 MB DDR4",
+      "GPU": "Intel\u00ae UHD Graphics",
+      "screen_resolution": "1920x1080",
+      "link": "https://www.evomag.ro/portabile-laptopuri-notebook/asus-laptop-asus-e410ka-ek246-procesor-intel-celeron-n4500-4m-cache-up-to-2.80-ghz-14-fhd-4gb-256gb-intel-uhd-graphics-no-os-albastru-3888529.html",
+      "normal_price": 1442.99
+    }
+  },
+  {
+    "magasine": "Evomag",
+    "specs": {
+      "id": "abb4e0ea-a24e-4399-a90f-0612b0c97099",
+      "title": "Laptop Lenovo ThinkBook 15 G2 ITL (Procesor Intel\u00ae Core\u2122 i7-1165G7 (12M Cache, up to 4.70 GHz), 15.6\" FHD, 16GB, 512GB SSD, Intel Iris Xe Graphics, FPR, Gri)",
+      "price": 3899.0,
+      "processor_type": "Procesor Intel\u00ae Core\u2122 i7 1165G7",
+      "memory_type": "M.2 PCIe 512GB",
+      "RAM": "16384 MB DDR4",
+      "GPU": "Intel Iris Xe Graphics",
+      "screen_resolution": "1920x1080",
+      "link": "https://www.evomag.ro/portabile-laptopuri-notebook/lenovo-laptop-lenovo-thinkbook-15-g2-itl-procesor-intel-core-i7-1165g7-12m-cache-up-to-4.70-ghz-15.6-fhd-16gb-512gb-ssd-intel-iris-xe-graphics-fpr-gri-3813609.html",
+      "normal_price": 3899.0
+    }
+  },
+  {
+    "magasine": "Evomag",
+    "specs": {
+      "id": "94669319-fe16-4353-83a9-eea497d02c01",
+      "title": "Laptop HP 250 G8 (Procesor Intel\u00ae Core\u2122 i3-1115G4 (6M Cache, up to 4.10 GHz) 15.6\" FHD, 8GB, 512GB SSD, Intel\u00ae UHD Graphics, Win 10 Pro, Argintiu)",
+      "price": 2499.0,
+      "processor_type": "Procesor Intel\u00ae Core\u2122 i3 1115G4",
+      "memory_type": "M.2 PCIe 512GB",
+      "RAM": "8192 MB DDR4",
+      "GPU": "Intel\u00ae UHD Graphics",
+      "screen_resolution": "1920x1080",
+      "link": "https://www.evomag.ro/portabile-laptopuri-notebook/hp-laptop-hp-250-g8-procesor-intel-core-i3-1115g4-6m-cache-up-to-4.10-ghz-15.6-fhd-8gb-512gb-ssd-intel-uhd-graphics-win-10-pro-argintiu-3828237.html",
+      "normal_price": 2499.0
+    }
+  },
+  {
+    "magasine": "Evomag",
+    "specs": {
+      "id": "9b61b042-e7df-41be-9209-88d6d845a433",
+      "title": "Laptop Lenovo V15 ADA (Procesor AMD Ryzen 5 3500U (4M Cache, up to 3.70 GHz), 15.6\" FHD, 8GB, 256GB SSD, AMD Radeon\u2122 Graphics, Win 10 Pro, Gri)",
+      "price": 2199.0,
+      "processor_type": "AMD Ryzen\u2122 5 3500U",
+      "memory_type": "M.2 PCIe 256GB",
+      "RAM": "8192 MB DDR4",
+      "GPU": "AMD Radeon\u2122 Graphics",
+      "screen_resolution": "1920x1080",
+      "link": "https://www.evomag.ro/portabile-laptopuri-notebook/lenovo-laptop-lenovo-v15-ada-procesor-amd-ryzen-5-3500u-4m-cache-up-to-3.70-ghz-15.6-fhd-8gb-256gb-ssd-amd-radeon-graphics-win-10-pro-gri-3826387.html",
+      "normal_price": 2199.0
+    }
+  },
+  {
+    "magasine": "Evomag",
+    "specs": {
+      "id": "f4a3f043-f143-4bdc-b2d0-35cbe86adba2",
+      "title": "Laptop Lenovo ThinkBook 15 G2 ITL (Procesor Intel\u00ae Core\u2122 i5-1135G7 (8M Cache, up to 4.20 GHz), 15.6\" FHD, 16GB, 512GB SSD, nVidia GeForce MX450 @2GB, FPR, Gri)",
+      "price": 3299.0,
+      "processor_type": "Procesor Intel\u00ae Core\u2122 i5 1135G7",
+      "memory_type": "M.2 PCIe 512GB",
+      "RAM": "16384 MB GDDR6",
+      "GPU": "nVidia GeForce MX450",
+      "screen_resolution": "1920x1080",
+      "link": "https://www.evomag.ro/portabile-laptopuri-notebook/lenovo-laptop-lenovo-thinkbook-15-g2-itl-procesor-intel-core-i5-1135g7-8m-cache-up-to-4.20-ghz-15.6-fhd-16gb-512gb-ssd-nvidia-geforce-mx450-2gb-fpr-gri-3814084.html",
+      "normal_price": 3299.0
+    }
+  },
+  {
+    "magasine": "Evomag",
+    "specs": {
+      "id": "ae017995-e475-407f-b8c8-5b05286fc51a",
+      "title": "Laptop HP Pavilion 14-dv0048nq (Procesor Intel\u00ae Core\u2122 i5-1135G7 (12M Cache, up to 4.20 GHz, with IPU) 14\" FHD, 16GB, 512GB SSD, Intel Iris Xe Graphics, Auriu)",
+      "price": 2899.0,
+      "processor_type": "Procesor Intel\u00ae Core\u2122 i5 1135G7",
+      "memory_type": "M.2 PCIe 512GB",
+      "RAM": "16384 MB DDR4",
+      "GPU": "Intel Iris Xe Graphics",
+      "screen_resolution": "1920x1080",
+      "link": "https://www.evomag.ro/portabile-laptopuri-notebook/hp-laptop-hp-pavilion-14-dv0048nq-procesor-intel-core-i5-1135g7-12m-cache-up-to-4.20-ghz-with-ipu-14-fhd-16gb-512gb-ssd-intel-iris-xe-graphics-auriu-3855951.html",
+      "normal_price": 2899.0
+    }
+  },
+  {
+    "magasine": "Evomag",
+    "specs": {
+      "id": "8dc57cbe-63dd-4804-9d7f-94d280e5a949",
+      "title": "Laptop HP 250 G8 (Procesor Intel\u00ae Core\u2122 i5-1135G7 (8M Cache, up to 4.20 GHz) 15.6\" FHD, 16GB, 512GB SSD, Intel\u00ae Iris Xe Graphics, Win 10 Pro, Argintiu)",
+      "price": 4399.0,
+      "processor_type": "Procesor Intel\u00ae Core\u2122 i5 1135G7",
+      "memory_type": "M.2 PCIe 512GB",
+      "RAM": "16384 MB DDR4",
+      "GPU": "Intel\u00ae Iris\u00ae Xe Graphics",
+      "screen_resolution": "1920x1080",
+      "link": "https://www.evomag.ro/portabile-laptopuri-notebook/hp-laptop-hp-250-g8-procesor-intel-core-i5-1135g7-8m-cache-up-to-4.20-ghz-15.6-fhd-16gb-512gb-ssd-intel-iris-xe-graphics-win-10-pro-argintiu-3839669.html",
+      "normal_price": 4399.0
+    }
+  },
+  {
+    "magasine": "Evomag",
+    "specs": {
+      "id": "96074043-e1d3-4772-907a-e7a6a2b60b9e",
+      "title": "Laptop Gaming HP Pavilion 15-ec2022nq (Procesor AMD Ryzen\u2122 7 5800H (16M Cache, up to 4.4 GHz), 15.6\" FHD, 8GB, 512GB SSD, nVidia GeForce GTX 1650 @4GB, Negru)",
+      "price": 3299.0,
+      "processor_type": "AMD Ryzen\u2122 7 5800H",
+      "memory_type": "M.2 NVMe 512GB",
+      "RAM": "8192 MB GDDR6",
+      "GPU": "nVidia GeForce GTX 1650",
+      "screen_resolution": "1920x1080",
+      "link": "https://www.evomag.ro/portabile-laptopuri-notebook/hp-laptop-gaming-hp-pavilion-15-ec2022nq-procesor-amd-ryzen-7-5800h-16m-cache-up-to-4.4-ghz-15.6-fhd-8gb-512gb-ssd-nvidia-geforce-gtx-1650-4gb-negru-3911853.html",
+      "normal_price": 3299.0
+    }
+  },
+  {
+    "magasine": "Evomag",
+    "specs": {
+      "id": "f0b55187-4059-4f1b-b73e-ea44cef898c1",
+      "title": "Laptop Asus X515EA-BQ943 (Procesor Intel\u00ae Core i5-1135G7 (8M Cache, up to 4.20 GHz) 15.6\" FHD, 8GB, 512GB SSD, Intel\u00ae Iris Xe Graphics, Argintiu)",
+      "price": 2099.0,
+      "processor_type": "Procesor Intel\u00ae Core\u2122 i5 1135G7",
+      "memory_type": "M.2 SSD 512GB",
+      "RAM": "8192 MB DDR4",
+      "GPU": "Intel Iris Xe Graphics",
+      "screen_resolution": "1920x1080",
+      "link": "https://www.evomag.ro/portabile-laptopuri-notebook/asus-laptop-asus-x515ea-bq943-procesor-intel-core-i5-1135g7-8m-cache-up-to-4.20-ghz-15.6-fhd-8gb-512gb-ssd-intel-iris-xe-graphics-argintiu-3824758.html",
+      "normal_price": 2099.0
+    }
+  },
+  {
+    "magasine": "Evomag",
+    "specs": {
+      "id": "908ab589-e939-496e-9d7c-7e6049f1d43e",
+      "title": "Laptop HP Pavilion 14-ec0008nq (Procesor AMD Ryzen 5 5500U (8M Cache, up to 4.0 GHz 14\" FHD, 16GB, 512GB SSD, AMD Radeon Graphics, Windows 11 Home, Argintiu)",
+      "price": 3674.99,
+      "processor_type": "AMD Ryzen\u2122 5 5500U",
+      "memory_type": "M.2 PCIe 512GB",
+      "RAM": "16384 MB DDR4",
+      "GPU": "Radeon",
+      "screen_resolution": "1920x1080",
+      "link": "https://www.evomag.ro/portabile-laptopuri-notebook/hp-laptop-hp-pavilion-14-ec0008nq-procesor-amd-ryzen-5-5500u-8m-cache-up-to-4.0-ghz-14-fhd-16gb-512gb-ssd-amd-radeon-graphics-windows-11-home-argintiu-3863079.html",
+      "normal_price": 3674.99
+    }
+  },
+  {
+    "magasine": "Evomag",
+    "specs": {
+      "id": "dad70606-73c6-4780-8864-3a6e4d5e31cf",
+      "title": "Laptop Apple MacBook Pro 14 2021 (Procesor Apple M1 Pro (8-core CPU / 14-core GPU) 14.2\" Liquid Retina 120Hz, 16GB, 512GB SSD, Mac OS Monterey, Layout INT, Gri)",
+      "price": 12499.0,
+      "processor_type": "Apple M1 Pro",
+      "memory_type": "SSD 512GB",
+      "RAM": "16384 MB DDR4",
       "GPU": " ",
       "screen_resolution": "3024 x 1964",
-      "link": "https://www.emag.ro/laptop-apple-macbook-pro-14-2021-cu-procesor-apple-m1-pro-8-nuclee-cpu-and-14-nuclee-gpu-16gb-512gb-ssd-silver-int-kb-mkgr3ze-a/pd/DW0SVXMBM/"
+      "link": "https://www.evomag.ro/portabile-laptopuri-notebook/apple-laptop-apple-macbook-pro-14-2021-procesor-apple-m1-pro-8-core-cpu-14-core-gpu-14.2-liquid-retina-120hz-16gb-512gb-ssd-mac-os-monterey-layout-int-gri-3829735.html",
+      "normal_price": 12499.0
     }
   },
   {
-    "magasine": "Emag",
+    "magasine": "Evomag",
     "specs": {
-      "id": "bc9eeade-0bc1-4434-af4e-0a5be0d79bb7",
-      "title": "Laptop ASUS ExpertBook L1500CDA cu procesor AMD Ryzen 3 3250U, 15.6'', Full HD, 8GB, 256GB SSD, AMD Radeon Graphics, No OS, Star Black",
-      "price": 1449.99,
-      "processor_type": "AMD Ryzen 3 3250U",
-      "memory_type": "SSD 256 GB",
-      "RAM": "8 GBDDR4",
-      "GPU": "AMD Radeon",
-      "screen_resolution": "1920 x 1080",
-      "link": "https://www.emag.ro/laptop-asus-expertbook-l1500cda-cu-procesor-amd-ryzen-3-3250u-15-6-full-hd-8gb-256gb-ssd-amd-radeon-graphics-no-os-star-black-l1500cda-ej0750/pd/DQMXYSMBM/"
+      "id": "4bd8f638-774a-42e2-a02b-3eb1e4e3431e",
+      "title": "Laptop Lenovo ThinkPad E15 Gen 2 (Procesor Intel\u00ae Core\u2122 i7-1165G7 (12M Cache, up to 4.70 GHz) 15.6\" FHD, 16GB, 512GB SSD, Intel\u00ae Iris Xe, FPR, Negru)",
+      "price": 4899.0,
+      "processor_type": "Procesor Intel\u00ae Core\u2122 i7 1165G7",
+      "memory_type": "M.2 PCIe 512GB",
+      "RAM": "16384 MB DDR4",
+      "GPU": "Intel\u00ae Iris\u00ae Xe Graphics",
+      "screen_resolution": "1920x1080",
+      "link": "https://www.evomag.ro/portabile-laptopuri-notebook/lenovo-laptop-lenovo-thinkpad-e15-gen-2-procesor-intel-core-i7-1165g7-12m-cache-up-to-4.70-ghz-15.6-fhd-16gb-512gb-ssd-intel-iris-xe-fpr-negru-3844336.html",
+      "normal_price": 4899.0
     }
   },
   {
-    "magasine": "Emag",
+    "magasine": "Evomag",
     "specs": {
-      "id": "3436a2c6-d44e-42dc-940c-bdb01c79965a",
-      "title": "Laptop Huawei MateBook D15 cu procesor Intel Core i3-1115G4, 15.6\", Full HD, 8GB, 256GB SSD, Intel\u00ae UHD Graphics, Windows 11 Home, Sliver",
+      "id": "29adde4f-5b54-450e-9e78-7b4bdd986201",
+      "title": "Laptop Lenovo V15 (Procesor AMD Ryzen 3 3250U (4M Cache, up to 3.50 GHz), 15.6\" FHD, 8GB, 256GB SSD, AMD Radeon\u2122 Graphics, Gri)",
+      "price": 1499.0,
+      "processor_type": "AMD Ryzen\u2122 3 3250U",
+      "memory_type": "M.2 PCIe 256GB",
+      "RAM": "8192 MB DDR4",
+      "GPU": "AMD Radeon\u2122 Graphics",
+      "screen_resolution": "1920x1080",
+      "link": "https://www.evomag.ro/portabile-laptopuri-notebook/lenovo-laptop-lenovo-v15-procesor-amd-ryzen-3-3250u-4m-cache-up-to-3.50-ghz-15.6-fhd-8gb-256gb-ssd-amd-radeon-graphics-gri-3793163.html",
+      "normal_price": 1499.0
+    }
+  },
+  {
+    "magasine": "Evomag",
+    "specs": {
+      "id": "d403b0f3-0183-4964-b60e-dcebf3821d09",
+      "title": "Laptop HP ProBook 640 G8 (Procesor Intel\u00ae Core\u2122 i7-1165G7 (12M Cache, up to 4.70 GHz, with IPU) 14\" FHD, 16GB, 512GB SSD, Intel\u00ae Iris Xe Graphics, Win10 Pro, Argintiu)",
+      "price": 4599.0,
+      "processor_type": "Procesor Intel\u00ae Core\u2122 i7 1165G7",
+      "memory_type": "M.2 PCIe 512GB",
+      "RAM": "16384 MB DDR4",
+      "GPU": "Intel\u00ae Iris\u00ae Xe Graphics",
+      "screen_resolution": "1920x1080",
+      "link": "https://www.evomag.ro/portabile-laptopuri-notebook/hp-laptop-hp-probook-640-g8-procesor-intel-core-i7-1165g7-12m-cache-up-to-4.70-ghz-with-ipu-14-fhd-16gb-512gb-ssd-intel-iris-xe-graphics-win10-pro-argintiu-3845550.html",
+      "normal_price": 4599.0
+    }
+  },
+  {
+    "magasine": "Evomag",
+    "specs": {
+      "id": "da0136e2-8af7-44fe-85e3-1779911b558c",
+      "title": "Laptop Asus X515EA-BQ1114 (Procesor Intel\u00ae Core i5-1135G7 (8M Cache, up to 4.20 GHz) 15.6\" FHD, 8GB, 512GB SSD, Intel\u00ae Iris Xe Graphics, Gri)",
+      "price": 2199.0,
+      "processor_type": "Procesor Intel\u00ae Core\u2122 i5 1135G7",
+      "memory_type": "M.2 SSD 512GB",
+      "RAM": "8192 MB DDR4",
+      "GPU": "Intel Iris Xe Graphics",
+      "screen_resolution": "1920x1080",
+      "link": "https://www.evomag.ro/portabile-laptopuri-notebook/asus-laptop-asus-x515ea-bq1114-procesor-intel-core-i5-1135g7-8m-cache-up-to-4.20-ghz-15.6-fhd-8gb-512gb-ssd-intel-iris-xe-graphics-gri-3824575.html",
+      "normal_price": 2199.0
+    }
+  },
+  {
+    "magasine": "Evomag",
+    "specs": {
+      "id": "9c25f781-110c-4db7-92ec-fb92a5c3f075",
+      "title": "Laptop Gaming ASUS TUF A17 FA706IE-HX008 (Procesor AMD Ryzen\u2122 7 4800H (8M Cache, up to 4.20 GHz) 17.3\" FHD 144Hz, 16GB, 512GB SSD, nVidia GeForce RTX 3050 Ti @4GB, Negru)",
+      "price": 3999.0,
+      "processor_type": "AMD Ryzen\u2122 7 4800H",
+      "memory_type": "M.2 PCIe 512GB",
+      "RAM": "16384 MB GDDR6",
+      "GPU": "nVidia GeForce RTX 3050 Ti",
+      "screen_resolution": "1920x1080",
+      "link": "https://www.evomag.ro/portabile-laptopuri-notebook/asus-laptop-gaming-asus-tuf-a17-fa706ie-hx008-procesor-amd-ryzen-7-4800h-8m-cache-up-to-4.20-ghz-17.3-fhd-144hz-16gb-512gb-ssd-nvidia-geforce-rtx-3050-ti-4gb-negru-3864738.html",
+      "normal_price": 3999.0
+    }
+  },
+  {
+    "magasine": "Evomag",
+    "specs": {
+      "id": "da682946-8335-4577-bf9a-a11d6c882c2b",
+      "title": "Laptop Lenovo V15 (Procesor Intel\u00ae Core\u2122 i5-1035G1 (6M Cache, up to 3.60 GHz), Ice Lake, 15.6\" FHD, 8GB, 256GB SSD, Intel\u00ae UHD Graphics, Gri)",
+      "price": 2599.0,
+      "processor_type": "Procesor Intel\u00ae Core\u2122 i5 i5-1035G1",
+      "memory_type": "M.2 PCIe 256GB",
+      "RAM": "8192 MB DDR4",
+      "GPU": "Intel\u00ae UHD Graphics",
+      "screen_resolution": "1920x1080",
+      "link": "https://www.evomag.ro/portabile-laptopuri-notebook/lenovo-laptop-lenovo-v15-procesor-intel-core-i5-1035g1-6m-cache-up-to-3.60-ghz-ice-lake-15.6-fhd-8gb-256gb-ssd-intel-uhd-graphics-gri-3792798.html",
+      "normal_price": 2599.0
+    }
+  },
+  {
+    "magasine": "Evomag",
+    "specs": {
+      "id": "05553e6b-c7e6-4257-911c-5187e0731aff",
+      "title": "Laptop Asus E410MA-EK1284 (Procesor Intel\u00ae Celeron\u00ae N4020 (4M Cache, up to 2.80 GHz) 14\" FHD, 4GB, 256GB, Intel\u00ae UHD Graphics 600, No OS, Albastru)",
+      "price": 799.0,
+      "processor_type": "Intel\u00ae Celeron\u00ae N4020",
+      "memory_type": "M.2 PCIe 256GB",
+      "RAM": "4096 MB DDR4",
+      "GPU": "Intel\u00ae UHD Graphics 600",
+      "screen_resolution": "1920x1080",
+      "link": "https://www.evomag.ro/portabile-laptopuri-notebook/asus-laptop-asus-e410ma-ek1284-procesor-intel-celeron-n4020-4m-cache-up-to-2.80-ghz-14-fhd-4gb-256gb-intel-uhd-graphics-600-no-os-albastru-3834160.html",
+      "normal_price": 799.0
+    }
+  },
+  {
+    "magasine": "Evomag",
+    "specs": {
+      "id": "41c20126-a777-44aa-9a6b-67531db7462b",
+      "title": "Laptop Acer Aspire 3 A315-56 (Procesor Intel\u00ae Core\u2122 i3-1005G1 (4M Cache, up to 3.40 GHz), Ice Lake, 15.6\" FHD, 8GB, 512GB SSD, Intel\u00ae UHD Graphics, Windows 10 Home, Negru)",
       "price": 1899.0,
-      "processor_type": "Intel\u00ae i3 1115G4",
-      "memory_type": "SSD 256 GB",
-      "RAM": "8 GBDDR4",
-      "GPU": "Intel UHD",
-      "screen_resolution": "1920 x 1080",
-      "link": "https://www.emag.ro/laptop-huawei-matebook-d15-cu-procesor-intel-core-i3-1115g4-15-6-full-hd-8gb-256gb-ssd-intelr-uhd-graphics-windows-11-home-sliver-53013awc/pd/DHFH7VMBM/?ref=sponsored_products_listing_alpha_1_7&recid=rec_64_7a9cafafd13416efe6a68d4a38cc3fbadeddd323943f77559af0226125bf084d_1657191886&aid=251c52ed-fb8a-11ec-a0f0-0288f0dfa18e&oid=9592397&aidr=251c5633-fb8a-11ec-a0f0-0288f0dfa18e&scenario_ID=64"
+      "processor_type": "Procesor Intel\u00ae Core\u2122 i3 i3-1005G1",
+      "memory_type": "SSD 512GB",
+      "RAM": "8192 MB DDR4",
+      "GPU": "Intel\u00ae UHD Graphics",
+      "screen_resolution": "1920x1080",
+      "link": "https://www.evomag.ro/portabile-laptopuri-notebook/acer-laptop-acer-aspire-3-a315-56-procesor-intel-core-i3-1005g1-4m-cache-up-to-3.40-ghz-ice-lake-15.6-fhd-8gb-512gb-ssd-intel-uhd-graphics-windows-10-home-negru-3836932.html",
+      "normal_price": 1899.0
     }
   },
   {
-    "magasine": "Emag",
+    "magasine": "Evomag",
     "specs": {
-      "id": "6c1ee173-9666-4bcb-be5a-03438de1bede",
-      "title": "Laptop ASUS X515KA cu procesor Intel\u00ae Pentium\u00ae Silver N6000, 15.6\", Full HD, 4GB, 256GB SSD, Intel\u00ae UHD Graphics, No OS, Slate Grey",
-      "price": 1099.99,
-      "processor_type": "Intel\u00ae Pentium Silver N6000",
-      "memory_type": "SSD 256 GB",
-      "RAM": "4 GBDDR4",
-      "GPU": "Intel UHD",
-      "screen_resolution": "1920 x 1080",
-      "link": "https://www.emag.ro/laptop-asus-x515ka-cu-procesor-intelr-pentiumr-silver-n6000-15-6-full-hd-4gb-256gb-ssd-intelr-uhd-graphics-no-os-slate-grey-x515ka-ej020/pd/D0DW5SMBM/"
+      "id": "05bba15b-a6b4-47c6-9a08-c1b058ce9cc2",
+      "title": "Laptop Huawei MateBook D 15, Intel Core i5-10210U pana la 4.2GHz, 15.6\" Full HD, 8GB, SSD 512GB, Intel UHD Graphics, Windows 10 Home, Argintiu",
+      "price": 2199.0,
+      "processor_type": "Procesor Intel\u00ae Core\u2122 i5 i5-10210U",
+      "memory_type": "M.2 PCIe 512GB",
+      "RAM": "8192 MB DDR4",
+      "GPU": "Intel\u00ae UHD Graphics",
+      "screen_resolution": "1920x1080",
+      "link": "https://www.evomag.ro/portabile-laptopuri-notebook/huawei-laptop-huawei-matebook-d-15-intel-core-i5-10210u-pana-la-4.2ghz-15.6-full-hd-8gb-ssd-512gb-intel-uhd-graphics-windows-10-home-argintiu-3879083.html",
+      "normal_price": 2199.0
     }
   },
   {
-    "magasine": "Emag",
+    "magasine": "Evomag",
     "specs": {
-      "id": "17fd1cd5-e854-414b-9194-6db368550a9b",
-      "title": "Laptop Huawei MateBook D15 cu procesor Intel Core i3-1115G4, 15.6\", Full HD, 8GB, 256GB SSD, Intel\u00ae UHD Graphics, Windows 11 Home, Sliver",
-      "price": 1899.0,
-      "processor_type": "Intel\u00ae i3 1115G4",
-      "memory_type": "SSD 256 GB",
-      "RAM": "8 GBDDR4",
-      "GPU": "Intel UHD",
-      "screen_resolution": "1920 x 1080",
-      "link": "https://www.emag.ro/laptop-huawei-matebook-d15-cu-procesor-intel-core-i3-1115g4-15-6-full-hd-8gb-256gb-ssd-intelr-uhd-graphics-windows-11-home-sliver-53013awc/pd/DHFH7VMBM/"
+      "id": "7377b293-b370-45c7-986d-65f4c27dfebf",
+      "title": "Laptop Asus VivoBook Pro 15 OLED K3500PH-L1189 (Procesor Intel\u00ae Core\u2122 i7-11370H (12M Cache, up to 4.80 GHz, with IPU) 15.6\" FHD, 16GB, 512GB SSD, nVidia GeForce GTX 1650 4GB, Albastru)",
+      "price": 4799.0,
+      "processor_type": "Procesor Intel\u00ae Core\u2122 i7 11370H",
+      "memory_type": "M.2 PCIe 512GB",
+      "RAM": "16384 MB GDDR6",
+      "GPU": "nVidia GeForce GTX 1650",
+      "screen_resolution": "1920x1080",
+      "link": "https://www.evomag.ro/portabile-laptopuri-notebook/asus-laptop-asus-vivobook-pro-15-oled-k3500ph-l1189-procesor-intel-core-i7-11370h-12m-cache-up-to-4.80-ghz-with-ipu-15.6-fhd-16gb-512gb-ssd-nvidia-geforce-gtx-1650-4gb-albastru-3826978.html",
+      "normal_price": 4799.0
     }
   },
   {
-    "magasine": "Emag",
+    "magasine": "Evomag",
     "specs": {
-      "id": "bcecc11f-bcfd-4d70-8cbc-0c303330b208",
-      "title": "Laptop Huawei MateBook D15, Intel Core i5-1135G7 pana la 4.2GHz, 15.6\" Full HD, 8GB, SSD 512GB, Intel Iris Xe Graphics, Windows 11 Home, Silver",
-      "price": 2449.99,
-      "processor_type": "Intel\u00ae i5 1135G7",
-      "memory_type": "SSD 512 GB",
-      "RAM": "8 GBDDR4",
-      "GPU": "Intel Iris Xe",
-      "screen_resolution": "1920 x 1080",
-      "link": "https://www.emag.ro/laptop-huawei-matebook-d15-intel-core-i5-1135g7-pana-la-4-2ghz-15-6-full-hd-8gb-ssd-512gb-intel-iris-xe-graphics-windows-11-home-silver-53012tre/pd/DPYV9VMBM/?ref=sponsored_products_listing_alpha_1_8&recid=rec_64_7a9cafafd13416efe6a68d4a38cc3fbadeddd323943f77559af0226125bf084d_1657191886&aid=251c5633-fb8a-11ec-a0f0-0288f0dfa18e&oid=9618369&scenario_ID=64"
+      "id": "c6179257-6205-4a43-aee3-1796d5361184",
+      "title": "Laptop Gaming HP Victus 16-e0065nq (Procesor AMD Ryzen 7 5800H (16M Cache, up to 4.4 GHz), 16.1\" FHD, 16GB, 512GB SSD, nVidia GeForce RTX 3060 @6GB, Argintiu)",
+      "price": 4899.0,
+      "processor_type": "AMD Ryzen\u2122 7 5800H",
+      "memory_type": "M.2 SSD 512GB",
+      "RAM": "16384 MB GDDR6",
+      "GPU": "nVidia GeForce RTX 3060",
+      "screen_resolution": "1920x1080",
+      "link": "https://www.evomag.ro/portabile-laptopuri-notebook/hp-laptop-gaming-hp-victus-16-e0065nq-procesor-amd-ryzen-7-5800h-16m-cache-up-to-4.4-ghz-16.1-fhd-16gb-512gb-ssd-nvidia-geforce-rtx-3060-6gb-argintiu-3911952.html",
+      "normal_price": 4899.0
     }
   },
   {
-    "magasine": "Emag",
+    "magasine": "Evomag",
     "specs": {
-      "id": "d2548795-6f79-4257-b877-c26288c790a3",
-      "title": "Laptop Gaming Lenovo IdeaPad 3 15IHU6 cu procesor Intel Core i5-11300H, 15.6\", Full HD, 8GB, 512GB SSD, NVIDIA GeForce GTX 1650 4GB, No OS, Shadow Black",
-      "price": 2999.99,
-      "processor_type": "Intel\u00ae i5 11300H",
-      "memory_type": "SSD 512 GB",
-      "RAM": "8 GBDDR4",
-      "GPU": "nVidia GeForce GTX",
-      "screen_resolution": "1920 x 1080",
-      "link": "https://www.emag.ro/laptop-gaming-lenovo-ideapad-3-15ihu6-cu-procesor-intel-core-i5-11300h-15-6-full-hd-8gb-512gb-ssd-nvidia-geforce-gtx-1650-4gb-no-os-shadow-black-82k10032rm/pd/DNLYXXMBM/"
+      "id": "b49ba274-297a-442b-a38d-4d90127ff980",
+      "title": "Laptop HP 240 G8 (Procesor Intel\u00ae Core\u2122 i3-1005G1 (4M Cache, up to 3.40 GHz) 14\" HD, 8GB, 256GB SSD, Intel\u00ae UHD Graphics, Win 10 Pro, Negru)",
+      "price": 2499.0,
+      "processor_type": "Procesor Intel\u00ae Core\u2122 i3 i3-1005G1",
+      "memory_type": "M.2 PCIe 256GB",
+      "RAM": "8192 MB DDR4",
+      "GPU": "Intel\u00ae UHD Graphics",
+      "screen_resolution": "1366x768",
+      "link": "https://www.evomag.ro/portabile-laptopuri-notebook/hp-laptop-hp-240-g8-procesor-intel-core-i3-1005g1-4m-cache-up-to-3.40-ghz-14-hd-8gb-256gb-ssd-intel-uhd-graphics-win-10-pro-negru-3832291.html",
+      "normal_price": 2499.0
+    }
+  },
+  {
+    "magasine": "Evomag",
+    "specs": {
+      "id": "1bf49f9a-de40-4e7e-923f-030c7c7c3007",
+      "title": "Laptop Asus E410MA-BV1258 (Procesor Intel\u00ae Celeron\u00ae N4020 (4M Cache, up to 2.80 GHz) 14\" HD, 4GB, 256GB SSD, Intel\u00ae UHD Graphics 600, No OS, Albastru)",
+      "price": 799.0,
+      "processor_type": "Intel\u00ae Celeron\u00ae N4020",
+      "memory_type": "M.2 PCIe 256GB",
+      "RAM": "4096 MB DDR4",
+      "GPU": "Intel\u00ae UHD Graphics 600",
+      "screen_resolution": "1366x768",
+      "link": "https://www.evomag.ro/portabile-laptopuri-notebook/asus-laptop-asus-e410ma-bv1258-procesor-intel-celeron-n4020-4m-cache-up-to-2.80-ghz-14-hd-4gb-256gb-ssd-intel-uhd-graphics-600-no-os-albastru-3845535.html",
+      "normal_price": 799.0
+    }
+  },
+  {
+    "magasine": "Evomag",
+    "specs": {
+      "id": "d892d381-54e6-4b91-96b0-6a53229a2b8f",
+      "title": "Laptop MSI Katana GF76 12UD (Procesor Intel\u00ae Core\u2122 i7-12700H (24M Cache, up to 4.70 GHz) 17.3\" FHD 144Hz, 16GB, 1TB SSD, nVidia GeForce RTX 3050 Ti @4GB, Negru)",
+      "price": 6149.0,
+      "processor_type": "Procesor Intel\u00ae Core\u2122 i7 12700H",
+      "memory_type": "M.2 PCIe 1024GB",
+      "RAM": "16384 MB GDDR6",
+      "GPU": "nVidia GeForce RTX 3050 Ti",
+      "screen_resolution": "1920x1080",
+      "link": "https://www.evomag.ro/portabile-laptopuri-notebook/msi-laptop-msi-katana-gf76-12ud-procesor-intel-core-i7-12700h-24m-cache-up-to-4.70-ghz-17.3-fhd-144hz-16gb-1tb-ssd-nvidia-geforce-rtx-3050-ti-4gb-negru-3924498.html",
+      "normal_price": 6149.0
+    }
+  },
+  {
+    "magasine": "Evomag",
+    "specs": {
+      "id": "1003eebb-9765-49ff-b2c4-c4158c9e0142",
+      "title": "Laptop Asus X515EA-BQ950 (Procesor Intel\u00ae Core i3-1115G4 (6M Cache, up to 4.10 GHz) 15.6\" FHD, 8GB, 256GB SSD, Intel\u00ae UHD Graphics, Argintiu)",
+      "price": 1689.0,
+      "processor_type": "Procesor Intel\u00ae Core\u2122 i3 1115G4",
+      "memory_type": "M.2 SSD 256GB",
+      "RAM": "8192 MB DDR4",
+      "GPU": "Intel\u00ae UHD Graphics",
+      "screen_resolution": "1920x1080",
+      "link": "https://www.evomag.ro/portabile-laptopuri-notebook/asus-laptop-asus-x515ea-bq950-procesor-intel-core-i3-1115g4-6m-cache-up-to-4.10-ghz-15.6-fhd-8gb-256gb-ssd-intel-uhd-graphics-argintiu-3846125.html",
+      "normal_price": 1689.0
+    }
+  },
+  {
+    "magasine": "Evomag",
+    "specs": {
+      "id": "0ed7692d-f7d5-4858-9565-7ac7273428cf",
+      "title": "Laptop Gaming Asus TUF F17 FX706HCB-HX145 (Procesor Intel\u00ae Core\u2122 i5-11400H (12M Cache, up to 4.50 GHz), 17.3\" FHD 144Hz, 8GB, 512GB SSD, nVidia GeForce RTX 3050 @4GB, Negru)",
+      "price": 3899.0,
+      "processor_type": "Procesor Intel\u00ae Core\u2122 i5 11400H",
+      "memory_type": "M.2 PCIe 512GB",
+      "RAM": "8192 MB GDDR6",
+      "GPU": "nVidia GeForce RTX 3050",
+      "screen_resolution": "1920x1080",
+      "link": "https://www.evomag.ro/portabile-laptopuri-notebook/asus-laptop-gaming-asus-tuf-f17-fx706hcb-hx145-procesor-intel-core-i5-11400h-12m-cache-up-to-4.50-ghz-17.3-fhd-144hz-8gb-512gb-ssd-nvidia-geforce-rtx-3050-4gb-negru-3823776.html",
+      "normal_price": 3899.0
+    }
+  },
+  {
+    "magasine": "Evomag",
+    "specs": {
+      "id": "09f4921a-e359-469e-b436-58a20c4d7702",
+      "title": "Laptop Asus X515EA-BQ851 (Procesor Intel\u00ae Core i5-1135G7 (8M Cache, up to 4.20 GHz) 15.6\" FHD, 8GB, 512GB SSD, Intel\u00ae Iris Xe Graphics, Albastru)",
+      "price": 2199.0,
+      "processor_type": "Procesor Intel\u00ae Core\u2122 i5 1135G7",
+      "memory_type": "M.2 SSD 512GB",
+      "RAM": "8192 MB DDR4",
+      "GPU": "Intel Iris Xe Graphics",
+      "screen_resolution": "1920x1080",
+      "link": "https://www.evomag.ro/portabile-laptopuri-notebook/asus-laptop-asus-x515ea-bq851-procesor-intel-core-i5-1135g7-8m-cache-up-to-4.20-ghz-15.6-fhd-8gb-512gb-ssd-intel-iris-xe-graphics-albastru-3830784.html",
+      "normal_price": 2199.0
+    }
+  },
+  {
+    "magasine": "Evomag",
+    "specs": {
+      "id": "2268c94d-fa53-44c0-b8d9-eec6be8ae93a",
+      "title": "Laptop Lenovo V15 G2 ITL (Procesor Intel\u00ae Core\u2122 i3-1115G4 (6M Cache, up to 4.10 GHz), 15.6\" FHD, 8GB, 256GB SSD, Intel UHD Graphics, Negru)",
+      "price": 1699.0,
+      "processor_type": "Procesor Intel\u00ae Core\u2122 i3 1115G4",
+      "memory_type": "M.2 PCIe 256GB",
+      "RAM": "8192 MB DDR4",
+      "GPU": "Intel\u00ae UHD Graphics",
+      "screen_resolution": "1920x1080",
+      "link": "https://www.evomag.ro/portabile-laptopuri-notebook/lenovo-laptop-lenovo-v15-g2-itl-procesor-intel-core-i3-1115g4-6m-cache-up-to-4.10-ghz-15.6-fhd-8gb-256gb-ssd-intel-uhd-graphics-negru-3845489.html",
+      "normal_price": 1699.0
+    }
+  },
+  {
+    "magasine": "Evomag",
+    "specs": {
+      "id": "8e404815-815c-44aa-8d10-67c45ba2cf6b",
+      "title": "Laptop HP 250 G8 (Procesor Intel\u00ae Core\u2122 i7-1165G7 (12M Cache, up to 4.70 GHz, with IPU) 15.6\" FHD, 8GB, 512GB SSD, Intel\u00ae Iris Xe Graphics, Argintiu)",
+      "price": 2999.0,
+      "processor_type": "Procesor Intel\u00ae Core\u2122 i7 1165G7",
+      "memory_type": "M.2 PCIe 512GB",
+      "RAM": "8192 MB DDR4",
+      "GPU": "Intel Iris Xe Graphics",
+      "screen_resolution": "1920x1080",
+      "link": "https://www.evomag.ro/portabile-laptopuri-notebook/hp-laptop-hp-250-g8-procesor-intel-core-i7-1165g7-12m-cache-up-to-4.70-ghz-with-ipu-15.6-fhd-8gb-512gb-ssd-intel-iris-xe-graphics-argintiu-3844433.html",
+      "normal_price": 2999.0
     }
   },
   {
     "magasine": "Flanco",
     "specs": {
-      "id": "b7cf58ac-a1e5-4380-a9dc-012548a19b9b",
+      "id": "d2ab3213-45c6-4fbb-9d44-2b9825eb1a9d",
       "title": "Laptop Lenovo Ideapad 3 15ADA6, Full HD, AMD Ryzen 3 3250U, 8 GB RAM, 256 SSD, AMD Radeon Graphics, Arctic Grey",
-      "price": 1499.0,
+      "price": 1699.99,
       "processor_type": "AMD Ryzen 3 3250U",
       "memory_type": "SSD 256 GB",
       "RAM": "8 GB DDR4",
@@ -2226,9 +1527,9 @@
   {
     "magasine": "Flanco",
     "specs": {
-      "id": "d6ad59aa-e867-482e-a2ec-3fb473872932",
+      "id": "5ee52ba7-93b5-467b-96c4-e50aa4132599",
       "title": "Laptop Lenovo IdeaPad3 82KR004JRM, 15.6inch, IPS, Full HD, AMD Ryzen 5 3500U, 8GB DDR4, 512GB SSD, Free Dos, Gri",
-      "price": 1799.0,
+      "price": 1999.99,
       "processor_type": "AMD Ryzen 5 3500U",
       "memory_type": "SSD 512 GB",
       "RAM": "8 GB DDR4",
@@ -2240,22 +1541,7 @@
   {
     "magasine": "Flanco",
     "specs": {
-      "id": "b87a1faa-54f9-4fc8-b5e3-b346858c9f3b",
-      "title": "Laptop Lenovo IdeaPad 3 15ITL6, Intel Celeron 6305, 15.6\", Full HD, 4GB RAM, 128GB SSD, Intel UHD Graphics, Free DOS, Nisipiu",
-      "price": 1099.0,
-      "processor_type": "Intel\u00ae Celeron 6305",
-      "memory_type": "SSD 128 GB",
-      "RAM": "4 GB DDR4",
-      "GPU": "Intel UHD",
-      "screen_resolution": "1920 x 1080",
-      "link": "https://www.flanco.ro/laptop-lenovo-ideapad-3-15itl6-intel-celeron-6305-15-6-full-hd-4gb-ram-128gb-ssd-intel-uhd-graphics-free-dos-nisipiu.html",
-      "normal_price": 1699.99
-    }
-  },
-  {
-    "magasine": "Flanco",
-    "specs": {
-      "id": "ee54aee7-b933-4b8e-95b4-200072478854",
+      "id": "5b076279-49e1-4eff-8e63-400ad47adb72",
       "title": "Laptop HP 255 G8, 15.6\", Full HD, AMD Ryzen 5 5500U, 8GB RAM, 256GB SSD, AMD Radeon Graphics, Free DOS, Argintiu",
       "price": 1999.0,
       "processor_type": "AMD Ryzen 5 5500U",
@@ -2270,7 +1556,7 @@
   {
     "magasine": "Flanco",
     "specs": {
-      "id": "5274311f-6ada-47fe-a708-1dc922536e44",
+      "id": "0655f9b2-027b-4a2e-9379-4c97f246d01c",
       "title": "Laptop HP 15S-EQ2059NQ, 15.6\", Full HD, AMD Ryzen 5 5500U, 8GB RAM, 512GB SSD, AMD Radeon Graphics, Windows 11, Jet Black",
       "price": 2599.99,
       "processor_type": "AMD Ryzen 5 5500U",
@@ -2285,36 +1571,51 @@
   {
     "magasine": "Flanco",
     "specs": {
-      "id": "1973bcf4-2f38-441a-ba22-e9686f3bbf7a",
+      "id": "a036ff0d-58ea-4593-8747-cf851dbd857d",
       "title": "Laptop Lenovo IdeaPad 3 15ITL6, Intel Celeron 6305, 15.6inch, Full HD, IPS, 4GB, 128GB SSD, Intel UHD Graphics, Free DOS, Arctic Grey",
-      "price": 1009.0,
+      "price": 1199.99,
       "processor_type": "Intel\u00ae Celeron 6305",
       "memory_type": "SSD 128 GB",
       "RAM": "4 GB DDR4",
       "GPU": "Intel UHD",
       "screen_resolution": "1920 x 1080",
-      "link": "https://www.flanco.ro/laptop-lenovo-ideapad-3-15itl6-intel-celeron-6305-15-6inch-full-hd-ips-4gb-128gb-ssd-intel-uhd-graphics-free-dos-arctic-grey.html",
-      "normal_price": 1099.99
+      "link": "https://www.flanco.ro/laptop-lenovo-ideapad-3-15itl6-intel-celeron-6305-15-6inch-full-hd-ips-4gb-128gb-ssd-intel-uhd-graphics-free-dos-arctic-grey.html"
     }
   },
   {
     "magasine": "Flanco",
     "specs": {
-      "id": "a546d843-0b45-476f-834e-ff9ce0d20e66",
-      "title": "Laptop Hp 15s-eq2029nq, Full HD, AMD Ryzen 3 5300U, 8 GB RAM, 256 SSD, AMD Radeon Graphics, Argintiu",
-      "price": 1699.0,
-      "processor_type": "AMD Ryzen 3 5300U",
-      "memory_type": "SSD 256 GB",
-      "RAM": "8 GB DDR4",
-      "GPU": "AMD Radeon",
+      "id": "bdb2015f-2389-42cb-9661-814b7aa303f5",
+      "title": "Laptop Lenovo IdeaPad 3 15ITL6, Intel Celeron 6305, 15.6\", Full HD, 4GB RAM, 128GB SSD, Intel UHD Graphics, Free DOS, Nisipiu",
+      "price": 1099.0,
+      "processor_type": "Intel\u00ae Celeron 6305",
+      "memory_type": "SSD 128 GB",
+      "RAM": "4 GB DDR4",
+      "GPU": "Intel UHD",
       "screen_resolution": "1920 x 1080",
-      "link": "https://www.flanco.ro/laptop-hp-15s-eq2029nq-full-hd-amd-ryzen-3-5300u-8-gb-ram-256-ssd-amd-radeon-graphics-argintiu.html"
+      "link": "https://www.flanco.ro/laptop-lenovo-ideapad-3-15itl6-intel-celeron-6305-15-6-full-hd-4gb-ram-128gb-ssd-intel-uhd-graphics-free-dos-nisipiu.html",
+      "normal_price": 1699.99
     }
   },
   {
     "magasine": "Flanco",
     "specs": {
-      "id": "445803c2-4bcd-4524-9905-0bfc9465d13d",
+      "id": "a68c32f4-9eb3-4496-abd8-a4c9309e0163",
+      "title": "Laptop Gaming Lenovo Legion 5 15ACH6, AMD Ryzen 5 5600H, 15.6\", Full HD, 8GB RAM, 512GB SSD, NVIDIA GeForce RTX 3050, Free DOS, Alb/Gri",
+      "price": 4199.0,
+      "processor_type": "AMD Ryzen 5 5600H",
+      "memory_type": "SSD 512 GB",
+      "RAM": "8 GB DDR4",
+      "GPU": "nVidia GeForce RTX",
+      "screen_resolution": "1920 x 1080",
+      "link": "https://www.flanco.ro/laptop-gaming-lenovo-legion-5-15ach6-amd-ryzen-5-5600h-15-6-full-hd-8gb-ram-512gb-ssd-nvidia-geforce-rtx-3050-free-dos-alb-gri.html",
+      "normal_price": 4999.99
+    }
+  },
+  {
+    "magasine": "Flanco",
+    "specs": {
+      "id": "c9156e4f-ed2d-40e1-9e6f-c3cb40c57a75",
       "title": "Laptop HP 255 G8 2E9J5EA, AMD Ryzen 3 3250U, 15.6inch, RAM 8GB, SDD 256GB, AMD Radeon Graphics, Windows 10 Pro, Negru",
       "price": 2199.99,
       "processor_type": "AMD Ryzen 3 3250U",
@@ -2328,21 +1629,21 @@
   {
     "magasine": "Flanco",
     "specs": {
-      "id": "d7d22b7f-9764-4893-8e34-8ff2261279fc",
-      "title": "Laptop Hp 15s-fq4011nq, 15.6 inch, Full HD, Intel Core i5-1155G7, 8GB, 512GB SSD, Intel Iris Xe Graphics, Windows 11 Home",
-      "price": 2699.99,
-      "processor_type": "Intel\u00ae i5 1155G7",
-      "memory_type": "SSD 512 GB",
+      "id": "193c63aa-b044-4c7b-9453-0abab4758180",
+      "title": "Laptop Hp 15s-eq2029nq, Full HD, AMD Ryzen 3 5300U, 8 GB RAM, 256 SSD, AMD Radeon Graphics, Argintiu",
+      "price": 1799.99,
+      "processor_type": "AMD Ryzen 3 5300U",
+      "memory_type": "SSD 256 GB",
       "RAM": "8 GB DDR4",
-      "GPU": "Intel Iris Xe",
+      "GPU": "AMD Radeon",
       "screen_resolution": "1920 x 1080",
-      "link": "https://www.flanco.ro/laptop-hp-15s-fq4011nq-15-6-inch-full-hd-intel-core-i5-1155g7-8gb-512gb-ssd-intel-iris-xe-graphics-windows-11-home.html"
+      "link": "https://www.flanco.ro/laptop-hp-15s-eq2029nq-full-hd-amd-ryzen-3-5300u-8-gb-ram-256-ssd-amd-radeon-graphics-argintiu.html"
     }
   },
   {
     "magasine": "Flanco",
     "specs": {
-      "id": "3052786e-05b2-49c6-bac5-2973737ac710",
+      "id": "3ec4fab7-ea36-4def-a719-71fb14cfad44",
       "title": "Laptop ASUS X515EA, Intel Core i5-1135G7, 15.6inch, Full HD, 8GB RAM, 512GB SSD, Intel Iris Xe Graphics, Free DOS, Gri",
       "price": 2499.99,
       "processor_type": "Intel\u00ae i5 1135G7",
@@ -2356,21 +1657,7 @@
   {
     "magasine": "Flanco",
     "specs": {
-      "id": "b5cd7069-9515-42a1-8329-c4ee102f6507",
-      "title": "Laptop HP 255 G8 27K36EA, AMD Ryzen 5 3500U, 15.6inch, Full HD, 8GB, 256GB SSD, AMD Graphics, Windows 10 Pro, Negru",
-      "price": 2299.99,
-      "processor_type": "AMD Ryzen 5 3500U",
-      "memory_type": "SSD 256 GB",
-      "RAM": "8 GB DDR4",
-      "GPU": "AMD Radeon Vega",
-      "screen_resolution": "1920 x 1080",
-      "link": "https://www.flanco.ro/laptop-hp-255-g8-27k36ea-amd-ryzen-5-3500u-15-6inch-full-hd-8gb-256gb-ssd-amd-graphics-windows-10-pro-negru.html"
-    }
-  },
-  {
-    "magasine": "Flanco",
-    "specs": {
-      "id": "34aed2ba-a507-4847-b672-9c770bea3f88",
+      "id": "b1e5f0b6-b2ef-4cd2-a6d5-b4e84f38a492",
       "title": "Laptop HP 255 G8, AMD Ryzen 3 3250U, 15.6inch, Full HD, 8GB, 256GB SSD, AMD Radeon Graphics, Windows 10 Pro, Argintiu",
       "price": 2099.99,
       "processor_type": "AMD Ryzen 3 3250U",
@@ -2384,9 +1671,37 @@
   {
     "magasine": "Flanco",
     "specs": {
-      "id": "4b49ea2b-bdf8-4692-85a6-920ab345fa6e",
+      "id": "9e1fa91c-97be-4c51-a7ec-17466d26c319",
+      "title": "Laptop Hp 15s-fq4011nq, 15.6 inch, Full HD, Intel Core i5-1155G7, 8GB, 512GB SSD, Intel Iris Xe Graphics, Windows 11 Home",
+      "price": 2699.99,
+      "processor_type": "Intel\u00ae i5 1155G7",
+      "memory_type": "SSD 512 GB",
+      "RAM": "8 GB DDR4",
+      "GPU": "Intel Iris Xe",
+      "screen_resolution": "1920 x 1080",
+      "link": "https://www.flanco.ro/laptop-hp-15s-fq4011nq-15-6-inch-full-hd-intel-core-i5-1155g7-8gb-512gb-ssd-intel-iris-xe-graphics-windows-11-home.html"
+    }
+  },
+  {
+    "magasine": "Flanco",
+    "specs": {
+      "id": "c13637c5-5f87-4a16-b11b-ccd56761e973",
+      "title": "Laptop HP 255 G8 27K36EA, AMD Ryzen 5 3500U, 15.6inch, Full HD, 8GB, 256GB SSD, AMD Graphics, Windows 10 Pro, Negru",
+      "price": 2299.99,
+      "processor_type": "AMD Ryzen 5 3500U",
+      "memory_type": "SSD 256 GB",
+      "RAM": "8 GB DDR4",
+      "GPU": "AMD Radeon Vega",
+      "screen_resolution": "1920 x 1080",
+      "link": "https://www.flanco.ro/laptop-hp-255-g8-27k36ea-amd-ryzen-5-3500u-15-6inch-full-hd-8gb-256gb-ssd-amd-graphics-windows-10-pro-negru.html"
+    }
+  },
+  {
+    "magasine": "Flanco",
+    "specs": {
+      "id": "efd11b98-b9c7-4867-8a72-e9a6409613ae",
       "title": "Laptop Asus K413EA-EB1475, Intel Core i5-1135G7, 2.4GHz, 8GB, 512GB SSD, Intel Iris Xe Graphics, Free DOS, Argintiu",
-      "price": 2399.0,
+      "price": 2699.99,
       "processor_type": "Intel\u00ae i5 1135G7",
       "memory_type": "SSD 512 GB",
       "RAM": "8 GB DDR4",
@@ -2398,9 +1713,9 @@
   {
     "magasine": "Flanco",
     "specs": {
-      "id": "25f40773-34d1-4131-93e2-31c1db82c83c",
+      "id": "a548271d-dbdb-4e4c-944d-4d534a125bce",
       "title": "Laptop Asus X415EA-EB526, Intel Core i5-1135G7 2.4GHz, 8GB, 512GB SSD, Intel Irix X Graphics, Free Dos, Gri Inchis",
-      "price": 2399.99,
+      "price": 2499.99,
       "processor_type": "Intel\u00ae i5 1135G7",
       "memory_type": "SSD 512 GB",
       "RAM": "8 GB DDR4",
@@ -2412,7 +1727,7 @@
   {
     "magasine": "Flanco",
     "specs": {
-      "id": "8399bd08-5734-4a0a-8a77-a76b49cb6dc4",
+      "id": "b17c9876-9bc1-4261-911e-49d8ba5c9891",
       "title": "Laptop Asus TUF Gaming F15 FX506HC-HN004 FHD, I5-11400H, 16GB, 512GB SSD, RTX3050 4GB, Free Dos, Negru",
       "price": 4399.99,
       "processor_type": "Intel\u00ae i5 11400H",
@@ -2420,30 +1735,15 @@
       "RAM": "16 GB DDR4",
       "GPU": "Intel",
       "screen_resolution": "1920 x 1080",
-      "link": "https://www.flanco.ro/laptop-asus-tuf-gaming-f15-fx506hc-hn004-fhd-i5-11400h-16gb-512gb-ssd-rtx3050-4gb-free-dos-negru.html",
-      "normal_price": 4499.99
+      "link": "https://www.flanco.ro/laptop-asus-tuf-gaming-f15-fx506hc-hn004-fhd-i5-11400h-16gb-512gb-ssd-rtx3050-4gb-free-dos-negru.html"
     }
   },
   {
     "magasine": "Flanco",
     "specs": {
-      "id": "4ae14e51-add5-46ff-a5ee-e18c69f8bd99",
-      "title": "Laptop Asus X415MA-EB548, Intel Celeron N4020, 4GB, 256GB SSD, Intel UHD Graphics 600, Free Dos, Gri",
-      "price": 1099.0,
-      "processor_type": "Intel\u00ae Celeron N4020",
-      "memory_type": "SSD 256 GB",
-      "RAM": "4 GB DDR4",
-      "GPU": "Intel UHD",
-      "screen_resolution": "1920 x 1080",
-      "link": "https://www.flanco.ro/laptop-asus-x415ma-eb548-intel-celeron-n4020-4gb-256gb-ssd-intel-uhd-graphics-600-free-dos-gri.html"
-    }
-  },
-  {
-    "magasine": "Flanco",
-    "specs": {
-      "id": "8805ee37-5be7-4b83-8548-de9120fe8694",
+      "id": "2953bda8-042d-40eb-bce0-2f32c40511c7",
       "title": "Laptop Asus X415EA-EB1027, Intel Core i7 1165G7, 2.8GHz, 8GB, 512GB SSD, Intel Iris Xe Graphics, Free Dos, Gri Inchis",
-      "price": 2999.99,
+      "price": 2899.0,
       "processor_type": "Intel\u00ae i7 1165G7",
       "memory_type": "SSD 512 GB",
       "RAM": "8 GB DDR4",
@@ -2455,50 +1755,21 @@
   {
     "magasine": "Flanco",
     "specs": {
-      "id": "3d4efac0-7eaa-447c-bc2e-8edeccc3960d",
-      "title": "Laptop HP Andaman 21C1, 14 inch, Full HD, 4 GB RAM, 256 GB SSD, Intel Celeron N4500, Windows 11 Home, Intel UHD Graphics, Argintiu",
-      "price": 1299.99,
-      "processor_type": "Intel\u00ae Celeron N4500",
+      "id": "6181bfc8-8b6d-421e-95c7-4a97bc6fc5dc",
+      "title": "Laptop Asus X415MA-EB548, Intel Celeron N4020, 4GB, 256GB SSD, Intel UHD Graphics 600, Free Dos, Gri",
+      "price": 1199.99,
+      "processor_type": "Intel\u00ae Celeron N4020",
       "memory_type": "SSD 256 GB",
       "RAM": "4 GB DDR4",
       "GPU": "Intel UHD",
       "screen_resolution": "1920 x 1080",
-      "link": "https://www.flanco.ro/laptop-hp-andaman-21c1-14-inch-full-hd-4-gb-ram-256-gb-ssd-intel-celeron-n4500-windows-11-home.html"
+      "link": "https://www.flanco.ro/laptop-asus-x415ma-eb548-intel-celeron-n4020-4gb-256gb-ssd-intel-uhd-graphics-600-free-dos-gri.html"
     }
   },
   {
     "magasine": "Flanco",
     "specs": {
-      "id": "8193a118-ae20-435e-82f4-a2c129737ff2",
-      "title": "Laptop Asus TUF Gaming F15 FX506HE-HN003, Intel Core I5-11400H, 8GB, 512GB SSD, Intel UHD Graphics, Eclipse Gray",
-      "price": 4399.99,
-      "processor_type": "Intel\u00ae i5 11400H",
-      "memory_type": "SSD 512 GB",
-      "RAM": "8 GB DDR4",
-      "GPU": "nVidia GeForce RTX",
-      "screen_resolution": "1920 x 1080",
-      "link": "https://www.flanco.ro/laptop-asus-tuf-gaming-f15-fx506he-hn003-intel-core-i5-11400h-8gb-512gb-ssd-intel-uhd-graphics-eclipse-gray.html"
-    }
-  },
-  {
-    "magasine": "Flanco",
-    "specs": {
-      "id": "df3c8e13-89c4-429f-8885-a9f2e34a6001",
-      "title": "Laptop Asus TUF Gaming F15 FX506HEB-HN145, Intel Core I5-11400H, 8GB, 512GB SSD, nVidia GeForce RTX 3050 Ti, Free Dos, Argintiu",
-      "price": 4299.99,
-      "processor_type": "Intel\u00ae i5 11400H",
-      "memory_type": "SSD 512 GB",
-      "RAM": "8 GB DDR4",
-      "GPU": "nVidia GeForce RTX",
-      "screen_resolution": "1920 x 1080",
-      "link": "https://www.flanco.ro/laptop-asus-tuf-gaming-f15-fx506heb-hn145-intel-core-i5-11400h-8gb-512gb-ssd-nvidia-geforce-rtx-3050-ti-free-dos-argintiu.html",
-      "normal_price": 4399.99
-    }
-  },
-  {
-    "magasine": "Flanco",
-    "specs": {
-      "id": "1cc15585-0bda-4218-be8b-af4b83d5ef15",
+      "id": "45af4659-5afc-4c9c-a80e-89aca5935b5d",
       "title": "Laptop Asus X415FA-EB037, 14inch, Full HD, Intel Core i3-10110U, 4GB, 256GB SSD, Intel HD Graphics, Free DOS, Gri",
       "price": 1699.99,
       "processor_type": "Intel\u00ae i3 10110U",
@@ -2512,7 +1783,35 @@
   {
     "magasine": "Flanco",
     "specs": {
-      "id": "a5aef11c-1db4-4a77-83d0-18ca311a9984",
+      "id": "16975983-72ad-4db1-a142-7c886676745e",
+      "title": "Laptop Asus TUF Gaming F15 FX506HEB-HN145, Intel Core I5-11400H, 8GB, 512GB SSD, nVidia GeForce RTX 3050 Ti, Free Dos, Argintiu",
+      "price": 4299.99,
+      "processor_type": "Intel\u00ae i5 11400H",
+      "memory_type": "SSD 512 GB",
+      "RAM": "8 GB DDR4",
+      "GPU": "nVidia GeForce RTX",
+      "screen_resolution": "1920 x 1080",
+      "link": "https://www.flanco.ro/laptop-asus-tuf-gaming-f15-fx506heb-hn145-intel-core-i5-11400h-8gb-512gb-ssd-nvidia-geforce-rtx-3050-ti-free-dos-argintiu.html"
+    }
+  },
+  {
+    "magasine": "Flanco",
+    "specs": {
+      "id": "019bfdc9-5a63-4fe4-8d0a-02c294f6b1d7",
+      "title": "Laptop HP Andaman 21C1, 14 inch, Full HD, 4 GB RAM, 256 GB SSD, Intel Celeron N4500, Windows 11 Home, Intel UHD Graphics, Argintiu",
+      "price": 1299.99,
+      "processor_type": "Intel\u00ae Celeron N4500",
+      "memory_type": "SSD 256 GB",
+      "RAM": "4 GB DDR4",
+      "GPU": "Intel UHD",
+      "screen_resolution": "1920 x 1080",
+      "link": "https://www.flanco.ro/laptop-hp-andaman-21c1-14-inch-full-hd-4-gb-ram-256-gb-ssd-intel-celeron-n4500-windows-11-home.html"
+    }
+  },
+  {
+    "magasine": "Flanco",
+    "specs": {
+      "id": "523b4c29-2c56-446f-bf91-e7858e7c23c7",
       "title": "Laptop ultraportabil ASUS Vivobook Pro 14 K3400PA, Intel Core i5-11300H, 14inch, 8GB, 512GB SSD, Intel Iris Xe Graphics, Free DOS, Albastru",
       "price": 2799.99,
       "processor_type": "Intel\u00ae i5 11300H",
@@ -2526,21 +1825,7 @@
   {
     "magasine": "Flanco",
     "specs": {
-      "id": "7b3aa0b4-0264-4234-ae28-8822b7c2ae8a",
-      "title": "Laptop ultraportabil Huawei MateBook D14, Intel Core i5-10210U, 14inch, Full HD, 8GB, 512GB SSD, Intel UHD Graphics, Windows 10 Home, Argintiu",
-      "price": 2389.99,
-      "processor_type": "Intel\u00ae i5 10210U",
-      "memory_type": "SSD 512 GB",
-      "RAM": "8 GB DDR4",
-      "GPU": "Intel UHD",
-      "screen_resolution": "1920 x 1080",
-      "link": "https://www.flanco.ro/laptop-ultraportabil-huawei-matebook-d14-intel-core-i5-10210u-14inch-full-hd-8gb-512gb-ssd-intel-uhd-graphics-windows-10-home-argintiu.html"
-    }
-  },
-  {
-    "magasine": "Flanco",
-    "specs": {
-      "id": "690dffc7-4878-4ca5-9603-592b3caf8b8d",
+      "id": "525ba377-78e2-4b7a-86e0-32a15dc84784",
       "title": "Laptop Asus X415MA-EB494, Intel Celeron N4020, 1.1GHz, 4GB, 256GB SSD, Intel UHD Graphics 600, Free Dos, Argintiu",
       "price": 1199.99,
       "processor_type": "Intel\u00ae Celeron N4020",
@@ -2552,9 +1837,23 @@
     }
   },
   {
+    "magasine": "Flanco",
+    "specs": {
+      "id": "fe46af0e-fed6-4854-a532-f4960f193ca8",
+      "title": "Laptop ultraportabil Huawei MateBook D14, Intel Core i5-10210U, 14inch, Full HD, 8GB, 512GB SSD, Intel UHD Graphics, Windows 10 Home, Argintiu",
+      "price": 2499.0,
+      "processor_type": "Intel\u00ae i5 10210U",
+      "memory_type": "SSD 512 GB",
+      "RAM": "8 GB DDR4",
+      "GPU": "Intel UHD",
+      "screen_resolution": "1920 x 1080",
+      "link": "https://www.flanco.ro/laptop-ultraportabil-huawei-matebook-d14-intel-core-i5-10210u-14inch-full-hd-8gb-512gb-ssd-intel-uhd-graphics-windows-10-home-argintiu.html"
+    }
+  },
+  {
     "magasine": "MediaGalaxy",
     "specs": {
-      "id": "b97c14ea-1621-4787-83ab-4f08a7744466",
+      "id": "b09a43ca-d4e8-425a-b8d3-6e03a1af39f2",
       "title": "Laptop ALLVIEW AllBook H, Intel Celeron N4000 pana la 2.6GHz, 15.6\" Full HD, 4GB, SSD 256GB, Intel UHD Graphics 600, Free DOS, gri",
       "price": 1009.9,
       "processor_type": "Intel Celeron N4000",
@@ -2568,7 +1867,7 @@
   {
     "magasine": "MediaGalaxy",
     "specs": {
-      "id": "61a6286b-266c-4a80-bd04-314196bf7b82",
+      "id": "1a5191fd-491b-4fd0-96a6-1d7fe41e26cc",
       "title": "Laptop gaming LENOVO IdeaPad Gaming 3 15ACH6, AMD Ryzen 5 5600H pana la 4.2GHz, 15.6\" Full HD, 16GB, SSD 512GB, NVIDIA GeForce GTX 1650, Free DOS, negru",
       "price": 3249.9,
       "processor_type": "AMD Ryzen 5 5600H",
@@ -2582,9 +1881,9 @@
   {
     "magasine": "MediaGalaxy",
     "specs": {
-      "id": "4b94907c-ee5c-4d41-bb5b-0a9a5ad5336e",
+      "id": "e5d91d44-7d44-4e32-993d-2efd5fc85f1a",
       "title": "Laptop ACER Aspire 3 A315-35-C08K, Intel Celeron N4500 pana la 2.8GHz, 15.6\" HD, 4GB, SSD 256GB, Intel UHD Graphics, Free DOS, argintiu",
-      "price": 999.9,
+      "price": 1449.9,
       "processor_type": "Intel Celeron N4500",
       "memory_type": "SSD 256 GB",
       "RAM": "4 GB DDR4",
@@ -2597,7 +1896,7 @@
   {
     "magasine": "MediaGalaxy",
     "specs": {
-      "id": "ec6ffbab-ec02-42a2-be95-d52c1a144b9b",
+      "id": "e5756425-05fe-4b5a-b90a-a9722656db75",
       "title": "Laptop 2 in 1 ASUS ROG Flow X13 GV301QC-K6003, AMD Ryzen 7 5800HS pana la 4.4GHz, 13.4\" WUXGA Touch, 16GB, SSD 512GB, NVIDIA GeForce RTX 3050 4GB, Free Dos, negru",
       "price": 5799.9,
       "processor_type": "AMD Ryzen 7 5800HS",
@@ -2612,9 +1911,9 @@
   {
     "magasine": "MediaGalaxy",
     "specs": {
-      "id": "67fd7c62-b178-4f10-8b77-78c7ba6d25f9",
+      "id": "f095a67b-695d-41a0-a70f-20458cb200d0",
       "title": "Laptop HUAWEI MateBook D15, Intel Core i3-10110U pana la 4.1GHz, 15.6\" Full HD, 8GB, SSD 256GB, Intel UHD Graphics, Windows 10 Home, argintiu",
-      "price": 1799.9,
+      "price": 1999.9,
       "processor_type": "Intel Core i3 10110U",
       "memory_type": "SSD 256 GB",
       "RAM": "8 GB DDR4",
@@ -2627,9 +1926,9 @@
   {
     "magasine": "MediaGalaxy",
     "specs": {
-      "id": "99417939-1889-418e-8b4a-e6836fef4b4d",
+      "id": "100c486b-d071-471a-be29-624f1ee1bf8d",
       "title": "Laptop HUAWEI MateBook D14, Intel Core i5-10210U pana la 4.2GHz, 14\" Full HD, 8GB, SSD 512GB, Intel UHD Graphics, Windows 10 Home, argintiu",
-      "price": 2199.9,
+      "price": 2399.9,
       "processor_type": "Intel Core i5 10210U",
       "memory_type": "SSD 512 GB",
       "RAM": "8 GB DDR4",
@@ -2642,9 +1941,9 @@
   {
     "magasine": "MediaGalaxy",
     "specs": {
-      "id": "bb99c541-823b-411d-bf50-848288bd3b96",
+      "id": "156bcef0-6dc5-490b-a36c-2f29711dd13c",
       "title": "Laptop gaming LENOVO IdeaPad Gaming 3 15ACH6, AMD Ryzen 7 5800H pana la 4.4GHz, 15.6\" Full HD, 16GB, SSD 512GB, NVIDIA GeForce RTX 3050 Ti 4GB, Free DOS, negru",
-      "price": 4349.9,
+      "price": 4249.9,
       "processor_type": "AMD Ryzen 7 5800H",
       "memory_type": "SSD 512 GB",
       "RAM": "16 GB DDR4",
@@ -2657,9 +1956,9 @@
   {
     "magasine": "MediaGalaxy",
     "specs": {
-      "id": "56f0e891-c3e2-4bcb-a5b3-119228ddc1cd",
+      "id": "33d466c6-cc73-44e1-bf57-f0d938dc66eb",
       "title": "Laptop HUAWEI MateBook 14, Intel Core i5-1135G7 pana la 4.8GHz, 14\" 2K, 8GB, SSD 512GB, Intel Iris Xe, Windows 10 Home, gri",
-      "price": 3499.9,
+      "price": 3599.9,
       "processor_type": "Intel Core i5 1135G7",
       "memory_type": "SSD 512 GB",
       "RAM": "8 GB DDR4",
@@ -2672,9 +1971,9 @@
   {
     "magasine": "MediaGalaxy",
     "specs": {
-      "id": "0a60ec56-6dce-4559-921f-38a7720d469e",
+      "id": "4ece2138-7c86-4bee-92c7-1f129f1389ca",
       "title": "Laptop HP 15s-fq4012nq, Intel Core i5-1155G7 pana la 4.5GHz, 15.6\" Full HD, 8GB, SSD 512GB, Intel Iris Xe Graphics, Windows 11 Home S, auriu pal",
-      "price": 2499.9,
+      "price": 3299.9,
       "processor_type": "Intel Core i5 1155G7",
       "memory_type": "SSD 512 GB",
       "RAM": "8 GB DDR4",
@@ -2686,22 +1985,22 @@
   {
     "magasine": "MediaGalaxy",
     "specs": {
-      "id": "3d761415-2446-48e9-b262-0a9327c2ded8",
-      "title": "Laptop ACER Aspire 5 A515-56-50QN, Intel Core i5-1135G7 pana la 4.2GHz, 15.6\" Full HD, 8GB, SSD 512GB, Intel Iris Xe Graphics, Free DOS, negru",
-      "price": 2099.9,
-      "processor_type": "Intel Core i5 1135G7",
-      "memory_type": "SSD 512 GB",
-      "RAM": "8 GB DDR4",
-      "GPU": "Intel Iris Xe Graphics",
+      "id": "04d46816-8085-468c-bcff-d0d27dc01d4f",
+      "title": "Laptop Gaming ACER Nitro 5 AN515-57, Intel Core i7-11800H pana la 4.6GHz, 15.6\" Full HD, 16GB, SSD 1TB, NVIDIA GeForce RTX 3050 Ti 4GB, Free DOS, negru",
+      "price": 5299.9,
+      "processor_type": "Intel Core i7 11800H",
+      "memory_type": "SSD 1000 GB",
+      "RAM": "16 GB DDR4",
+      "GPU": "NVIDIA GeForce RTX 3050 Ti",
       "screen_resolution": "1920 x 1080",
-      "link": "https://mediagalaxy.ro/laptop-acer-aspire-5-a515-56-50qn-intel-core-i5-1135g7-pana-la-4-2ghz-15-6-full-hd-8gb-ssd-512gb-intel-iris-xe-graphics-free-dos-negru/cpd/LAPNXA18EX006/",
-      "normal_price": 3399.9
+      "link": "https://mediagalaxy.ro/laptop-gaming-acer-nitro-5-an515-57-intel-core-i7-11800h-pana-la-4-6ghz-15-6-full-hd-16gb-ssd-1tb-nvidia-geforce-rtx-3050-ti-4gb-free-dos-negru/cpd/LAPNHQESEX002/",
+      "normal_price": 6299.9
     }
   },
   {
     "magasine": "MediaGalaxy",
     "specs": {
-      "id": "8f9f54a5-0776-4e25-9c73-c46fb4fa0765",
+      "id": "19118a5e-e83e-4739-ae94-4ceb6bea1569",
       "title": "Laptop APPLE MacBook Air 13 mgnd3ze/a, Apple M1, 13.3\" Retina Display, 8GB, SSD 256GB, Grafica integrata, macOS Big Sur, Gold - Tastatura layout INT",
       "price": 4999.9,
       "processor_type": "Apple M1 M1",
@@ -2716,7 +2015,22 @@
   {
     "magasine": "MediaGalaxy",
     "specs": {
-      "id": "73e35a07-e551-4ff0-be16-92f2f460e1ca",
+      "id": "4e21e9ca-f254-476e-8c25-aac164630ded",
+      "title": "Laptop Gaming LENOVO Legion 5 15ACH6H, AMD Ryzen 5 5600H pana la 4.2GHz, 15.6\" Full HD, 16GB, SSD 512GB, NVIDIA GeForce RTX 3060 6GB, Free Dos, Phantom Blue",
+      "price": 4999.9,
+      "processor_type": "AMD Ryzen 5 5600H",
+      "memory_type": "SSD 512 GB",
+      "RAM": "16 GB DDR4",
+      "GPU": "NVIDIA GeForce RTX 3060",
+      "screen_resolution": "1920 x 1080",
+      "link": "https://mediagalaxy.ro/laptop-gaming-lenovo-legion-5-15ach6h-amd-ryzen-5-5600h-pana-la-4-2ghz-15-6-full-hd-16gb-ssd-512gb-nvidia-geforce-rtx-3060-6gb-free-dos-phantom-blue/cpd/LAP82JU0065RM/",
+      "normal_price": 6799.9
+    }
+  },
+  {
+    "magasine": "MediaGalaxy",
+    "specs": {
+      "id": "4ec4b803-1abd-4c33-808f-ae8d9cfec05b",
       "title": "Laptop 2 in 1 ASUS Zenbook 14 Flip OLED UP5401EA-KN110X, Intel Core i5-1135G7 pana la 4.2Ghz, 14\" 2.8K Touch, 8GB, SSD 512GB, Intel Iris Xe, Windows 11 Pro, gri",
       "price": 4901.49,
       "processor_type": "Intel Core i5 1135G7",
@@ -2730,39 +2044,23 @@
   {
     "magasine": "MediaGalaxy",
     "specs": {
-      "id": "82178072-a3fe-4222-97d6-8b298ff317ea",
-      "title": "Laptop Gaming LENOVO Legion 5 15ACH6H, AMD Ryzen 5 5600H pana la 4.2GHz, 15.6\" Full HD, 16GB, SSD 512GB, NVIDIA GeForce RTX 3060 6GB, Free Dos, Phantom Blue",
-      "price": 4899.9,
-      "processor_type": "AMD Ryzen 5 5600H",
+      "id": "e489635b-d938-4fb3-b5b6-13fa2b7a8c58",
+      "title": "Laptop HP Envy 14-eb0009nq, Intel Core i5-1135G7 pana la 4.2GHz, 14\" WUXGA, 8GB, SSD 512GB, Intel Iris Xe Graphics, Windows Home, argintiu",
+      "price": 4659.9,
+      "processor_type": "Intel Core i5 1135G7",
       "memory_type": "SSD 512 GB",
-      "RAM": "16 GB DDR4",
-      "GPU": "NVIDIA GeForce RTX 3060",
-      "screen_resolution": "1920 x 1080",
-      "link": "https://mediagalaxy.ro/laptop-gaming-lenovo-legion-5-15ach6h-amd-ryzen-5-5600h-pana-la-4-2ghz-15-6-full-hd-16gb-ssd-512gb-nvidia-geforce-rtx-3060-6gb-free-dos-phantom-blue/cpd/LAP82JU0065RM/",
-      "normal_price": 6799.9
+      "RAM": "8 GB DDR4",
+      "GPU": "Intel Iris Xe Graphics",
+      "screen_resolution": "1920 x 1200",
+      "link": "https://mediagalaxy.ro/laptop-hp-envy-14-eb0009nq-intel-core-i5-1135g7-pana-la-4-2ghz-14-wuxga-8gb-ssd-512gb-intel-iris-xe-graphics-windows-home-argintiu/cpd/LAP3A9M7EA/"
     }
   },
   {
     "magasine": "MediaGalaxy",
     "specs": {
-      "id": "9c159b72-1b3e-4387-8283-9639e0b56e45",
-      "title": "Laptop Gaming ACER Nitro 5 AN515-57, Intel Core i7-11800H pana la 4.6GHz, 15.6\" Full HD, 16GB, SSD 1TB, NVIDIA GeForce RTX 3050 Ti 4GB, Free DOS, negru",
-      "price": 4499.9,
-      "processor_type": "Intel Core i7 11800H",
-      "memory_type": "SSD 1000 GB",
-      "RAM": "16 GB DDR4",
-      "GPU": "NVIDIA GeForce RTX 3050 Ti",
-      "screen_resolution": "1920 x 1080",
-      "link": "https://mediagalaxy.ro/laptop-gaming-acer-nitro-5-an515-57-intel-core-i7-11800h-pana-la-4-6ghz-15-6-full-hd-16gb-ssd-1tb-nvidia-geforce-rtx-3050-ti-4gb-free-dos-negru/cpd/LAPNHQESEX002/",
-      "normal_price": 6299.9
-    }
-  },
-  {
-    "magasine": "MediaGalaxy",
-    "specs": {
-      "id": "8b09fade-42fd-44cb-8eb1-f563deb32e62",
+      "id": "d754dcf3-b62b-465a-bab6-666a174ea8af",
       "title": "Laptop Gaming LENOVO Legion 5 15IMH6, Intel Core i5-10500H pana la 4.5GHz, 15.6\" Full HD, 16GB, SSD 512GB, NVIDIA GeForce RTX 3050 4GB, Free Dos, negru",
-      "price": 3399.9,
+      "price": 3899.9,
       "processor_type": "Intel Core i5 10500H",
       "memory_type": "SSD 512 GB",
       "RAM": "16 GB DDR4",
@@ -2774,7 +2072,7 @@
   {
     "magasine": "MediaGalaxy",
     "specs": {
-      "id": "abb2bf2e-1319-4e3b-8ae6-94c3410a5bba",
+      "id": "3d90e633-f6cf-4992-9ba2-3555259d0ef1",
       "title": "Laptop HP 15s-eq2000nq, AMD Ryzen 7 5700U pana la 4.3GHz, 15.6\" Full HD, 16GB, SSD 512GB, AMD Radeon Graphics, Windows 11 Home, argintiu",
       "price": 3099.9,
       "processor_type": "AMD Ryzen 7 5700U",
@@ -2788,9 +2086,9 @@
   {
     "magasine": "MediaGalaxy",
     "specs": {
-      "id": "18912cac-0c2b-48c2-98e7-070ea937bc0e",
+      "id": "234fc778-76d6-4981-b908-1c59715cf735",
       "title": "Laptop HUAWEI MateBook D14, Intel Core i5-1135G7 pana la 4.2GHz, 14\" Full HD, 8GB, SSD 512GB, Intel UHD Graphics, Windows 11 Home, argintiu",
-      "price": 2599.9,
+      "price": 2749.9,
       "processor_type": "Intel Core i5 1135G7",
       "memory_type": "SSD 512 GB",
       "RAM": "8 GB DDR4",
@@ -2803,7 +2101,7 @@
   {
     "magasine": "MediaGalaxy",
     "specs": {
-      "id": "d35b3c9f-9ffc-43f9-b435-873e84b2e391",
+      "id": "8a7446e9-1d0f-4a71-a2d5-eaa3eafd983d",
       "title": "Laptop HP 15s-eq1005nq, AMD Athlon Silver 3050U pana la 3.2GHz, 15.6\" Full HD, 4GB, SSD 256GB, AMD Radeon Graphics, Windows 10 Home S, gri",
       "price": 1099.9,
       "processor_type": "AMD Athlon Silver 3050U",
@@ -2817,9 +2115,9 @@
   {
     "magasine": "MediaGalaxy",
     "specs": {
-      "id": "555d101e-c908-4e26-8bf0-37e40b766e3b",
+      "id": "d068598c-353c-4aae-841c-4465caf5cd15",
       "title": "Laptop LENOVO IdeaPad 3 15IGL05, Intel Celeron N4020 pana la 2.8GHz, 15.6\" Full HD, 4GB, SSD 256GB, Intel UHD Graphics 600, Free Dos, Abyss Blue",
-      "price": 1009.9,
+      "price": 999.9,
       "processor_type": "Intel Celeron N4020",
       "memory_type": "SSD 256 GB",
       "RAM": "4 GB DDR4",
@@ -2832,7 +2130,7 @@
   {
     "magasine": "MediaGalaxy",
     "specs": {
-      "id": "7bffd16b-466f-41d9-b61a-d379c89fe2a7",
+      "id": "853293d4-24b9-42fa-87aa-7ce79946b277",
       "title": "Laptop APPLE MacBook Pro 14 mkgq3ze/a, Apple M1 Pro, 14.2\" Liquid Retina XDR, 16GB, SSD 1TB, Grafica integrata, macOS Monterey, Space Gray - Tastatura layout INT",
       "price": 11299.9,
       "processor_type": "Apple M1 Pro M1 Pro",
@@ -2847,7 +2145,7 @@
   {
     "magasine": "MediaGalaxy",
     "specs": {
-      "id": "0898b87f-8ab2-4ed2-a78b-81c4cbc32adb",
+      "id": "2ea4ef56-f409-47e3-8ad9-e69cc21578a7",
       "title": "Laptop Gaming ASUS TUF F15 FX507ZE-HN012, Intel Core i7-12700H pana la 4.7GHz, 15.6\" Full HD, 16GB, SSD 512GB, NVIDIA GeForce RTX 3050 Ti 4GB, Free Dos, Jaeger Gray",
       "price": 6099.9,
       "processor_type": "Intel Core i7 12700H",
@@ -2862,7 +2160,22 @@
   {
     "magasine": "MediaGalaxy",
     "specs": {
-      "id": "606fe3c6-0509-4024-ae93-1969d251bb13",
+      "id": "a5d42dc7-835e-4f06-bc40-795899d3ee25",
+      "title": "Laptop Gaming ACER Nitro 5 AN515-45-R3HB, AMD Ryzen 5 5600H pana la 4.2GHz, 15.6\" Full HD, 8GB, SSD 256GB, NVIDIA GeForce RTX 3060 6GB, Free DOS, negru",
+      "price": 5099.9,
+      "processor_type": "AMD Ryzen 5 5600H",
+      "memory_type": "SSD 256 GB",
+      "RAM": "8 GB LPDDR4",
+      "GPU": "NVIDIA GeForce RTX 3060",
+      "screen_resolution": "1920 x 1080",
+      "link": "https://mediagalaxy.ro/laptop-gaming-acer-nitro-5-an515-45-r3hb-amd-ryzen-5-5600h-pana-la-4-2ghz-15-6-full-hd-8gb-ssd-256gb-nvidia-geforce-rtx-3060-6gb-free-dos-negru/cpd/LAPNHQBCEX00F/",
+      "normal_price": 5999.9
+    }
+  },
+  {
+    "magasine": "MediaGalaxy",
+    "specs": {
+      "id": "45682701-6730-4554-9bc7-4e415896f312",
       "title": "Laptop Gaming ASUS TUF A17 FA706IC-HX008, AMD Ryzen 7 4800H pana la 4.2GHz, 17.3\" Full HD, 16GB, SSD 512GB, NVIDIA GeForce RTX 3050 4GB, Free DOS, negru",
       "price": 4599.9,
       "processor_type": "AMD Ryzen 7 4800H",
@@ -2877,22 +2190,7 @@
   {
     "magasine": "MediaGalaxy",
     "specs": {
-      "id": "02946ccd-7200-471c-986e-d7192193d54c",
-      "title": "Laptop Gaming ACER Nitro 5 AN515-45-R3HB, AMD Ryzen 5 5600H pana la 4.2GHz, 15.6\" Full HD, 8GB, SSD 256GB, NVIDIA GeForce RTX 3060 6GB, Free DOS, negru",
-      "price": 4499.9,
-      "processor_type": "AMD Ryzen 5 5600H",
-      "memory_type": "SSD 256 GB",
-      "RAM": "8 GB LPDDR4",
-      "GPU": "NVIDIA GeForce RTX 3060",
-      "screen_resolution": "1920 x 1080",
-      "link": "https://mediagalaxy.ro/laptop-gaming-acer-nitro-5-an515-45-r3hb-amd-ryzen-5-5600h-pana-la-4-2ghz-15-6-full-hd-8gb-ssd-256gb-nvidia-geforce-rtx-3060-6gb-free-dos-negru/cpd/LAPNHQBCEX00F/",
-      "normal_price": 5999.9
-    }
-  },
-  {
-    "magasine": "MediaGalaxy",
-    "specs": {
-      "id": "ab077818-4afd-48a1-8041-d07d08fecdd5",
+      "id": "a007fd4b-185d-4f6c-86cf-d9babef4c901",
       "title": "Laptop ASUS ZenBook 14 UM425QA-KI009T, AMD Ryzen 5 5600H pana la 4.2GHz, 14\" Full HD, 8GB, SSD 512GB, AMD Radeon Graphics, Windows 10 Home, gri inchis",
       "price": 4199.9,
       "processor_type": "AMD Ryzen 5 5600H",
@@ -2906,7 +2204,7 @@
   {
     "magasine": "MediaGalaxy",
     "specs": {
-      "id": "96a06e7b-8065-4a22-b27f-6ce9f658c9dc",
+      "id": "eb1ec0ae-044d-4c74-83dd-f9da3503f2de",
       "title": "Laptop DELL Inspiron 15 5515, AMD Ryzen 5 5500U pana la 4.0GHz, 15.6\" Full HD, 16GB, SSD 512GB, AMD Radeon Graphics, Windows 10 Home, argintiu",
       "price": 4199.9,
       "processor_type": "AMD Ryzen 5 5500U",
@@ -2920,9 +2218,9 @@
   {
     "magasine": "MediaGalaxy",
     "specs": {
-      "id": "7fd2e953-8ff4-4245-805c-b5191cf3f1ba",
+      "id": "19b25eb0-0859-457c-85b8-7bcf03e51bfe",
       "title": "Laptop LENOVO Yoga Slim 7 13ACN5, AMD Ryzen 7 5800U pana 4.4GHz, 13.3\" QHD, 16GB, SSD 1TB, AMD Radeon Graphics, Windows 11 Home, Iron Grey",
-      "price": 3599.9,
+      "price": 3399.9,
       "processor_type": "AMD Ryzen 7 5800U",
       "memory_type": "SSD 1000 GB",
       "RAM": "16 GB LPDDR4X",
@@ -2935,7 +2233,36 @@
   {
     "magasine": "MediaGalaxy",
     "specs": {
-      "id": "b7d446a5-136d-4c3e-874f-6a1fcc46b37a",
+      "id": "1b694b5f-f026-4b54-950c-8d974f4ff0fe",
+      "title": "Laptop ACER Aspire 5 A515-56-52NQ, Intel Core i5-1135G7 pana la 4.2GHz, 15.6\" Full HD, 8GB, SSD 256GB, Intel Iris Xe Graphics, Windows 11 Home, negru",
+      "price": 3299.9,
+      "processor_type": "Intel Core i5 1135G7",
+      "memory_type": "SSD 256 GB",
+      "RAM": "8 GB DDR4",
+      "GPU": "Intel Iris Xe Graphics",
+      "screen_resolution": "1920 x 1080",
+      "link": "https://mediagalaxy.ro/laptop-acer-aspire-5-a515-56-52nq-intel-core-i5-1135g7-pana-la-4-2ghz-15-6-full-hd-8gb-ssd-256gb-intel-iris-xe-graphics-windows-11-home-negru/cpd/LAPNXA18EX00K/",
+      "normal_price": 3799.9
+    }
+  },
+  {
+    "magasine": "MediaGalaxy",
+    "specs": {
+      "id": "ee19e473-fc96-4c4f-9d81-18c27243b2ef",
+      "title": "Laptop HP 15s-eq2052nq, AMD Ryzen 5 5500U pana la 4.0GHz, 15.6\" Full HD, 16GB, SSD 512GB, AMD Radeon Graphics, Windows 11 Home S, argintiu",
+      "price": 2999.9,
+      "processor_type": "AMD Ryzen 5 5500U",
+      "memory_type": "SSD 512 GB",
+      "RAM": "16 GB DDR4",
+      "GPU": "AMD Radeon Graphics",
+      "screen_resolution": "1920 x 1080",
+      "link": "https://mediagalaxy.ro/laptop-hp-15s-eq2052nq-amd-ryzen-5-5500u-pana-la-4-0ghz-15-6-full-hd-16gb-ssd-512gb-amd-radeon-graphics-windows-11-home-s-argintiu/cpd/LAP5D5Y7EA/"
+    }
+  },
+  {
+    "magasine": "MediaGalaxy",
+    "specs": {
+      "id": "5b7573c9-82c3-4fc8-9733-1742b7caae96",
       "title": "Laptop ASUS VivoBook 15 K513EA-BN2230, Intel Core i7-1165G7 pana la 4.7GHz, 15.6\" Full HD, 8GB, SSD 512GB, Intel Iris Xe, Free DOS, negru",
       "price": 2998.31,
       "processor_type": "Intel Core i7 1165G7",
@@ -2949,36 +2276,36 @@
   {
     "magasine": "MediaGalaxy",
     "specs": {
-      "id": "a8e2fe40-724f-438b-be15-df6d22eb281f",
-      "title": "Laptop ACER Aspire 5 A515-56-52NQ, Intel Core i5-1135G7 pana la 4.2GHz, 15.6\" Full HD, 8GB, SSD 256GB, Intel Iris Xe Graphics, Windows 11 Home, negru",
-      "price": 2599.9,
+      "id": "a4f6a366-9b34-416d-b95e-fa88efd95f2b",
+      "title": "Laptop HUAWEI MateBook D15, Intel Core i5-1135G7 pana la 4.2GHz, 15.6\" Full HD, 8GB, SSD 512GB, Intel Iris Xe Graphics, Windows 11 Home, argintiu",
+      "price": 2699.9,
       "processor_type": "Intel Core i5 1135G7",
-      "memory_type": "SSD 256 GB",
+      "memory_type": "SSD 512 GB",
       "RAM": "8 GB DDR4",
       "GPU": "Intel Iris Xe Graphics",
       "screen_resolution": "1920 x 1080",
-      "link": "https://mediagalaxy.ro/laptop-acer-aspire-5-a515-56-52nq-intel-core-i5-1135g7-pana-la-4-2ghz-15-6-full-hd-8gb-ssd-256gb-intel-iris-xe-graphics-windows-11-home-negru/cpd/LAPNXA18EX00K/",
-      "normal_price": 3799.9
+      "link": "https://mediagalaxy.ro/laptop-huawei-matebook-d15-intel-core-i5-1135g7-pana-la-4-2ghz-15-6-full-hd-8gb-ssd-512gb-intel-iris-xe-graphics-windows-11-home-argintiu/cpd/LAP53012QNY/",
+      "normal_price": 3749.0
     }
   },
   {
     "magasine": "MediaGalaxy",
     "specs": {
-      "id": "2e8e8c46-9975-4b8f-948c-fe457dd04cd2",
-      "title": "Laptop HP 15s-eq2052nq, AMD Ryzen 5 5500U pana la 4.0GHz, 15.6\" Full HD, 16GB, SSD 512GB, AMD Radeon Graphics, Windows 11 Home S, argintiu",
+      "id": "a9c4d007-197f-4fa3-b2ce-c5591d41e745",
+      "title": "Laptop HP 15-dw3041nq, Intel Core i3-1115G4 pana la 4.1GHz, 15.6\" Full HD, 8GB, SSD 256GB, Intel UHD Graphics, Windows 10 S, argintiu",
       "price": 2599.9,
-      "processor_type": "AMD Ryzen 5 5500U",
-      "memory_type": "SSD 512 GB",
-      "RAM": "16 GB DDR4",
-      "GPU": "AMD Radeon Graphics",
+      "processor_type": "Intel Core i3 1115G4",
+      "memory_type": "SSD 256 GB",
+      "RAM": "8 GB DDR4",
+      "GPU": "Intel UHD Graphics",
       "screen_resolution": "1920 x 1080",
-      "link": "https://mediagalaxy.ro/laptop-hp-15s-eq2052nq-amd-ryzen-5-5500u-pana-la-4-0ghz-15-6-full-hd-16gb-ssd-512gb-amd-radeon-graphics-windows-11-home-s-argintiu/cpd/LAP5D5Y7EA/"
+      "link": "https://mediagalaxy.ro/laptop-hp-15-dw3041nq-intel-core-i3-1115g4-pana-la-4-1ghz-15-6-full-hd-8gb-ssd-256gb-intel-uhd-graphics-windows-10-s-argintiu/cpd/LAP3A8S6EA/"
     }
   },
   {
     "magasine": "MediaGalaxy",
     "specs": {
-      "id": "e085f23f-0bf1-4042-858a-cbae7ac1eb0c",
+      "id": "9fea02dd-c5f8-4a5f-a157-ed6b9faaec76",
       "title": "Laptop HP 250 G8, Intel Core i3-1115G4 pana la 4.1GHz, 15.6\" Full HD, 8GB, SSD 256GB, Intel UHD Graphics, Windows 10 Pro, negru",
       "price": 2550.96,
       "processor_type": "Intel Core i3 1115G4",
@@ -2992,22 +2319,21 @@
   {
     "magasine": "MediaGalaxy",
     "specs": {
-      "id": "70de392c-53f8-4129-a401-eb8701eb6a56",
-      "title": "Laptop HUAWEI MateBook D15, Intel Core i5-1135G7 pana la 4.2GHz, 15.6\" Full HD, 8GB, SSD 512GB, Intel Iris Xe Graphics, Windows 11 Home, argintiu",
-      "price": 2448.9,
-      "processor_type": "Intel Core i5 1135G7",
-      "memory_type": "SSD 512 GB",
+      "id": "453421c3-d823-432c-a343-fffdc92039c3",
+      "title": "Laptop ASUS X515EA-BQ950W, Intel Core i3-1115G4 pana la 4.1GHz, 15.6\" Full HD, 8GB, SSD 256GB, Intel UHD Graphics, Windows 11 Home S, argintiu",
+      "price": 2499.9,
+      "processor_type": "Intel Core i3 1115G4",
+      "memory_type": "SSD 256 GB",
       "RAM": "8 GB DDR4",
-      "GPU": "Intel Iris Xe Graphics",
+      "GPU": "Intel UHD Graphics",
       "screen_resolution": "1920 x 1080",
-      "link": "https://mediagalaxy.ro/laptop-huawei-matebook-d15-intel-core-i5-1135g7-pana-la-4-2ghz-15-6-full-hd-8gb-ssd-512gb-intel-iris-xe-graphics-windows-11-home-argintiu/cpd/LAP53012QNY/",
-      "normal_price": 3749.0
+      "link": "https://mediagalaxy.ro/laptop-asus-x515ea-bq950w-intel-core-i3-1115g4-pana-la-4-1ghz-15-6-full-hd-8gb-ssd-256gb-intel-uhd-graphics-windows-11-home-s-argintiu/cpd/LAPX515EABQ950W/"
     }
   },
   {
     "magasine": "MediaGalaxy",
     "specs": {
-      "id": "22ea9726-3991-413a-82f3-d22097d59517",
+      "id": "efbdb55c-6b92-412e-b833-be80117ad73f",
       "title": "Laptop LENOVO IdeaPad 3 17ALC6, AMD Ryzen 5 5500U pana la 4.0GHz, 17.3\" Full HD, 8GB, SSD 512GB, AMD Radeon Graphics, Free DOS, albastru",
       "price": 2399.9,
       "processor_type": "AMD Ryzen 5 5500U",
@@ -3021,7 +2347,7 @@
   {
     "magasine": "MediaGalaxy",
     "specs": {
-      "id": "dc427f45-2bc7-459c-b305-55c403e1c544",
+      "id": "c00e238a-25d3-49ac-8582-448210554625",
       "title": "Laptop MSI Modern 15 A5M-246XRO, AMD Ryzen 5 5500U pana la 4GHz, 15.6\" Full HD, 8GB, SSD 512GB, AMD Radeon Graphics, Free DOS, Carbon Gray",
       "price": 2299.99,
       "processor_type": "AMD Ryzen 5 5500U",
@@ -3035,52 +2361,9 @@
   {
     "magasine": "MediaGalaxy",
     "specs": {
-      "id": "6faa839b-72c0-4ec1-882d-6805bb5e0254",
-      "title": "Laptop HP 15-dw3041nq, Intel Core i3-1115G4 pana la 4.1GHz, 15.6\" Full HD, 8GB, SSD 256GB, Intel UHD Graphics, Windows 10 S, argintiu",
-      "price": 1999.9,
-      "processor_type": "Intel Core i3 1115G4",
-      "memory_type": "SSD 256 GB",
-      "RAM": "8 GB DDR4",
-      "GPU": "Intel UHD Graphics",
-      "screen_resolution": "1920 x 1080",
-      "link": "https://mediagalaxy.ro/laptop-hp-15-dw3041nq-intel-core-i3-1115g4-pana-la-4-1ghz-15-6-full-hd-8gb-ssd-256gb-intel-uhd-graphics-windows-10-s-argintiu/cpd/LAP3A8S6EA/"
-    }
-  },
-  {
-    "magasine": "MediaGalaxy",
-    "specs": {
-      "id": "39d18901-0561-40ca-9932-af9c5558d346",
-      "title": "Laptop ACER Aspire 5 A514-54-32UJ, Intel Core i3-1115G4 pana la 4.1GHz, 14\" Full HD, 8GB, SSD 512GB, Intel UHD Graphics, Windows 10 Home, roz",
-      "price": 1899.9,
-      "processor_type": "Intel Core i3 1115G4",
-      "memory_type": "SSD 512 GB",
-      "RAM": "8 GB DDR4",
-      "GPU": "Intel UHD Graphics",
-      "screen_resolution": "1920 x 1080",
-      "link": "https://mediagalaxy.ro/laptop-acer-aspire-5-a514-54-32uj-intel-core-i3-1115g4-pana-la-4-1ghz-14-full-hd-8gb-ssd-512gb-intel-uhd-graphics-windows-10-home-roz/cpd/LAPNXA5JEX001/",
-      "normal_price": 2999.9
-    }
-  },
-  {
-    "magasine": "MediaGalaxy",
-    "specs": {
-      "id": "92b34321-a521-42a8-8a81-e3d52723ad53",
-      "title": "Laptop ASUS X515EA-BQ950W, Intel Core i3-1115G4 pana la 4.1GHz, 15.6\" Full HD, 8GB, SSD 256GB, Intel UHD Graphics, Windows 11 Home S, argintiu",
-      "price": 1899.9,
-      "processor_type": "Intel Core i3 1115G4",
-      "memory_type": "SSD 256 GB",
-      "RAM": "8 GB DDR4",
-      "GPU": "Intel UHD Graphics",
-      "screen_resolution": "1920 x 1080",
-      "link": "https://mediagalaxy.ro/laptop-asus-x515ea-bq950w-intel-core-i3-1115g4-pana-la-4-1ghz-15-6-full-hd-8gb-ssd-256gb-intel-uhd-graphics-windows-11-home-s-argintiu/cpd/LAPX515EABQ950W/"
-    }
-  },
-  {
-    "magasine": "MediaGalaxy",
-    "specs": {
-      "id": "c81b2273-8253-45a8-9b82-a88cd10b17cd",
+      "id": "d34dae04-736b-433c-b70d-0e83f27260e8",
       "title": "Laptop HP 15-dw3043nq, Intel Core i3-1115G4 pana la 4.1GHz, 15.6\" Full HD, 8GB, SSD 256GB, Intel UHD Graphics, Windows 10 Home, gri inchis",
-      "price": 1699.9,
+      "price": 2299.9,
       "processor_type": "Intel Core i3 1115G4",
       "memory_type": "SSD 256 GB",
       "RAM": "8 GB DDR4",
@@ -3092,37 +2375,9 @@
   {
     "magasine": "MediaGalaxy",
     "specs": {
-      "id": "0a97a10d-6d88-429a-b7d0-c31d80eaed85",
-      "title": "Laptop HP 15s-fq3007nq, Intel Celeron N4500 pana la 2.8GHz, 15.6\" HD, 4GB, SSD 256GB, Intel UHD Graphics, Windows 11 Home, Spruce Blue",
-      "price": 1599.9,
-      "processor_type": "Intel Celeron N4500",
-      "memory_type": "SSD 256 GB",
-      "RAM": "4 GB DDR4",
-      "GPU": "Intel UHD Graphics",
-      "screen_resolution": "1366 x 768",
-      "link": "https://mediagalaxy.ro/laptop-hp-15s-fq3007nq-intel-celeron-n4500-pana-la-2-8ghz-15-6-hd-4gb-ssd-256gb-intel-uhd-graphics-windows-11-home-spruce-blue/cpd/LAP5D4R1EA/"
-    }
-  },
-  {
-    "magasine": "MediaGalaxy",
-    "specs": {
-      "id": "f1bb96de-c68a-4eea-8632-a296a39bdfbf",
-      "title": "Laptop ASUS X415EA-EB522, Intel Core i3-1115G4 pana la 4.1GHz, 14\" Full HD, 8GB, SSD 256GB, Intel UHD Graphics, Free Dos, gri",
-      "price": 1599.9,
-      "processor_type": "Intel Core i3 1115G4",
-      "memory_type": "SSD 256 GB",
-      "RAM": "8 GB DDR4",
-      "GPU": "Intel UHD Graphics",
-      "screen_resolution": "1920 x 1080",
-      "link": "https://mediagalaxy.ro/laptop-asus-x415ea-eb522-intel-core-i3-1115g4-pana-la-4-1ghz-14-full-hd-8gb-ssd-256gb-intel-uhd-graphics-free-dos-gri/cpd/LAPX415EAEB522/"
-    }
-  },
-  {
-    "magasine": "MediaGalaxy",
-    "specs": {
-      "id": "34e708d4-c909-492b-8b22-08f626d2900b",
+      "id": "ad34bce7-325c-4e2c-8aa2-581d52fa7d39",
       "title": "Laptop ASUS X415EA-EB577, Intel Core i3-1115G4 pana la 4.1GHz, 14\" Full HD, 8GB, SSD 256GB, Intel UHD Graphics, Free Dos, argintiu",
-      "price": 1599.9,
+      "price": 2099.9,
       "processor_type": "Intel Core i3 1115G4",
       "memory_type": "SSD 256 GB",
       "RAM": "8 GB DDR4",
@@ -3134,7 +2389,35 @@
   {
     "magasine": "MediaGalaxy",
     "specs": {
-      "id": "76e37156-42e0-474d-a349-4ca8d90498fd",
+      "id": "7473484b-5856-4bcf-8294-b7de71d0f715",
+      "title": "Laptop HP 15s-fq3007nq, Intel Celeron N4500 pana la 2.8GHz, 15.6\" HD, 4GB, SSD 256GB, Intel UHD Graphics, Windows 11 Home, Spruce Blue",
+      "price": 1999.9,
+      "processor_type": "Intel Celeron N4500",
+      "memory_type": "SSD 256 GB",
+      "RAM": "4 GB DDR4",
+      "GPU": "Intel UHD Graphics",
+      "screen_resolution": "1366 x 768",
+      "link": "https://mediagalaxy.ro/laptop-hp-15s-fq3007nq-intel-celeron-n4500-pana-la-2-8ghz-15-6-hd-4gb-ssd-256gb-intel-uhd-graphics-windows-11-home-spruce-blue/cpd/LAP5D4R1EA/"
+    }
+  },
+  {
+    "magasine": "MediaGalaxy",
+    "specs": {
+      "id": "7f5c2436-6509-428c-af1b-90eae653f506",
+      "title": "Laptop ASUS X415EA-EB522, Intel Core i3-1115G4 pana la 4.1GHz, 14\" Full HD, 8GB, SSD 256GB, Intel UHD Graphics, Free Dos, gri",
+      "price": 1999.9,
+      "processor_type": "Intel Core i3 1115G4",
+      "memory_type": "SSD 256 GB",
+      "RAM": "8 GB DDR4",
+      "GPU": "Intel UHD Graphics",
+      "screen_resolution": "1920 x 1080",
+      "link": "https://mediagalaxy.ro/laptop-asus-x415ea-eb522-intel-core-i3-1115g4-pana-la-4-1ghz-14-full-hd-8gb-ssd-256gb-intel-uhd-graphics-free-dos-gri/cpd/LAPX415EAEB522/"
+    }
+  },
+  {
+    "magasine": "MediaGalaxy",
+    "specs": {
+      "id": "d20454be-dca3-470a-8196-1d57d2ef9166",
       "title": "Laptop ASUS E410MA-EK1284, Intel Celeron N4020 pana la 2.8GHz, 14\" Full HD, 4GB, SSD 256GB, Intel UHD Graphics 600, Free Dos, albastru",
       "price": 821.53,
       "processor_type": "Intel Celeron N4020",
@@ -3148,9 +2431,9 @@
   {
     "magasine": "MediaGalaxy",
     "specs": {
-      "id": "833feb31-3c0a-4492-96ea-75da4fffd22d",
+      "id": "4ed56564-9ff1-43fe-8ace-4f772e979ff4",
       "title": "Laptop APPLE MacBook Pro 16 mk1h3ze/a, Apple M1 Max, 16.2\" Liquid Retina XDR, 32GB, SSD 1TB, Grafica integrata, macOS Monterey, Silver - Tastatura layout INT",
-      "price": 19999.9,
+      "price": 18399.9,
       "processor_type": "Apple M1 Max M1 Max",
       "memory_type": "SSD 1000 GB",
       "RAM": "32 GB  ",
@@ -3162,37 +2445,7 @@
   {
     "magasine": "MediaGalaxy",
     "specs": {
-      "id": "cf82dc31-9073-4261-8f1a-82e527274de1",
-      "title": "Laptop APPLE MacBook Pro 16 mk1a3ze/a, Apple M1 Max, 16.2\" Liquid Retina XDR, 32GB, SSD 1TB, Grafica integrata, macOS Monterey, Space Gray - Tastatura layout INT",
-      "price": 18399.9,
-      "processor_type": "Apple M1 Max M1 Max",
-      "memory_type": "SSD 1000 GB",
-      "RAM": "32 GB  ",
-      "GPU": "32-core GPU",
-      "screen_resolution": "3456 x 2234",
-      "link": "https://mediagalaxy.ro/laptop-apple-macbook-pro-16-mk1a3ze-a-apple-m1-max-16-2-liquid-retina-xdr-32gb-ssd-1tb-grafica-integrata-macos-monterey-space-gray-tastatura-layout-int/cpd/LAPMK1A3ZEA/",
-      "normal_price": 18523.54
-    }
-  },
-  {
-    "magasine": "MediaGalaxy",
-    "specs": {
-      "id": "508d3f91-daa5-4bc7-a603-a7d54f1aa10f",
-      "title": "Laptop Gaming ASUS ROG Strix SCAR 17 G733ZX-KH012, Intel Core i9-12900H pana la 5.0GHz, 17.3\" Full HD, 32GB, SSD 1TB, NVIDIA GeForce RTX 3080 Ti 16GB, Free Dos, negru",
-      "price": 15699.9,
-      "processor_type": "Intel Core i9 12900H",
-      "memory_type": "SSD 1000 GB",
-      "RAM": "32 GB DDR5",
-      "GPU": "NVIDIA GeForce RTX 3080 Ti",
-      "screen_resolution": "1920 x 1080",
-      "link": "https://mediagalaxy.ro/laptop-gaming-asus-rog-strix-scar-17-g733zx-kh012-intel-core-i9-12900h-pana-la-5-0ghz-17-3-full-hd-32gb-ssd-1tb-nvidia-geforce-rtx-3080-ti-16gb-free-dos-negru/cpd/LAPG733ZXKH012/",
-      "normal_price": 16649.99
-    }
-  },
-  {
-    "magasine": "MediaGalaxy",
-    "specs": {
-      "id": "32b7879d-8160-489f-a790-1d0dedbf890d",
+      "id": "7f6a3797-c698-49ef-b51d-acd16945742a",
       "title": "Laptop ASUS ProArt Studiobook 16 H7600HM-L2033X, Intel Core i9-11900H pana la 4.9GHz, 16\" 4K, 64GB, SSD 4TB, NVIDIA GeForce RTX 3060 6GB, Windows 11 Pro, negru",
       "price": 14299.9,
       "processor_type": "Intel Core i9 11900H",
@@ -3206,22 +2459,7 @@
   {
     "magasine": "MediaGalaxy",
     "specs": {
-      "id": "edf750a8-72fb-4d1a-8f33-284dafaf0ff2",
-      "title": "Laptop APPLE MacBook Pro 16 mk193ze/a, Apple M1 Pro, 16.2\" Liquid Retina XDR, 16GB, SSD 1TB, Grafica integrata, macOS Monterey, Space Gray - Tastatura layout INT",
-      "price": 14299.9,
-      "processor_type": "Apple M1 Pro M1 Pro",
-      "memory_type": "SSD 1000 GB",
-      "RAM": "16 GB  ",
-      "GPU": "16-core GPU",
-      "screen_resolution": "3456 x 2234",
-      "link": "https://mediagalaxy.ro/laptop-apple-macbook-pro-16-mk193ze-a-apple-m1-pro-16-2-liquid-retina-xdr-16gb-ssd-1tb-grafica-integrata-macos-monterey-space-gray-tastatura-layout-int/cpd/LAPMK193ZEA/",
-      "normal_price": 14338.31
-    }
-  },
-  {
-    "magasine": "MediaGalaxy",
-    "specs": {
-      "id": "1ed75ee3-da03-4c24-bacb-4e62c3f3c81a",
+      "id": "4cc1c1a8-cbcd-4722-a062-972d09b69c10",
       "title": "Laptop ASUS ZenBook Pro Duo OLED UX582HS-H2010X, Intel Core i9-11900H pana la 4.9GHz, 15.6\" 4K UHD Touch, 32GB, SSD 1TB, NVIDIA GeForce RTX 3080 8GB, Windows 11 Pro, Celestial Blue",
       "price": 13999.9,
       "processor_type": "Intel Core i9 11900H",
@@ -3235,24 +2473,24 @@
   {
     "magasine": "MediaGalaxy",
     "specs": {
-      "id": "f0cd04cc-bd45-4753-a31a-ed3b41806170",
-      "title": "Laptop APPLE MacBook Pro 16 mk1f3ze/a, Apple M1 Pro, 16.2\" Liquid Retina XDR, 16GB, SSD 1TB, Grafica integrata, macOS Monterey, Silver - Tastatura layout INT",
-      "price": 12999.85,
+      "id": "8ad5ad56-6a58-45f5-911c-922618b30660",
+      "title": "Laptop APPLE MacBook Pro 16 mk193ze/a, Apple M1 Pro, 16.2\" Liquid Retina XDR, 16GB, SSD 1TB, Grafica integrata, macOS Monterey, Space Gray - Tastatura layout INT",
+      "price": 13998.9,
       "processor_type": "Apple M1 Pro M1 Pro",
       "memory_type": "SSD 1000 GB",
       "RAM": "16 GB  ",
       "GPU": "16-core GPU",
       "screen_resolution": "3456 x 2234",
-      "link": "https://mediagalaxy.ro/laptop-apple-macbook-pro-16-mk1f3ze-a-apple-m1-pro-16-2-liquid-retina-xdr-16gb-ssd-1tb-grafica-integrata-macos-monterey-silver-tastatura-layout-int/cpd/LAPMK1F3ZEA/",
+      "link": "https://mediagalaxy.ro/laptop-apple-macbook-pro-16-mk193ze-a-apple-m1-pro-16-2-liquid-retina-xdr-16gb-ssd-1tb-grafica-integrata-macos-monterey-space-gray-tastatura-layout-int/cpd/LAPMK193ZEA/",
       "normal_price": 14338.31
     }
   },
   {
     "magasine": "MediaGalaxy",
     "specs": {
-      "id": "fed4ec4f-a48b-48f5-b55a-6f65ce160438",
+      "id": "8f5c41a5-f1c3-4988-9142-bad14a7c2b20",
       "title": "Laptop APPLE MacBook Pro 16 mk1e3ze/a, Apple M1 Pro, 16.2\" Liquid Retina XDR, 16GB, SSD 512GB, Grafica integrata, macOS Monterey, Silver - Tastatura layout INT",
-      "price": 12799.9,
+      "price": 12499.9,
       "processor_type": "Apple M1 Pro M1 Pro",
       "memory_type": "SSD 512 GB",
       "RAM": "16 GB  ",
@@ -3265,7 +2503,7 @@
   {
     "magasine": "MediaGalaxy",
     "specs": {
-      "id": "2fd4e9f9-d416-4849-898f-754be174d6c5",
+      "id": "04753855-2630-48e1-b5c3-f38f40f0b4c7",
       "title": "Laptop APPLE MacBook Pro 14 mkgt3ze/a, Apple M1 Pro, 14.2\" Liquid Retina XDR, 16GB, SSD 1TB, Grafica integrata, macOS Monterey, Silver - Tastatura layout INT",
       "price": 11999.9,
       "processor_type": "Apple M1 Pro M1 Pro",
@@ -3280,37 +2518,7 @@
   {
     "magasine": "MediaGalaxy",
     "specs": {
-      "id": "eecccc22-def6-476f-ad56-bb947cb73ce4",
-      "title": "Laptop APPLE MacBook Pro 14 mkgr3ze/a, Apple M1 Pro, 14.2\" Liquid Retina XDR, 16GB, SSD 512GB, Grafica integrata, macOS Monterey, Silver - Tastatura layout INT",
-      "price": 9999.9,
-      "processor_type": "Apple M1 Pro M1 Pro",
-      "memory_type": "SSD 512 GB",
-      "RAM": "16 GB  ",
-      "GPU": "14-core GPU",
-      "screen_resolution": "3024 x 1964",
-      "link": "https://mediagalaxy.ro/laptop-apple-macbook-pro-14-mkgr3ze-a-apple-m1-pro-14-2-liquid-retina-xdr-16gb-ssd-512gb-grafica-integrata-macos-monterey-silver-tastatura-layout-int/cpd/LAPMKGR3ZEA/",
-      "normal_price": 10821.86
-    }
-  },
-  {
-    "magasine": "MediaGalaxy",
-    "specs": {
-      "id": "8df4924b-ce67-499b-a9f0-d854d4c80ad5",
-      "title": "Laptop APPLE MacBook Pro 14 mkgp3ze/a, Apple M1 Pro, 14.2\" Liquid Retina XDR, 16GB, SSD 512GB, Grafica integrata, macOS Monterey, Space Gray - Tastatura layout INT",
-      "price": 9999.85,
-      "processor_type": "Apple M1 Pro M1 Pro",
-      "memory_type": "SSD 512 GB",
-      "RAM": "16 GB  ",
-      "GPU": "14-core GPU",
-      "screen_resolution": "3024 x 1964",
-      "link": "https://mediagalaxy.ro/laptop-apple-macbook-pro-14-mkgp3ze-a-apple-m1-pro-14-2-liquid-retina-xdr-16gb-ssd-512gb-grafica-integrata-macos-monterey-space-gray-tastatura-layout-int/cpd/LAPMKGP3ZEA/",
-      "normal_price": 10821.86
-    }
-  },
-  {
-    "magasine": "MediaGalaxy",
-    "specs": {
-      "id": "e9169a64-46a6-4bfa-ba6b-c4604e91e39f",
+      "id": "2b3fb6af-770a-40b1-aa8f-2b6a0f885697",
       "title": "Laptop Gaming HP Omen 15-ek1000nq, Intel Core i7-10870H pana la 5.0GHz, 15.6\" Full HD, 32GB, SSD 1TB, NVIDIA GeForce RTX 3070 8GB, Free DOS, negru",
       "price": 9299.9,
       "processor_type": "Intel Core i7 10870H",
@@ -3324,7 +2532,7 @@
   {
     "magasine": "MediaGalaxy",
     "specs": {
-      "id": "e397816d-ee48-4764-8424-aaa1d5d21f0c",
+      "id": "2157a21a-1082-454a-b0ca-3ffb9cddef59",
       "title": "Laptop Gaming HP Omen 15-en1000nq, AMD Ryzen 9 5900HX pana la 4.6GHz, 15.6\" Full HD, 16GB, SSD 1TB, NVIDIA GeForce RTX 3070 8GB, Free DOS, argintiu",
       "price": 8799.9,
       "processor_type": "AMD Ryzen 9 5900HX",
@@ -3338,21 +2546,7 @@
   {
     "magasine": "MediaGalaxy",
     "specs": {
-      "id": "85777141-1f5b-42c3-adb8-dde80bd0d0c4",
-      "title": "Laptop Gaming HP Omen 15-en1003nq, AMD Ryzen 9 5900HX pana la 4.6GHz, 15.6\" Full HD, 16GB, SSD 512GB, NVIDIA GeForce RTX 3070 8GB, Free DOS, argintiu",
-      "price": 6999.9,
-      "processor_type": "AMD Ryzen 9 5900HX",
-      "memory_type": "SSD 512 GB",
-      "RAM": "16 GB DDR4",
-      "GPU": "NVIDIA GeForce RTX 3070 Max-Q",
-      "screen_resolution": "1920 x 1080",
-      "link": "https://mediagalaxy.ro/laptop-gaming-hp-omen-15-en1003nq-amd-ryzen-9-5900hx-pana-la-4-6ghz-15-6-full-hd-16gb-ssd-512gb-nvidia-geforce-rtx-3070-8gb-free-dos-argintiu/cpd/LAP3A9C3EA/"
-    }
-  },
-  {
-    "magasine": "MediaGalaxy",
-    "specs": {
-      "id": "31b82ae6-be6f-4242-875b-15ce12eb9c3b",
+      "id": "433bef77-c157-472f-a99d-0c3a9e1598b8",
       "title": "Laptop 2 in 1 ASUS Zenbook Flip 15 OLED UX564EI-H2052W, Intel Core i7-1165G7 pana la 4.7GHz, 15.6\" 4K Touch, 16GB, SSD 1TB, Intel Iris Xe Graphics, Windows 11 Home, gri",
       "price": 6829.9,
       "processor_type": "Intel Core i7 1165G7",
@@ -3366,7 +2560,7 @@
   {
     "magasine": "MediaGalaxy",
     "specs": {
-      "id": "b1f07786-1c64-434b-9ad3-6ded5b3630db",
+      "id": "3fffcb09-4ab8-4b22-99b1-5aaeb64f1af3",
       "title": "Laptop LG Gram 17Z90P, Intel Core i5-1135G7 pana la 4.2GHz, 17\" WQXGA, 16GB, SSD 512GB, Intel Iris Xe Graphics, Windows 10 Home, negru",
       "price": 6714.92,
       "processor_type": "Intel Core i5 1135G7",
@@ -3380,7 +2574,7 @@
   {
     "magasine": "MediaGalaxy",
     "specs": {
-      "id": "9956249a-f907-46ed-a32f-27d31d6df09e",
+      "id": "c83aa9cd-6839-43e2-96b4-751f9b7bf0bf",
       "title": "Laptop ASUS Vivobook Pro 14X OLED N7400PC-KM007R, Intel Core i7-11370H pana la 4.8GHz, 14\" 2.8K, 16GB, SSD 1TB, NVIDIA GeForce RTX 3050 4GB, Windows 10 Pro, gri",
       "price": 6599.9,
       "processor_type": "Intel Core i7 11370H",
@@ -3394,7 +2588,7 @@
   {
     "magasine": "MediaGalaxy",
     "specs": {
-      "id": "d4b66645-dba8-46a5-bdcb-2e8beea59ccd",
+      "id": "e349ec6c-0585-4bfc-8fe4-e619de7438f9",
       "title": "Laptop 2 in 1 HP Spectre x360 14-ea0022nn, Intel Core i7-1165G7 pana la 4.7GHz, 13.5\" WUXGA+ Touch, 8GB, SSD 512GB, Intel Iris Xe Graphics, Windows 10 Home, argintiu",
       "price": 6544.9,
       "processor_type": "Intel Core i7 1165G7",
@@ -3408,7 +2602,7 @@
   {
     "magasine": "MediaGalaxy",
     "specs": {
-      "id": "0de08e10-fcd7-494f-afc4-1c0d3ccdfcb9",
+      "id": "6c171df1-c38d-40cb-96e9-7d2afdc7c841",
       "title": "Laptop ASUS ZenBook 14 OLED UX5400EG-KN178W, Intel Core i7-1165G7 pana la 4.7GHz, 14\" 2.8K Touch, 16GB, SSD 1TB, NVIDIA GeForce MX450 2GB, Windows 11 Home, Pine Grey",
       "price": 6399.9,
       "processor_type": "Intel Core i7 1165G7",
@@ -3422,7 +2616,7 @@
   {
     "magasine": "MediaGalaxy",
     "specs": {
-      "id": "b5bda852-e3b2-4f8f-97f5-6c0247a3747a",
+      "id": "d7394e6d-ffb7-474f-ac54-d982e26b6ab4",
       "title": "Laptop ASUS ZenBook Duo 14 UX482EA-HY222R, Intel Core i7-1165G7 pana la 4.7GHz, 14\" Full HD Touch, 16GB, SSD 1TB, Intel Iris Xe Graphics, Windows 10 Pro, Celestial Blue",
       "price": 6322.78,
       "processor_type": "Intel Core i7 1165G7",
@@ -3436,7 +2630,7 @@
   {
     "magasine": "MediaGalaxy",
     "specs": {
-      "id": "0f8ede66-8f63-4bf0-954f-03bdc9daa727",
+      "id": "a0a4647e-ce32-49f1-b538-f1ed621d8d4c",
       "title": "Laptop LG Gram 14Z90P, Intel Core i5-1135G7 pana la 4.2GHz, 14\" WUXGA, 8GB, SSD 256GB, Intel Iris Xe Graphics, Windows 10 Home, alb",
       "price": 6099.9,
       "processor_type": "Intel Core i5 1135G7",
@@ -3451,7 +2645,7 @@
   {
     "magasine": "MediaGalaxy",
     "specs": {
-      "id": "0c926cb8-3881-43cd-b098-6c558ed52646",
+      "id": "6217ce13-3e88-4912-83b6-c4a48adf4f7a",
       "title": "Laptop 2 in 1 ASUS Zenbook 14 Flip OLED UP5401EA-KN094X, Intel Core i7-1165G7 pana la 4.7Ghz, 14\" 2.8K Touch, 16GB, SSD 1TB, Intel Iris Xe, Windows 11 Pro, gri",
       "price": 6098.9,
       "processor_type": "Intel Core i7 1165G7",
@@ -3465,7 +2659,7 @@
   {
     "magasine": "MediaGalaxy",
     "specs": {
-      "id": "b4ef602a-cdfc-4e64-ba92-b1c165acda6e",
+      "id": "f71be189-0f41-49ab-a46e-84c6ee4e74bd",
       "title": "Laptop ASUS ZenBook 14 OLED UP5401EA-KN701R, Intel Core i7-1165G7 pana la 4.7GHz, 14\" 2.8K Touch, 16GB, SSD 1TB, Intel Iris Xe Graphics, Windows 10 Pro, Pine Grey",
       "price": 5999.9,
       "processor_type": "Intel Core i7 1165G7",
@@ -3479,7 +2673,7 @@
   {
     "magasine": "MediaGalaxy",
     "specs": {
-      "id": "439ef084-44ef-40b4-9dda-54e767722583",
+      "id": "d6c1f8ca-94c7-45c9-ac40-2199b21778bb",
       "title": "Laptop ASUS ZenBook Duo 14 UX482EA-HY221R, Intel Core i7-1165G7 pana la 4.7GHz, 14\" Full HD Touch, 32GB, SSD 1TB, Intel Iris Xe Graphics, Windows 10 Pro, Celestial Blue",
       "price": 5919.12,
       "processor_type": "Intel Core i7 1165G7",
@@ -3493,9 +2687,9 @@
   {
     "magasine": "MediaGalaxy",
     "specs": {
-      "id": "8fa1bdcb-35e0-4cb8-95ce-279bc5116007",
+      "id": "14b84c2e-218f-46e3-a3e0-a127ff47201a",
       "title": "Laptop ASUS Zenbook Pro 15 OLED UM5500QE-KY204X, AMD Ryzen 7 5800H pana la 4.4GHz, 15.6\" Full HD Touch, 16GB, SSD 1TB, NVIDIA GeForce RTX 3050 Ti 4GB, Windows 11 Pro, Pine Grey",
-      "price": 5820.4,
+      "price": 5820.37,
       "processor_type": "AMD Ryzen 7 5800H",
       "memory_type": "SSD 1000 GB",
       "RAM": "16 GB LPDDR4X",
@@ -3507,7 +2701,7 @@
   {
     "magasine": "MediaGalaxy",
     "specs": {
-      "id": "108382f5-ffc6-4e1f-b486-d3e3130ca66c",
+      "id": "428bfc16-87d6-4b51-8d86-7a9ef697d117",
       "title": "Laptop Gaming ACER Nitro 5 AN515-45-R4QT, AMD Ryzen 5 5600H pana la 4.2GHz, 15.6\" Full HD, 16GB, SSD 512GB, NVIDIA GeForce RTX 3070 8GB, Free DOS, negru",
       "price": 5699.9,
       "processor_type": "AMD Ryzen 5 5600H",
@@ -3522,7 +2716,7 @@
   {
     "magasine": "MediaGalaxy",
     "specs": {
-      "id": "d6566b53-117c-49a1-a78a-4c86fd7b440e",
+      "id": "0f1a6008-342a-483c-8484-4651f50410f8",
       "title": "Laptop Gaming ASUS ROG Zephyrus G14 GA401QC-HZ003, AMD Ryzen 7 5800HS pana la 4.3GHz, 14\" Full HD, 16GB, SSD 512GB, NVIDIA GeForce RTX 3050 4GB, Free Dos, gri inchis",
       "price": 5699.9,
       "processor_type": "AMD Ryzen 7 5800HS",
@@ -3537,7 +2731,7 @@
   {
     "magasine": "MediaGalaxy",
     "specs": {
-      "id": "4683ecc7-087a-45ed-bd77-22d406e11024",
+      "id": "f1592633-361f-45ae-8529-cd84fb70d68b",
       "title": "Laptop 2 in 1 ASUS Zenbook 14 Flip OLED UP5401EA-KN107X, Intel Core i7-1165G7 pana la 4.7Ghz, 14\" 2.8K Touch, 16GB, SSD 512GB, Intel Iris Xe, Windows 11 Pro, gri",
       "price": 5499.9,
       "processor_type": "Intel Core i7 1165G7",
@@ -3551,7 +2745,7 @@
   {
     "magasine": "MediaGalaxy",
     "specs": {
-      "id": "139d13d5-3923-44d0-aca8-00bff1b21548",
+      "id": "e5668374-042f-4544-8085-4fdf4676c75d",
       "title": "Laptop Gaming MSI Alpha 17 B5EEK-026XRO, AMD Ryzen 5 5600H pana la 4.2GHz, 17.3\" Full HD, 16GB, SSD 1TB, AMD Radeon RX 6600M 8GB, Free DOS, negru",
       "price": 5499.9,
       "processor_type": "AMD Ryzen 5 5600H",
@@ -3565,7 +2759,7 @@
   {
     "magasine": "MediaGalaxy",
     "specs": {
-      "id": "a55ebb9f-9fd9-4681-8b11-ef1c352f76ed",
+      "id": "44e73579-e295-4168-956b-dedc8d50e1bd",
       "title": "Laptop LENOVO Yoga Slim 7 Pro 14ACH5, 14\" 2.8K, AMD Ryzen 7 5800H pana la 4.4GHz, 16GB, SSD 1TB, AMD Radeon Graphics, Windows 11 Pro, argintiu",
       "price": 5498.9,
       "processor_type": "AMD Ryzen 7 5800H",
@@ -3580,7 +2774,7 @@
   {
     "magasine": "MediaGalaxy",
     "specs": {
-      "id": "b630a2c0-af5d-4a4b-9ebb-1f6388dd2449",
+      "id": "f11b8279-a99a-4f92-b15e-93050e30c418",
       "title": "Laptop Gaming MSI Katana GF66 11UE-644XRO, Intel Core i5-11400H pana la 4.5GHz, 15.6\" Full HD, 16GB, SSD 1TB, NVIDIA GeForce RTX 3060 6GB, Free Dos, negru",
       "price": 5399.99,
       "processor_type": "Intel Core i5 11400H",
@@ -3589,6 +2783,106 @@
       "GPU": "GeForce RTX 3060",
       "screen_resolution": "1920 x 1080",
       "link": "https://mediagalaxy.ro/laptop-gaming-msi-katana-gf66-11ue-644xro-intel-core-i5-11400h-pana-la-4-5ghz-15-6-full-hd-16gb-ssd-1tb-nvidia-geforce-rtx-3060-6gb-free-dos-negru/cpd/LAP158112644/"
+    }
+  },
+  {
+    "magasine": "MediaGalaxy",
+    "specs": {
+      "id": "f1528462-ad5c-46bd-b9fb-3b9cb0d85fa3",
+      "title": "Laptop ASUS Vivobook Pro 14X OLED M7400QE-KM008W, 14\" 2.8K, AMD Ryzen 7 5800H pana la 4.4GHz, 16GB, SSD 1TB, NVIDIA GeForce RTX 3050Ti 4GB, Windows 11 Home, negru",
+      "price": 5199.9,
+      "processor_type": "AMD Ryzen 7 5800H",
+      "memory_type": "SSD 1000 GB",
+      "RAM": "16 GB DDR4",
+      "GPU": "NVIDIA GeForce RTX 3050Ti",
+      "screen_resolution": "2880 x 1800",
+      "link": "https://mediagalaxy.ro/laptop-asus-vivobook-pro-14x-oled-m7400qe-km008w-14-2-8k-amd-ryzen-7-5800h-pana-la-4-4ghz-16gb-ssd-1tb-nvidia-geforce-rtx-3050ti-4gb-windows-11-home-negru/cpd/LAPM7400QKM008W/"
+    }
+  },
+  {
+    "magasine": "MediaGalaxy",
+    "specs": {
+      "id": "580f9ee7-7951-4259-aafb-1ae03268a6fc",
+      "title": "Laptop Gaming ASUS TUF F15 FX506HE-HN018, Intel Core i7-11800H pana la 4.6GHz, 15.6\" Full HD, 8GB, SSD 512GB, NVIDIA GeForce RTX 3050 Ti 4GB, Free DOS, negru",
+      "price": 5099.9,
+      "processor_type": "Intel Core i7 11800H",
+      "memory_type": "SSD 512 GB",
+      "RAM": "8 GB DDR4",
+      "GPU": "NVIDIA GeForce RTX 3050 Ti Laptop GPU",
+      "screen_resolution": "1920 x 1080",
+      "link": "https://mediagalaxy.ro/laptop-gaming-asus-tuf-f15-fx506he-hn018-intel-core-i7-11800h-pana-la-4-6ghz-15-6-full-hd-8gb-ssd-512gb-nvidia-geforce-rtx-3050-ti-4gb-free-dos-negru/cpd/LAPFX506HEHN018/"
+    }
+  },
+  {
+    "magasine": "MediaGalaxy",
+    "specs": {
+      "id": "9db1e1d7-4b6f-46c3-b202-c099599abd55",
+      "title": "Laptop Gaming ASUS TUF A15 FA507RE-HN036, AMD Ryzen 7 6800H pana la 4.7GHz, 15.6\" Full HD, 16GB, SSD 1TB, NVIDIA GeForce RTX 3050 Ti 4GB, Free DOS, Jaeger Gray",
+      "price": 4799.9,
+      "processor_type": "AMD Ryzen 7 6800H",
+      "memory_type": "SSD 1000 GB",
+      "RAM": "16 GB DDR5",
+      "GPU": "NVIDIA GeForce RTX 3050 Ti Laptop",
+      "screen_resolution": "1920 x 1080",
+      "link": "https://mediagalaxy.ro/laptop-gaming-asus-tuf-a15-fa507re-hn036-amd-ryzen-7-6800h-pana-la-4-7ghz-15-6-full-hd-16gb-ssd-1tb-nvidia-geforce-rtx-3050-ti-4gb-free-dos-jaeger-gray/cpd/LAPFA507REHN036/"
+    }
+  },
+  {
+    "magasine": "MediaGalaxy",
+    "specs": {
+      "id": "0592ed5b-4e05-4217-b461-740ce7bdd9d4",
+      "title": "Laptop HUAWEI MateBook 14s, Intel Core i5-11300H pana la 4.4GHz, 14.2\" 2.5K Touch, 16GB, SSD 512GB, Windows 10 home, Intel Iris Xe, gri",
+      "price": 4798.9,
+      "processor_type": "Intel Core i5 11300H",
+      "memory_type": "SSD 512 GB",
+      "RAM": "16 GB DDR4",
+      "GPU": "Intel\u00ae Iris\u00ae Xe Graphics",
+      "screen_resolution": "2520 x 1680",
+      "link": "https://mediagalaxy.ro/laptop-huawei-matebook-14s-intel-core-i5-11300h-pana-la-4-4ghz-14-2-2-5k-touch-16gb-ssd-512gb-windows-10-home-intel-iris-xe-gri/cpd/LAP53012LVG/",
+      "normal_price": 6499.0
+    }
+  },
+  {
+    "magasine": "MediaGalaxy",
+    "specs": {
+      "id": "58147a6c-012b-44ed-808a-376937fc7559",
+      "title": "Laptop Gaming DELL G15 5511, Intel Core i7-11800H pana la 4.6GHz, 15.6\" Full HD, 16GB, SSD 512GB, NVIDIA GeForce RTX 3050 4GB, Ubuntu, gri inchis",
+      "price": 4699.9,
+      "processor_type": "Intel Core i7 11800H",
+      "memory_type": "SSD 512 GB",
+      "RAM": "16 GB DDR4",
+      "GPU": "NVIDIA GeForce RTX 3050",
+      "screen_resolution": "1920 x 1080",
+      "link": "https://mediagalaxy.ro/laptop-gaming-dell-g15-5511-intel-core-i7-11800h-pana-la-4-6ghz-15-6-full-hd-16gb-ssd-512gb-nvidia-geforce-rtx-3050-4gb-ubuntu-gri-inchis/cpd/LAP55115992/"
+    }
+  },
+  {
+    "magasine": "MediaGalaxy",
+    "specs": {
+      "id": "65e4ffc9-92c5-407d-a739-de167bd8681a",
+      "title": "Laptop Gaming ASUS ROG Strix G15 G513IC-HN002, AMD Ryzen 7 4800H pana la 4.2GHz, 15.6\" Full HD, 8GB, SSD 512GB, NVIDIA GeForce RTX 3050 4GB, Free DOS, Eclipse Gray",
+      "price": 4499.9,
+      "processor_type": "AMD Ryzen 7 4800H",
+      "memory_type": "SSD 512 GB",
+      "RAM": "8 GB DDR4",
+      "GPU": "NVIDIA GeForce RTX 3050 Laptop GPU",
+      "screen_resolution": "1920 x 1080",
+      "link": "https://mediagalaxy.ro/laptop-gaming-asus-rog-strix-g15-g513ic-hn002-amd-ryzen-7-4800h-pana-la-4-2ghz-15-6-full-hd-8gb-ssd-512gb-nvidia-geforce-rtx-3050-4gb-free-dos-eclipse-gray/cpd/LAPG513ICHN002/"
+    }
+  },
+  {
+    "magasine": "MediaGalaxy",
+    "specs": {
+      "id": "69d548bf-7713-4d02-9ba4-d7f7611c4eb0",
+      "title": "Laptop Gaming LENOVO Legion 5 15IMH6, Intel Core i5-10500H pana la 4.5GHz, 15.6\" Full HD, 16GB, SSD 512GB, NVIDIA GeForce RTX 3050 Ti 4GB, Windows 11 Home, negru",
+      "price": 4499.9,
+      "processor_type": "Intel Core i5 10500H",
+      "memory_type": "SSD 512 GB",
+      "RAM": "16 GB DDR4",
+      "GPU": "NVIDIA GeForce RTX 3050 Ti",
+      "screen_resolution": "1920 x 1080",
+      "link": "https://mediagalaxy.ro/laptop-gaming-lenovo-legion-5-15imh6-intel-core-i5-10500h-pana-la-4-5ghz-15-6-full-hd-16gb-ssd-512gb-nvidia-geforce-rtx-3050-ti-4gb-windows-11-home-negru/cpd/LAP82NL001VRM/",
+      "normal_price": 6399.9
     }
   }
 ]

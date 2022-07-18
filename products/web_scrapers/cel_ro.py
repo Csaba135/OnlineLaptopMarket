@@ -1,34 +1,30 @@
 import time
-import json
 import os
 import requests
 import uuid
 from django.conf import settings
 from selenium import webdriver
 from PIL import Image
-from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.chrome.service import Service
-from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.common.by import By
-from selenium.webdriver.common.action_chains import ActionChains
 from webdriver_manager.chrome import ChromeDriverManager
-from selenium.webdriver.support import expected_conditions as EC
-from .altex import Altex
+from .altex import altex
 from .price_to_float import get_price_from_string, get_normal_price_from_string
 
-def Cel_ro():
-    data=Altex()
+
+def cel_ro():
+    data = altex()
     driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
     driver.get('https://www.cel.ro/laptop-laptopuri/')
     laptops = driver.find_elements(By.XPATH, '/html/body/div[1]/div[2]/div[2]/div[2]/div[3]/div[1]/div[2] /div')
     print('Cel.ro')
     for index, laptop in enumerate(laptops):
          try:
-            Pass=False
-            if index==4 or index==9:
-                Pass=True
+            Pass = False
+            if index == 4 or index == 9:
+                Pass = True
             else:
-                item = driver.find_element(By.XPATH,'/html/body/div[1]/div[2]/div[2]/div[2]/div[3]/div[1]/div[2]/div[' + str(index + 1) + ']/div[1]/div[1]')
+                item = driver.find_element(By.XPATH, '/html/body/div[1]/div[2]/div[2]/div[2]/div[3]/div[1]/div[2]/div[' + str(index + 1) + ']/div[1]/div[1]')
                 link = driver.find_element(By.XPATH, '/html/body/div[1]/div[2]/div[2]/div[2]/div[3]/div[1]/div[2]/div['+str(index + 1)+']/div[1]/div[1]/a').get_attribute("href")
             if not Pass:
                 item.click()
@@ -92,7 +88,6 @@ def Cel_ro():
                 driver.back()
                 time.sleep(1)
                 data.append(laptop_data)
-                print(index)
          except:
             pass
     driver.close()

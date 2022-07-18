@@ -1,6 +1,4 @@
-from django.shortcuts import render
-from django.http import HttpResponse
-from django.shortcuts import render, redirect, reverse, HttpResponse, get_object_or_404
+from django.shortcuts import render, redirect, reverse, get_object_or_404
 from django.contrib.auth import authenticate, login, logout
 from django.contrib.auth.decorators import login_required
 from users.forms import RegisterForm, CustomerForm, RegisterFirstLastName

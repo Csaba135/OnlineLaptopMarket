@@ -1,6 +1,7 @@
 from django import forms
 from products.models import NotificationAboutProduct, WishList, Product, Store
 
+
 class NotificationForm(forms.ModelForm):
     class Meta:
         model = NotificationAboutProduct
@@ -13,18 +14,17 @@ class NotificationForm(forms.ModelForm):
 
     def save(self, commit=True):
         notify = super().save(commit=False)
-        notify.product=self._product
+        notify.product = self._product
 
         if commit is True:
             notify.save()
 
         return notify
 
-
 class WishListForm(forms.ModelForm):
     class Meta:
         model = WishList
-        exclude = ['product','user']
+        exclude = ['product', 'user']
 
     def __init__(self, *args, **kwargs):
         self._product = kwargs.pop('product')
@@ -42,10 +42,15 @@ class WishListForm(forms.ModelForm):
 
         return wishlist
 
+
 class FilterForm(forms.Form):
     order_by_choices = (
         ('price_asc', 'Price ascending'),
         ('price_desc', 'Price descending'),
+        ('title', 'Title'),
+        ('title_reverse', 'Title Reverse'),
+        ('store', 'Store'),
+        ('screen', 'Screen'),
     )
     stores = forms.MultipleChoiceField(widget=forms.CheckboxSelectMultiple, required=False, choices=(
         (store.id, store.name)
@@ -55,6 +60,7 @@ class FilterForm(forms.Form):
     price_min = forms.IntegerField(min_value=0, required=False)
     price_max = forms.IntegerField(min_value=0, required=False)
     order_by = forms.ChoiceField(widget=forms.Select, choices=order_by_choices, required=False)
+
     def get_results(self):
         title = self.cleaned_data.get('title')
         price_min = self.cleaned_data.get('price_min')
@@ -64,8 +70,16 @@ class FilterForm(forms.Form):
 
         if order_by == 'price_asc':
             products = Product.objects.order_by('price')
-        else:
+        elif order_by == 'price_desc':
             products = Product.objects.order_by('-price')
+        elif order_by == 'title':
+            products = Product.objects.order_by('title')
+        elif order_by == 'title_reverse':
+            products = Product.objects.order_by('-title')
+        elif order_by == 'store':
+            products = Product.objects.order_by('store')
+        else:
+            products = Product.objects.order_by('-screen_resolution')
 
         if title:
             products = products.filter(title__icontains=title)

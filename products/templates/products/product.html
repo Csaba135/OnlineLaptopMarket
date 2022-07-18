@@ -26,7 +26,7 @@
     <p><strong>Screen resolution:</strong> {{product.screen_resolution}}</p>
 {% endif%}
 {% if not user.is_authenticated %}
-    <form method="post" action="{%url 'products:product_details' product.id %}">
+    <form method="post" >
         {% csrf_token %}
             {{form1|crispy}}
         <input type="submit" value="Get product notification" />
@@ -35,7 +35,7 @@
 {%elif w %}
 <form method="post" action="{%url 'products:product_details' product.id %}">
     {% csrf_token %}
-        {{form2|crispy}}
+        {{wishlist_form|crispy}}
     <input type="submit" value="Save product to your wishlist" />
 </form>
 {{ form.errors }}

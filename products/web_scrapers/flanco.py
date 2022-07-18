@@ -1,23 +1,18 @@
 import time
-import json
 import os
 import requests
 import uuid
 from django.conf import settings
 from selenium import webdriver
 from PIL import Image
-from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.chrome.service import Service
-from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.common.by import By
-from selenium.webdriver.common.action_chains import ActionChains
 from webdriver_manager.chrome import ChromeDriverManager
-from selenium.webdriver.support import expected_conditions as EC
-from .evomag import Evomag
+from .evomag import evomag
 from .price_to_float import get_price_from_string, get_normal_price_from_string
 
-def Flanco():
-    data=Evomag()
+def flanco():
+    data = evomag()
     driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
     driver.get('https://www.flanco.ro/laptop-it-tablete/laptop.html')
     time.sleep(5)
@@ -100,7 +95,6 @@ def Flanco():
             driver.close()
             driver.switch_to.window(driver.window_handles[0])
             data.append(laptop_data)
-            print(index)
         except:
             pass
     driver.close()

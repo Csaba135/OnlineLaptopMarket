@@ -1,7 +1,5 @@
-from django.shortcuts import render
-from django.http import HttpResponse
-from products.models import Product, Store, WishList, NotificationAboutProduct
-from django.shortcuts import render, Http404, get_object_or_404, redirect, reverse, HttpResponseRedirect
+from products.models import Product, WishList
+from django.shortcuts import render, Http404, get_object_or_404, redirect, reverse
 from django.core.paginator import Paginator
 from products.forms import NotificationForm, WishListForm, FilterForm
 
@@ -42,29 +40,46 @@ def get_product(request, product_id):
             w = True
     except:
         w = False
+    try:
+        l = Like.objects.filter(product=product).filter(user=user)
+        if l.exists():
+            l = False
+        else:
+            l = True
+    except:
+        l = False
+    try:
+        d = Dislike.objects.filter(product=product).filter(user=user)
+        if d.exists():
+            d = False
+        else:
+            d = True
+    except:
+        d = False
     if request.method == 'GET':
         form1 = NotificationForm(product=product)
-        form2 = WishListForm(user=user, product=product)
+        wishlist_form = WishListForm(user=user, product=product)
     else:
         form1 = NotificationForm(request.POST, product=product)
         try:
-            form2 = WishListForm(request.POST, user=user, product=product)
+            wishlist_form = WishListForm(request.POST, user=user, product=product)
         except:
             pass
         if form1.is_valid():
             form1.save()
+            return redirect(reverse('products:all_products'))
         try:
-            if form2.is_valid():
-                form2.save()
+            if wishlist_form.is_valid():
+                wishlist_form.save()
             return redirect(reverse('products:wishlist'))
         except:
             pass
     return render(request, 'products/product.html', {
         'product': product,
         'form1':form1,
-        'form2':form2,
+        'wishlist_form':wishlist_form,
         'w': w,
-        'wishlisted':wishlisted
+        'wishlisted':wishlisted,
     })
 
 def wishlist(request):

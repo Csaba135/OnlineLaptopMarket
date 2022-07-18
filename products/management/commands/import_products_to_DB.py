@@ -1,23 +1,17 @@
-import os
-import json
-import shutil
-
-from django.conf import settings
-from django.core.management.base import BaseCommand, CommandError
-from django.db import transaction, models
-from products.models import Product, Store, WishList, NotificationAboutProduct
-from django.contrib.auth.models import User
-from .send_mail_extension import SendMailCheaper, SendMailExpensive, SendMailSamePrice
-from .helpers_extension import CreateJsonList, CreateDBList, GetMagasineID, GetEmailList
+from django.core.management.base import BaseCommand
+from django.db import transaction
+from products.models import Product, Store
+from .send_mail_extension import send_mail_expensive,send_mail_same_price,send_mail_cheaper
+from .helpers_extension import create_DB_list, create_json_list, get_email_list, get_magasineID
 
 class Command(BaseCommand):
     help = 'Import products from web scrapped application.'
 
     def handle(self, *args, **options):
 
-        magasines_with_products=CreateJsonList('all products')
-        products_in_json=CreateJsonList('json_products')
-        products_in_db=CreateDBList()
+        magasines_with_products=create_json_list('all products')
+        products_in_json=create_json_list('json_products')
+        products_in_db=create_DB_list()
 
         for product_difference in products_in_db:
             if product_difference not in products_in_json:
@@ -35,24 +29,24 @@ class Command(BaseCommand):
                 except Store.DoesNotExist:
                     store = Store(name=product['magasine'])
                     store.save()
-                magasine_id = GetMagasineID(product["magasine"])
+                magasine_id = get_magasineID(product["magasine"])
                 if Product.objects.filter(title=specs['title']).filter(store_id=magasine_id).exists():
                     for product_title in products_in_db:
                         if specs['title'] == product_title:
                             product=Product.objects.filter(title=specs['title']).filter(store_id=magasine_id)
                             for p in product:
                                 if float(p.price_to_compare) > float(specs['price']):
-                                    email_list = list(GetEmailList(p.product_id))
+                                    email_list = list(get_email_list(p.product_id))
                                     if email_list:
-                                        SendMailCheaper(specs['price'], specs['title'],  email_list)
+                                        send_mail_cheaper(specs['price'], specs['title'],  email_list)
                                 elif float(p.price_to_compare) < float(specs['price']):
-                                    email_list = list(GetEmailList(p.product_id))
+                                    email_list = list(get_email_list(p.product_id))
                                     if email_list:
-                                        SendMailExpensive(specs['price'], specs['title'], email_list)
+                                        send_mail_expensive(specs['price'], specs['title'], email_list)
                                 else:
-                                    email_list = list(GetEmailList(p.product_id))
+                                    email_list = list(get_email_list(p.product_id))
                                     if email_list:
-                                        SendMailSamePrice(specs['price'], specs['title'], email_list)
+                                        send_mail_same_price(specs['price'], specs['title'], email_list)
                             my_object = Product.objects.get(id=p.product_id)
                             my_object.price = specs['price']
                             my_object.normal_price = normal_price_if_exist

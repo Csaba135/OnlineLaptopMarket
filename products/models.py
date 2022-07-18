@@ -1,5 +1,4 @@
 from django.db import models
-from users.models import Customer
 from django.conf import settings
 
 class Store(models.Model):

@@ -1,23 +1,18 @@
 import time
-import json
 import os
 import requests
 import uuid
 from django.conf import settings
 from selenium import webdriver
 from PIL import Image
-from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.chrome.service import Service
-from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.common.by import By
-from selenium.webdriver.common.action_chains import ActionChains
 from webdriver_manager.chrome import ChromeDriverManager
-from selenium.webdriver.support import expected_conditions as EC
-from .emag import Emag
+from .emag import emag
 from .price_to_float import get_price_from_string, get_normal_price_from_string
 
-def Evomag():
-    data=Emag()
+def evomag():
+    data = emag()
     driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
     driver.get('https://www.evomag.ro/portabile-laptopuri-notebook/')
     time.sleep(1)
@@ -37,7 +32,7 @@ def Evomag():
     laptops = driver.find_elements(By.XPATH, '//div[contains(@class,"nice_product_item")]')
     for index, laptop in enumerate(laptops):
         try:
-            link=driver.find_element(By.XPATH,'/html/body/div[4]/div[4]/div[1]/div/div[2]/div[3]/div[6]/div['+str(index + 1)+']/div/div[3]/h2/a').get_attribute('href')
+            link=driver.find_element(By.XPATH,'/html/body/div[5]/div[4]/div[1]/div/div[2]/div[3]/div[6]/div['+str(index + 1)+']/div/div[3]/h2/a').get_attribute('href')
             driver.execute_script(f"window.open(\"{link}\")")
             driver.switch_to.window(driver.window_handles[-1])
             time.sleep(2)
@@ -113,7 +108,6 @@ def Evomag():
             driver.switch_to.window(driver.window_handles[0])
             time.sleep(1)
             data.append(laptop_data)
-            print(index)
         except:
             pass
     driver.close()

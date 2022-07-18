@@ -1,6 +1,5 @@
 from django.core.management.base import BaseCommand
 import os
-import MySQLdb as mdb
 
 class Command(BaseCommand):
     help = 'Before web scraping you need to empty the json and the media/products folder'

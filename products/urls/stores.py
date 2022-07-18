@@ -1,4 +1,4 @@
-from django.urls import path, include
+from django.urls import path
 from products.views.stores import get_all_stores, get_products_from_store
 
 app_name = 'stores'

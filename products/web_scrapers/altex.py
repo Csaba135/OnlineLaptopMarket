@@ -1,5 +1,4 @@
 import time
-import json
 import os
 import requests
 import uuid
@@ -8,14 +7,13 @@ from selenium import webdriver
 from PIL import Image
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.chrome.service import Service
-from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.common.by import By
-from selenium.webdriver.common.action_chains import ActionChains
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.support import expected_conditions as EC
 from .price_to_float import get_price_from_string, get_normal_price_from_string
 
-def Altex():
+
+def altex():
     driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
     driver.get('https://altex.ro/')
     accepta_button = driver.find_element(By.XPATH, '//span[text()="Accepta"]')
@@ -112,7 +110,6 @@ def Altex():
             driver.back()
             time.sleep(1)
             data.append(laptop_data)
-            print(index)
         except:
             pass
     driver.close()

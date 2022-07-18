@@ -1,5 +1,4 @@
-from .media_galaxy import MediaGalaxy
-#from .pc_garage import PcGarage
+from .media_galaxy import mediagalaxy
 
 def run_scrapers():
-    MediaGalaxy()
+    mediagalaxy()
