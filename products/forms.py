@@ -45,20 +45,20 @@ class WishListForm(forms.ModelForm):
 
 class FilterForm(forms.Form):
     order_by_choices = (
+        ('title', 'Title'),
         ('price_asc', 'Price ascending'),
         ('price_desc', 'Price descending'),
-        ('title', 'Title'),
         ('title_reverse', 'Title Reverse'),
         ('store', 'Store'),
         ('screen', 'Screen'),
     )
+    title = forms.CharField(max_length=255, required=False)
+    price_min = forms.IntegerField(min_value=0, required=False)
+    price_max = forms.IntegerField(min_value=0, required=False)
     stores = forms.MultipleChoiceField(widget=forms.CheckboxSelectMultiple, required=False, choices=(
         (store.id, store.name)
         for store in Store.objects.all()
     ))
-    title = forms.CharField(max_length=255, required=False)
-    price_min = forms.IntegerField(min_value=0, required=False)
-    price_max = forms.IntegerField(min_value=0, required=False)
     order_by = forms.ChoiceField(widget=forms.Select, choices=order_by_choices, required=False)
 
     def get_results(self):

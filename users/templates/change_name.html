@@ -1,9 +1,8 @@
 {% extends 'base.html' %}
 {% load crispy_forms_tags %}
 {% block title %}Customer{% endblock %}
-
 {% block content %}
-<form method="post" action="{%url 'users:change_first_last_name'%}">
+<form method="post" action="{%url 'users:customer'%}">
     {% csrf_token %}
     {{ form2|crispy }}
     <input type="submit" value="Change" />

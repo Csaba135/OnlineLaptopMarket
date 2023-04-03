@@ -2,37 +2,98 @@
 <head>
     <title>{% block page_title %}{% endblock %}</title>
     <style>
-        body {
-            margin: 0;
-        }
+    body {
+        margin: 0;
+    }
 
-        header {
-            background-color: #eee;
-            border-bottom: 1px solid #aaa;
-            padding: 20px 20px;
-        }
+    header {
+        background-color: #eee;
+        border-bottom: 1px solid #aaa;
+        padding: 20px 20px;
+    }
 
-        main {
-            padding: 20px 20px;
-        }
+    main {
+        padding: 20px 20px;
+    }
 
-        .actions-feedback .success {
-            color: green;
-        }
+    .actions-feedback .success {
+        color: green;
+    }
 
-        .actions-feedback .error {
-            color: red;
-        }
+    .actions-feedback .error {
+        color: red;
+    }
 
-        .actions-feedback .warning {
-            color: orange;
-        }
+    .actions-feedback .warning {
+        color: orange;
+    }
+    .navi {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      background-color: #333;
+    }
+
+    .li1 {
+      float: left;
+      border-right:1px solid #bbb;
+    }
+
+    .li4 {
+      float: right;
+      border-right:1px solid #bbb;
+    }
+
+
+    .li2 a {
+      display: block;
+      color: white;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+    }
+
+    .li3 a:hover:not(.active) {
+      background-color: #111;
+    }
+
+    .active {
+      background-color: #04AA6D;
+    }
+     .head{
+       font-family: "Arial Black", sans-serif;
+       font-size: 4.5em;
+       letter-spacing: -1px;
+       background-color: black;
+       color: white;
+       text-align:center
+    }
     </style>
 </head>
 <body>
 <header>
     <div>
-        {% include 'navigation.html' %}
+        <h1 class="head">Online Laptop Market</h1>
+        <nav >
+            <div>
+                <ul class="navi">
+                    <li class="li1 li2 li3"><a href="/">Homepage</a></li>
+                    <li class="li1 li2 li3"><a href="{% url 'products:all_products' %}">Products</a></li>
+                    <li class="li1 li2 li3"><a href="{% url 'stores:all_stores' %}">Stores</a></li>
+                    {% if user.is_authenticated %}
+                        {% if user.is_staff %}
+                        <li class="li1 li2 li4"><a href={% url 'admin:index' %}>Admin</a></li>
+                        {% endif %}
+                        <li class="li1 li2 li4"><a href="{% url 'users:logout' %}">Logout</a></li>
+                        <li class="li1 li2 li4"><a href="{% url 'users:customer' %}">Customer page</a></li>
+                    {% else %}
+                    <li class="li1 li2 li4"><a href="{% url 'users:login' %}">Login</a></li>
+                    <li class="li1 li2 li4"><a href="{% url 'users:register' %}">Register</a></li>
+                    {% endif %}
+                </ul>
+            </div>
+        </nav>
     </div>
 </header>
 <main>

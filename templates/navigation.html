@@ -1,17 +1,19 @@
-<nav style="display: flex; justify-content: space-between">
+<nav >
     <div>
-        <a href="/">Homepage</a>
-        <h1><a href="{% url 'products:all_products' %}">Products</a></h1>
-        <h1><a href="{% url 'stores:all_stores' %}">Stores</a></h1>
-        {% if user.is_authenticated %}
-            {% if user.is_staff %}
-            <h3><a href={% url 'admin:index' %}>Admin</a></h3>
+        <ul>
+            <li><a href="/">Homepage</a></li>
+            <li><a href="{% url 'products:all_products' %}">Products</a></li>
+            <li><a href="{% url 'stores:all_stores' %}">Stores</a></li>
+            {% if user.is_authenticated %}
+                {% if user.is_staff %}
+                <li><a href={% url 'admin:index' %}>Admin</a></li>
+                {% endif %}
+                <li><a href="{% url 'users:logout' %}">Logout</a></li>
+                <li><a href="{% url 'users:customer' %}">Customer page</a></li>
+            {% else %}
+            <li><a href="{% url 'users:login' %}">Login</a></li>
+            <li><a href="{% url 'users:register' %}">Register</a></li>
             {% endif %}
-            <h3><a href="{% url 'users:logout' %}">Logout</a></h3>
-            <h3><a href="{% url 'users:customer' %}">Customer page</a></h3>
-        {% else %}
-        <h3><a href="{% url 'users:login' %}">Login</a></h3>
-        <h3><a href="{% url 'users:register' %}">Register</a></h3>
-        {% endif %}
+        </ul>
     </div>
 </nav>
