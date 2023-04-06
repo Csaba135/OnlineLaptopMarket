@@ -2,7 +2,77 @@
 {% block page_title %}Homepage{% endblock %}
 {% block content %}
 {% if wishlist%}
-<h3><a href="{% url 'products:wishlist'%}">Wishlist ({{wishlist}})</a></h3>
+<style>
+    body {
+        margin: 0;
+        background-color: #969696;
+    }
+
+    header {
+        background-color: #B4B4B4;
+        border-bottom: 1px solid #aaa;
+        padding: 20px 20px;
+    }
+
+    main {
+        padding: 20px 20px;
+    }
+
+    .actions-feedback .success {
+        color: green;
+    }
+
+    .actions-feedback .error {
+        color: red;
+    }
+
+    .actions-feedback .warning {
+        color: orange;
+    }
+    .navi {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      background-color: #333;
+    }
+
+    .li1 {
+      float: left;
+      border-right:1px solid #bbb;
+    }
+
+    .li4 {
+      float: right;
+      border-right:1px solid #bbb;
+    }
+
+
+    .li2 a {
+      display: block;
+      color: white;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+    }
+
+    .li3 a:hover:not(.active) {
+      background-color: #111;
+    }
+
+    .active {
+      background-color: #04AA6D;
+    }
+     .head{
+       font-family: "Arial Black", sans-serif;
+       font-size: 4.5em;
+       letter-spacing: -1px;
+       background-color: black;
+       color: #B4B4B4;
+       text-align:center
+    }
+</style>
+<ul class="li1 li2"><a href="{% url 'products:wishlist'%}">Wishlist ({{wishlist}})</a></ul>
 {%endif%}
 <h1>This is the homepage content.</h1>
 <h4>Some of our products:</h4>

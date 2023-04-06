@@ -4,7 +4,7 @@
 {% block content %}
 <form method="post" action="{%url 'users:customer'%}">
     {% csrf_token %}
-    {{ form2|crispy }}
+    {{ form1|crispy }}
     <input type="submit" value="Change" />
 </form>
 {%endblock%}

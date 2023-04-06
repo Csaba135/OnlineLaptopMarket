@@ -1,4 +1,10 @@
 {% load crispy_forms_tags %}
+    <style>
+    body {
+        margin: 0;
+        background-color: #969696;
+    }
+    </style>
 <h1>Product Page</h1>
 <h3><a href="{% url 'homepage' %}">Homepage</a></h3>
 <img src="{{ product.image_url }}" width="200"/>
