@@ -8,7 +8,7 @@
                 <p>
                     <strong>Name:</strong> {{ store.name }}
                 </p>
-                    <img src="{{ store.logo_url }}" width="100"/>
+                <a href="{% url 'stores:all_products_from_store' store.id %}"><img src="{{ store.logo_url }}" width="100"/></a>
                 <h5><a href="{% url 'stores:all_products_from_store' store.id %}">View all products from this store</a></h5>
                 <br><br><br>
             </ul>

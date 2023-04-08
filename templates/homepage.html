@@ -1,7 +1,6 @@
 {% extends 'base.html' %}
 {% block page_title %}Homepage{% endblock %}
 {% block content %}
-{% if wishlist%}
 <style>
     body {
         margin: 0;
@@ -72,6 +71,7 @@
        text-align:center
     }
 </style>
+{% if wishlist%}
 <ul class="li1 li2"><a href="{% url 'products:wishlist'%}">Wishlist ({{wishlist}})</a></ul>
 {%endif%}
 <h1>This is the homepage content.</h1>
