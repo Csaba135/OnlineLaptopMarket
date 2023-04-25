@@ -10,5 +10,5 @@ def homepage(request):
         wishlist = False
     return render(request, 'homepage.html', {
         "products": products,
-        "wishlist":wishlist
+        "wishlist": wishlist
     })

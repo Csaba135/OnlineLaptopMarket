@@ -40,22 +40,7 @@ def get_product(request, product_id):
             w = True
     except:
         w = False
-    try:
-        l = Like.objects.filter(product=product).filter(user=user)
-        if l.exists():
-            l = False
-        else:
-            l = True
-    except:
-        l = False
-    try:
-        d = Dislike.objects.filter(product=product).filter(user=user)
-        if d.exists():
-            d = False
-        else:
-            d = True
-    except:
-        d = False
+
     if request.method == 'GET':
         form1 = NotificationForm(product=product)
         wishlist_form = WishListForm(user=user, product=product)
@@ -81,6 +66,22 @@ def get_product(request, product_id):
         'w': w,
         'wishlisted':wishlisted,
     })
+    # try:
+    #     l = Like.objects.filter(product=product).filter(user=user)
+    #     if l.exists():
+    #         l = False
+    #     else:
+    #         l = True
+    # except:
+    #     l = False
+    # try:
+    #     d = Dislike.objects.filter(product=product).filter(user=user)
+    #     if d.exists():
+    #         d = False
+    #     else:
+    #         d = True
+    # except:
+    #     d = False
 
 def wishlist(request):
     user=request.user
